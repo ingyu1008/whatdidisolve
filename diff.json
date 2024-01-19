@@ -1,3 +1,13 @@
 {
-	"problems": []
+	"problems": [
+		{
+			"id": 26350,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Good Coin Denomination",
+			"solved_count": 373,
+			"average_try": 1.9357
+		}
+	]
 }

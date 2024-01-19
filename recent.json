@@ -1,6 +1,16 @@
 {
 	"problems": [
 		{
+			"id": 26350,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Good Coin Denomination",
+			"solved_count": 373,
+			"average_try": 1.9357,
+			"update_date": "Fri Jan 19 21:33:03 2024"
+		},
+		{
 			"id": 27315,
 			"level": 15,
 			"level_locked": 0,
@@ -91,5 +101,5 @@
 			"update_date": "Sat Jan 20 05:51:17 2024"
 		}
 	],
-	"last_updated": "Fri Jan 19 21:30:58 2024"
+	"last_updated": "Fri Jan 19 21:33:03 2024"
 }
