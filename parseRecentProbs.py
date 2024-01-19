@@ -10,6 +10,8 @@ if __name__ == "__main__":
     recent = Database()
     recent.readDB("recent.json")
 
+    recent.DB["problems"] = sorted(recent.DB["problems"], key=lambda x: x["update_date"], reverse=True)[:20]
+
     with open("readme.md", "w", encoding="utf-8") as f:
         f.write("| 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |\n")
         f.write("| --- | --- | --- | --- |\n")
