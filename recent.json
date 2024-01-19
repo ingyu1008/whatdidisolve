@@ -1,0 +1,95 @@
+{
+	"problems": [
+		{
+			"id": 27315,
+			"level": 15,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud2c0\ub9ac\ub294 \uac74 \uc2eb\uc73c\ub2c8\uae4c \uc26c\uc6b4 \ubb38\uc81c\uc5d0 \uc62c\uc778\ud558\ub824\uace0 \ud569\ub2c8\ub2e4",
+			"solved_count": 75,
+			"average_try": 3.96,
+			"update_date": "Sat Jan 20 05:51:17 2024"
+		},
+		{
+			"id": 25368,
+			"level": 13,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc0ac\uacfc\ub97c \ub354 \ub9ce\uc774 \uba39\uc790",
+			"solved_count": 11,
+			"average_try": 1.6364,
+			"update_date": "Sat Jan 20 05:51:17 2024"
+		},
+		{
+			"id": 24313,
+			"level": 6,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc54c\uace0\ub9ac\uc998 \uc218\uc5c5 - \uc810\uadfc\uc801 \ud45c\uae30 1",
+			"solved_count": 6430,
+			"average_try": 2.9285,
+			"update_date": "Sat Jan 20 05:51:17 2024"
+		},
+		{
+			"id": 16404,
+			"level": 18,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc8fc\uc2dd\ud68c\uc0ac \uc2b9\ubc94\uc774\ub124",
+			"solved_count": 753,
+			"average_try": 1.7158,
+			"update_date": "Sat Jan 20 05:51:17 2024"
+		},
+		{
+			"id": 14618,
+			"level": 13,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ucd1d\uae61 \ucd1d\uae61",
+			"solved_count": 183,
+			"average_try": 3.1148,
+			"update_date": "Sat Jan 20 05:51:17 2024"
+		},
+		{
+			"id": 7579,
+			"level": 13,
+			"level_locked": 1,
+			"solvable": 1,
+			"title": "\uc571",
+			"solved_count": 6795,
+			"average_try": 2.9089,
+			"update_date": "Sat Jan 20 05:51:17 2024"
+		},
+		{
+			"id": 2605,
+			"level": 4,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc904 \uc138\uc6b0\uae30",
+			"solved_count": 7466,
+			"average_try": 1.4412,
+			"update_date": "Sat Jan 20 05:51:17 2024"
+		},
+		{
+			"id": 2473,
+			"level": 13,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc138 \uc6a9\uc561",
+			"solved_count": 5952,
+			"average_try": 3.7213,
+			"update_date": "Sat Jan 20 05:51:17 2024"
+		},
+		{
+			"id": 1562,
+			"level": 15,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uacc4\ub2e8 \uc218",
+			"solved_count": 4554,
+			"average_try": 1.9625,
+			"update_date": "Sat Jan 20 05:51:17 2024"
+		}
+	],
+	"last_updated": "Sat Jan 20 06:00:11 2024"
+}
