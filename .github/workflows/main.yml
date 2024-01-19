@@ -5,7 +5,7 @@ name: Auto Update Database
 # Controls when the action will run.
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/30 * * * *'
   push:
     branches: [master]
   #allows manual run
