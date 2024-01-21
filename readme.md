@@ -1,5 +1,7 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 9411 | [실수 계산](https://www.acmicpc.net/problem/9411) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 01. 21.  |
+| 2715 | [상범 마법 팬케이크 하우스](https://www.acmicpc.net/problem/2715) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 01. 21.  |
 | 23793 | [두 단계 최단 경로 1](https://www.acmicpc.net/problem/23793) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 01. 20.  |
 | 8901 | [화학 제품](https://www.acmicpc.net/problem/8901) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 01. 20.  |
 | 27315 | [틀리는 건 싫으니까 쉬운 문제에 올인하려고 합니다](https://www.acmicpc.net/problem/27315) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 01. 20.  |

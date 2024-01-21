@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1658,
+		"total_problems": 1660,
 		"total_page": 1,
 		"problems": [
 			{
@@ -3146,6 +3146,15 @@
 				"average_try": 1.3162
 			},
 			{
+				"id": 2715,
+				"level": 12,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc0c1\ubc94 \ub9c8\ubc95 \ud32c\ucf00\uc774\ud06c \ud558\uc6b0\uc2a4",
+				"solved_count": 29,
+				"average_try": 1.7931
+			},
+			{
 				"id": 2718,
 				"level": 15,
 				"level_locked": 0,
@@ -3975,7 +3984,7 @@
 			},
 			{
 				"id": 3408,
-				"level": 22,
+				"level": 21,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Non-boring sequences",
@@ -5763,6 +5772,15 @@
 				"title": "\ud328\uc158\uc655 \uc2e0\ud574\ube48",
 				"solved_count": 17214,
 				"average_try": 1.8152
+			},
+			{
+				"id": 9411,
+				"level": 13,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc2e4\uc218 \uacc4\uc0b0",
+				"solved_count": 61,
+				"average_try": 3.8033
 			},
 			{
 				"id": 9426,
@@ -14928,5 +14946,5 @@
 			}
 		]
 	},
-	"last_updated": "Sun Jan 21 06:13:17 2024"
+	"last_updated": "Sun Jan 21 12:17:55 2024"
 }
