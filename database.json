@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1668,
+		"total_problems": 1669,
 		"total_page": 1,
 		"problems": [
 			{
@@ -14513,6 +14513,15 @@
 				"average_try": 1.1851
 			},
 			{
+				"id": 28457,
+				"level": 15,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Every? Only One's Marble",
+				"solved_count": 99,
+				"average_try": 6.0404
+			},
+			{
 				"id": 28490,
 				"level": 2,
 				"level_locked": 0,
@@ -14986,8 +14995,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc0ac\uaca9",
-				"solved_count": 50,
-				"average_try": 3.88
+				"solved_count": 61,
+				"average_try": 4.1148
 			},
 			{
 				"id": 31266,
@@ -14995,8 +15004,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucd95\uad6c \ub300\ud68c",
-				"solved_count": 18,
-				"average_try": 2.2222
+				"solved_count": 19,
+				"average_try": 2.2105
 			},
 			{
 				"id": 31267,
@@ -15004,19 +15013,19 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc2dc\uac04 \uc678 \uadfc\ubb34 \uba48\ucdb0!!!",
-				"solved_count": 7,
-				"average_try": 2
+				"solved_count": 8,
+				"average_try": 2.125
 			},
 			{
 				"id": 31268,
-				"level": 19,
+				"level": 18,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubb3c\uc790 \uc870\ub2ec",
-				"solved_count": 7,
-				"average_try": 3.4286
+				"solved_count": 10,
+				"average_try": 3.1
 			}
 		]
 	},
-	"last_updated": "Mon Jan 22 12:20:14 2024"
+	"last_updated": "Mon Jan 22 18:13:31 2024"
 }

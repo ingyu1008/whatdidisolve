@@ -19,4 +19,4 @@
 | 2605 | [줄 세우기](https://www.acmicpc.net/problem/2605) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> | 2024. 01. 20.  |
 | 2473 | [세 용액](https://www.acmicpc.net/problem/2473) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 01. 20.  |
 | 1562 | [계단 수](https://www.acmicpc.net/problem/1562) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 01. 20.  |
-| 29769 | [음악회](https://www.acmicpc.net/problem/29769) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/19.svg"/> | 2024. 01. 22.  |
+| 28457 | [Every? Only One's Marble](https://www.acmicpc.net/problem/28457) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 01. 22.  |
