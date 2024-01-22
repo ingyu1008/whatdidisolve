@@ -1,6 +1,16 @@
 {
 	"problems": [
 		{
+			"id": 29769,
+			"level": 19,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc74c\uc545\ud68c",
+			"solved_count": 27,
+			"average_try": 2.7407,
+			"update_date": "Mon Jan 22 12:20:14 2024"
+		},
+		{
 			"id": 31266,
 			"level": 17,
 			"level_locked": 0,
@@ -211,5 +221,5 @@
 			"update_date": "Sat Jan 20 05:51:17 2024"
 		}
 	],
-	"last_updated": "Mon Jan 22 06:14:58 2024"
+	"last_updated": "Mon Jan 22 12:20:14 2024"
 }

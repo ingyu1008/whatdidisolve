@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1667,
+		"total_problems": 1668,
 		"total_page": 1,
 		"problems": [
 			{
@@ -14648,6 +14648,15 @@
 				"average_try": 1.4259
 			},
 			{
+				"id": 29769,
+				"level": 19,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc74c\uc545\ud68c",
+				"solved_count": 27,
+				"average_try": 2.7407
+			},
+			{
 				"id": 29790,
 				"level": 2,
 				"level_locked": 0,
@@ -14986,8 +14995,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucd95\uad6c \ub300\ud68c",
-				"solved_count": 17,
-				"average_try": 2.2353
+				"solved_count": 18,
+				"average_try": 2.2222
 			},
 			{
 				"id": 31267,
@@ -15004,10 +15013,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubb3c\uc790 \uc870\ub2ec",
-				"solved_count": 6,
-				"average_try": 3.8333
+				"solved_count": 7,
+				"average_try": 3.4286
 			}
 		]
 	},
-	"last_updated": "Mon Jan 22 06:14:58 2024"
+	"last_updated": "Mon Jan 22 12:20:14 2024"
 }
