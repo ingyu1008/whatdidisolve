@@ -19,4 +19,4 @@
 | 2605 | [줄 세우기](https://www.acmicpc.net/problem/2605) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> | 2024. 01. 20.  |
 | 2473 | [세 용액](https://www.acmicpc.net/problem/2473) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 01. 20.  |
 | 1562 | [계단 수](https://www.acmicpc.net/problem/1562) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 01. 20.  |
-| 26350 | [Good Coin Denomination](https://www.acmicpc.net/problem/26350) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 01. 19.  |
+| 31266 | [축구 대회](https://www.acmicpc.net/problem/31266) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> | 2024. 01. 22.  |
