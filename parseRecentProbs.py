@@ -17,7 +17,7 @@ if __name__ == "__main__":
     recent.DB["problems"] = sorted(recent.DB["problems"], key=lambda x: to_integer(x["update_date"]), reverse=True)[:20]
 
     with open("readme.md", "w", encoding="utf-8") as f:
-        f.write(f"올해 푼 문제 수(24. 01. 19 ~): {len(recent.DB["problems"])}")
+        f.write(f"올해 푼 문제 수(24. 01. 19 ~): {len(recent.DB['problems'])}")
         f.write("\n\n")
         f.write("| 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |\n")
         f.write("| --- | --- | --- | --- |\n")
