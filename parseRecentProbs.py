@@ -7,7 +7,7 @@ def parseDate(s : str):
     return datetime.strptime(s, "%a %b %d %H:%M:%S %Y").strftime("%Y. %m. %d. ")
 
 def to_integer(dt_time):
-    date = datetime.strptime(s, "%a %b %d %H:%M:%S %Y")
+    date = datetime.strptime(dt_time, "%a %b %d %H:%M:%S %Y")
     return 10000*date.year + 100*date.month + date.day
 
 if __name__ == "__main__":
