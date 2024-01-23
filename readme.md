@@ -1,7 +1,8 @@
-올해 푼 문제 수: 24
+올해 푼 문제 수: 25
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 5465 | [곰돌이](https://www.acmicpc.net/problem/5465) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 01. 23.  |
 | 27257 | [Любитель нулей](https://www.acmicpc.net/problem/27257) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 01. 23.  |
 | 28457 | [Every? Only One's Marble](https://www.acmicpc.net/problem/28457) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 01. 22.  |
 | 29769 | [음악회](https://www.acmicpc.net/problem/29769) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/19.svg"/> | 2024. 01. 22.  |
@@ -21,4 +22,3 @@
 | 24313 | [알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> | 2024. 01. 20.  |
 | 16404 | [주식회사 승범이네](https://www.acmicpc.net/problem/16404) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> | 2024. 01. 20.  |
 | 14618 | [총깡 총깡](https://www.acmicpc.net/problem/14618) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 01. 20.  |
-| 7579 | [앱](https://www.acmicpc.net/problem/7579) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 01. 20.  |
