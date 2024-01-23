@@ -1,6 +1,9 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
 | 27257 | [Любитель нулей](https://www.acmicpc.net/problem/27257) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 01. 23.  |
+| 28457 | [Every? Only One's Marble](https://www.acmicpc.net/problem/28457) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 01. 22.  |
+| 29769 | [음악회](https://www.acmicpc.net/problem/29769) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/19.svg"/> | 2024. 01. 22.  |
+| 31266 | [축구 대회](https://www.acmicpc.net/problem/31266) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> | 2024. 01. 22.  |
 | 31268 | [물자 조달](https://www.acmicpc.net/problem/31268) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 01. 21.  |
 | 31267 | [시간 외 근무 멈춰!!!](https://www.acmicpc.net/problem/31267) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 01. 21.  |
 | 31264 | [사격](https://www.acmicpc.net/problem/31264) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 01. 21.  |
@@ -17,6 +20,3 @@
 | 16404 | [주식회사 승범이네](https://www.acmicpc.net/problem/16404) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> | 2024. 01. 20.  |
 | 14618 | [총깡 총깡](https://www.acmicpc.net/problem/14618) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 01. 20.  |
 | 7579 | [앱](https://www.acmicpc.net/problem/7579) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 01. 20.  |
-| 2605 | [줄 세우기](https://www.acmicpc.net/problem/2605) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> | 2024. 01. 20.  |
-| 2473 | [세 용액](https://www.acmicpc.net/problem/2473) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 01. 20.  |
-| 1562 | [계단 수](https://www.acmicpc.net/problem/1562) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 01. 20.  |
