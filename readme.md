@@ -1,3 +1,5 @@
+올해 푼 문제 수(24. 01. 19 ~): 20
+
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
 | 27257 | [Любитель нулей](https://www.acmicpc.net/problem/27257) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 01. 23.  |
