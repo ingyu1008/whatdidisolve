@@ -15049,8 +15049,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubcfc\ub85d\ubcfc\ub85d",
-				"solved_count": 32,
-				"average_try": 2.7188
+				"solved_count": 33,
+				"average_try": 2.7576
 			},
 			{
 				"id": 31263,
@@ -15058,8 +15058,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub300\ud55c\ubbfc\uad6d\uc744 \uc9c0\ud0a4\ub294 \uac00\uc7a5 \uae34 \ud798",
-				"solved_count": 124,
-				"average_try": 1.9839
+				"solved_count": 126,
+				"average_try": 2.0238
 			},
 			{
 				"id": 31264,
@@ -15099,5 +15099,5 @@
 			}
 		]
 	},
-	"last_updated": "Wed Jan 24 00:49:03 2024"
+	"last_updated": "Wed Jan 24 06:14:48 2024"
 }
