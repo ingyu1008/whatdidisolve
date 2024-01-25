@@ -1,6 +1,16 @@
 {
 	"problems": [
 		{
+			"id": 15878,
+			"level": 16,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Pineapple Pizza",
+			"solved_count": 36,
+			"average_try": 2.8056,
+			"update_date": "Thu Jan 25 12:19:40 2024"
+		},
+		{
 			"id": 27964,
 			"level": 6,
 			"level_locked": 0,
@@ -361,5 +371,5 @@
 			"update_date": "Sat Jan 20 05:51:17 2024"
 		}
 	],
-	"last_updated": "Thu Jan 25 06:14:17 2024"
+	"last_updated": "Thu Jan 25 12:19:40 2024"
 }
