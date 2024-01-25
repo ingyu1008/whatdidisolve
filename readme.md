@@ -1,7 +1,8 @@
-올해 푼 문제 수: 37
+올해 푼 문제 수: 38
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 20127 | [Y-수열](https://www.acmicpc.net/problem/20127) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 01. 25.  |
 | 15878 | [Pineapple Pizza](https://www.acmicpc.net/problem/15878) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 01. 25.  |
 | 27964 | [콰트로치즈피자](https://www.acmicpc.net/problem/27964) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> | 2024. 01. 24.  |
 | 12738 | [가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | 2024. 01. 24.  |
@@ -21,4 +22,3 @@
 | 31266 | [축구 대회](https://www.acmicpc.net/problem/31266) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> | 2024. 01. 22.  |
 | 31268 | [물자 조달](https://www.acmicpc.net/problem/31268) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 01. 21.  |
 | 31267 | [시간 외 근무 멈춰!!!](https://www.acmicpc.net/problem/31267) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 01. 21.  |
-| 31264 | [사격](https://www.acmicpc.net/problem/31264) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 01. 21.  |
