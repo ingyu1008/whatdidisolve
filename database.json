@@ -15157,8 +15157,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucd95\uad6c \ub300\ud68c",
-				"solved_count": 27,
-				"average_try": 2.2222
+				"solved_count": 28,
+				"average_try": 2.2857
 			},
 			{
 				"id": 31267,
@@ -15180,5 +15180,5 @@
 			}
 		]
 	},
-	"last_updated": "Fri Jan 26 06:13:13 2024"
+	"last_updated": "Fri Jan 26 12:17:15 2024"
 }
