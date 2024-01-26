@@ -1,7 +1,9 @@
-올해 푼 문제 수: 38
+올해 푼 문제 수: 40
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 2418 | [단어 격자](https://www.acmicpc.net/problem/2418) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 01. 26.  |
+| 1286 | [부분 직사각형](https://www.acmicpc.net/problem/1286) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 01. 26.  |
 | 20127 | [Y-수열](https://www.acmicpc.net/problem/20127) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 01. 25.  |
 | 15878 | [Pineapple Pizza](https://www.acmicpc.net/problem/15878) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 01. 25.  |
 | 27964 | [콰트로치즈피자](https://www.acmicpc.net/problem/27964) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> | 2024. 01. 24.  |
@@ -20,5 +22,3 @@
 | 28457 | [Every? Only One's Marble](https://www.acmicpc.net/problem/28457) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 01. 22.  |
 | 29769 | [음악회](https://www.acmicpc.net/problem/29769) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/19.svg"/> | 2024. 01. 22.  |
 | 31266 | [축구 대회](https://www.acmicpc.net/problem/31266) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> | 2024. 01. 22.  |
-| 31268 | [물자 조달](https://www.acmicpc.net/problem/31268) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 01. 21.  |
-| 31267 | [시간 외 근무 멈춰!!!](https://www.acmicpc.net/problem/31267) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 01. 21.  |

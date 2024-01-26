@@ -1,6 +1,26 @@
 {
 	"problems": [
 		{
+			"id": 2418,
+			"level": 11,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub2e8\uc5b4 \uaca9\uc790",
+			"solved_count": 181,
+			"average_try": 2.1657,
+			"update_date": "Fri Jan 26 06:13:13 2024"
+		},
+		{
+			"id": 1286,
+			"level": 11,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ubd80\ubd84 \uc9c1\uc0ac\uac01\ud615",
+			"solved_count": 136,
+			"average_try": 1.6912,
+			"update_date": "Fri Jan 26 06:13:13 2024"
+		},
+		{
 			"id": 20127,
 			"level": 11,
 			"level_locked": 0,
@@ -381,5 +401,5 @@
 			"update_date": "Sat Jan 20 05:51:17 2024"
 		}
 	],
-	"last_updated": "Fri Jan 26 00:44:28 2024"
+	"last_updated": "Fri Jan 26 06:13:13 2024"
 }
