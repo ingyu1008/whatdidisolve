@@ -1,22 +1,3 @@
 {
-	"problems": [
-		{
-			"id": 5022,
-			"level": 15,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc5f0\uacb0",
-			"solved_count": 409,
-			"average_try": 4.9267
-		},
-		{
-			"id": 30190,
-			"level": 12,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc5ec\uc6b0\uc758 \uafc8",
-			"solved_count": 72,
-			"average_try": 2.2917
-		}
-	]
+	"problems": []
 }
