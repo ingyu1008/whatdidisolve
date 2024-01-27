@@ -6900,7 +6900,7 @@
 			},
 			{
 				"id": 10987,
-				"level": 3,
+				"level": 2,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubaa8\uc74c\uc758 \uac1c\uc218",
@@ -15180,7 +15180,7 @@
 			},
 			{
 				"id": 31267,
-				"level": 18,
+				"level": 17,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc2dc\uac04 \uc678 \uadfc\ubb34 \uba48\ucdb0!!!",
@@ -15198,5 +15198,5 @@
 			}
 		]
 	},
-	"last_updated": "Sat Jan 27 06:11:26 2024"
+	"last_updated": "Sat Jan 27 12:15:21 2024"
 }
