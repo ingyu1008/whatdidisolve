@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1688,
+		"total_problems": 1690,
 		"total_page": 1,
 		"problems": [
 			{
@@ -2091,6 +2091,15 @@
 				"title": "\ud0c0\uc77c \ucc44\uc6b0\uae30",
 				"solved_count": 14680,
 				"average_try": 2.7579
+			},
+			{
+				"id": 2137,
+				"level": 12,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uac00\uc7a5 \uac00\uae4c\uc6b4 \ubd84\uc218",
+				"solved_count": 131,
+				"average_try": 2.542
 			},
 			{
 				"id": 2150,
@@ -5394,6 +5403,15 @@
 				"title": "Can you add this?",
 				"solved_count": 4141,
 				"average_try": 1.2099
+			},
+			{
+				"id": 7894,
+				"level": 13,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ud070 \uc218",
+				"solved_count": 605,
+				"average_try": 2.7587
 			},
 			{
 				"id": 8131,
@@ -15175,8 +15193,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucd95\uad6c \ub300\ud68c",
-				"solved_count": 29,
-				"average_try": 2.3103
+				"solved_count": 30,
+				"average_try": 2.3667
 			},
 			{
 				"id": 31267,
@@ -15198,5 +15216,5 @@
 			}
 		]
 	},
-	"last_updated": "Sun Jan 28 06:12:04 2024"
+	"last_updated": "Sun Jan 28 12:15:36 2024"
 }

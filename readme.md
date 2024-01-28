@@ -1,7 +1,9 @@
-올해 푼 문제 수: 42
+올해 푼 문제 수: 44
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 7894 | [큰 수](https://www.acmicpc.net/problem/7894) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 01. 28.  |
+| 2137 | [가장 가까운 분수](https://www.acmicpc.net/problem/2137) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 01. 28.  |
 | 30190 | [여우의 꿈](https://www.acmicpc.net/problem/30190) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 01. 27.  |
 | 5022 | [연결](https://www.acmicpc.net/problem/5022) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 01. 27.  |
 | 2418 | [단어 격자](https://www.acmicpc.net/problem/2418) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 01. 26.  |
@@ -20,5 +22,3 @@
 | 1244 | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> | 2024. 01. 23.  |
 | 1049 | [기타줄](https://www.acmicpc.net/problem/1049) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> | 2024. 01. 23.  |
 | 5465 | [곰돌이](https://www.acmicpc.net/problem/5465) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 01. 23.  |
-| 27257 | [Любитель нулей](https://www.acmicpc.net/problem/27257) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 01. 23.  |
-| 28457 | [Every? Only One's Marble](https://www.acmicpc.net/problem/28457) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 01. 22.  |
