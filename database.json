@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1692,
+		"total_problems": 1694,
 		"total_page": 1,
 		"problems": [
 			{
@@ -9176,6 +9176,15 @@
 				"average_try": 3.1702
 			},
 			{
+				"id": 14619,
+				"level": 13,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc12c \uc5ec\ud589",
+				"solved_count": 161,
+				"average_try": 3.4286
+			},
+			{
 				"id": 14621,
 				"level": 13,
 				"level_locked": 0,
@@ -9975,6 +9984,15 @@
 				"title": "\uc218\ucc2c\uc740 \ub9c8\ub9b0\ubcf4\uc774\uc57c!!",
 				"solved_count": 1877,
 				"average_try": 1.8077
+			},
+			{
+				"id": 15931,
+				"level": 12,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ud480 \ud558\uc6b0\uc2a4",
+				"solved_count": 24,
+				"average_try": 5.3333
 			},
 			{
 				"id": 15953,
@@ -15193,8 +15211,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc0ac\uaca9",
-				"solved_count": 90,
-				"average_try": 4.4556
+				"solved_count": 93,
+				"average_try": 4.6344
 			},
 			{
 				"id": 31266,
@@ -15202,8 +15220,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucd95\uad6c \ub300\ud68c",
-				"solved_count": 32,
-				"average_try": 2.2813
+				"solved_count": 33,
+				"average_try": 2.2424
 			},
 			{
 				"id": 31267,
@@ -15234,5 +15252,5 @@
 			}
 		]
 	},
-	"last_updated": "Tue Jan 30 06:13:49 2024"
+	"last_updated": "Tue Jan 30 12:17:00 2024"
 }
