@@ -1,7 +1,8 @@
-올해 푼 문제 수: 48
+올해 푼 문제 수: 49
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 2325 | [개코전쟁](https://www.acmicpc.net/problem/2325) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 01. 31.  |
 | 15931 | [풀 하우스](https://www.acmicpc.net/problem/15931) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 01. 30.  |
 | 14619 | [섬 여행](https://www.acmicpc.net/problem/14619) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 01. 30.  |
 | 2911 | [전화 복구](https://www.acmicpc.net/problem/2911) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 01. 29.  |
@@ -21,4 +22,3 @@
 | 2104 | [부분배열 고르기](https://www.acmicpc.net/problem/2104) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 01. 24.  |
 | 18352 | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> | 2024. 01. 23.  |
 | 15685 | [드래곤 커브](https://www.acmicpc.net/problem/15685) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 01. 23.  |
-| 13913 | [숨바꼭질 4](https://www.acmicpc.net/problem/13913) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 01. 23.  |
