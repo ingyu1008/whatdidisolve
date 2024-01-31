@@ -15202,8 +15202,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub300\ud55c\ubbfc\uad6d\uc744 \uc9c0\ud0a4\ub294 \uac00\uc7a5 \uae34 \ud798",
-				"solved_count": 157,
-				"average_try": 2.1847
+				"solved_count": 158,
+				"average_try": 2.1835
 			},
 			{
 				"id": 31264,
@@ -15247,10 +15247,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc7a5\ub09c\uac10 \uac15\uc544\uc9c0",
-				"solved_count": 169,
-				"average_try": 4.3787
+				"solved_count": 173,
+				"average_try": 4.4335
 			}
 		]
 	},
-	"last_updated": "Wed Jan 31 00:44:00 2024"
+	"last_updated": "Wed Jan 31 06:13:14 2024"
 }
