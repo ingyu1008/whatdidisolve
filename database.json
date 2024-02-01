@@ -15247,8 +15247,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc2dc\uac04 \uc678 \uadfc\ubb34 \uba48\ucdb0!!!",
-				"solved_count": 14,
-				"average_try": 3.7143
+				"solved_count": 15,
+				"average_try": 4.0667
 			},
 			{
 				"id": 31268,
@@ -15270,5 +15270,5 @@
 			}
 		]
 	},
-	"last_updated": "Thu Feb  1 06:13:34 2024"
+	"last_updated": "Thu Feb  1 12:17:46 2024"
 }
