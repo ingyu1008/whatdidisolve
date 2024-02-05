@@ -1,6 +1,16 @@
 {
 	"problems": [
 		{
+			"id": 1760,
+			"level": 18,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "N-Rook",
+			"solved_count": 407,
+			"average_try": 2.3047,
+			"update_date": "Mon Feb  5 06:13:24 2024"
+		},
+		{
 			"id": 14711,
 			"level": 12,
 			"level_locked": 0,
@@ -731,5 +741,5 @@
 			"update_date": "Sat Jan 20 05:51:17 2024"
 		}
 	],
-	"last_updated": "Mon Feb  5 00:45:01 2024"
+	"last_updated": "Mon Feb  5 06:13:24 2024"
 }

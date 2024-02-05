@@ -1,3 +1,13 @@
 {
-	"problems": []
+	"problems": [
+		{
+			"id": 1760,
+			"level": 18,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "N-Rook",
+			"solved_count": 407,
+			"average_try": 2.3047
+		}
+	]
 }
