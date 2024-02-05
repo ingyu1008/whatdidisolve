@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1703,
+		"total_problems": 1723,
 		"total_page": 1,
 		"problems": [
 			{
@@ -14009,6 +14009,15 @@
 				"average_try": 1.2654
 			},
 			{
+				"id": 26340,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Fold the Paper Nicely",
+				"solved_count": 347,
+				"average_try": 1.7983
+			},
+			{
 				"id": 26350,
 				"level": 2,
 				"level_locked": 0,
@@ -14088,6 +14097,15 @@
 				"title": "Reverse",
 				"solved_count": 582,
 				"average_try": 1.1564
+			},
+			{
+				"id": 26560,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Periods",
+				"solved_count": 315,
+				"average_try": 1.2127
 			},
 			{
 				"id": 26561,
@@ -14288,6 +14306,15 @@
 				"average_try": 1.4414
 			},
 			{
+				"id": 27245,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\u041a\u043e\u043c\u043d\u0430\u0442\u0430",
+				"solved_count": 379,
+				"average_try": 1.8391
+			},
+			{
 				"id": 27257,
 				"level": 2,
 				"level_locked": 0,
@@ -14486,6 +14513,15 @@
 				"average_try": 1.2878
 			},
 			{
+				"id": 27590,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Sun and Moon",
+				"solved_count": 373,
+				"average_try": 1.622
+			},
+			{
 				"id": 27724,
 				"level": 9,
 				"level_locked": 0,
@@ -14493,6 +14529,15 @@
 				"title": "\ud31d\ud540 \uc18c\ub2e4",
 				"solved_count": 250,
 				"average_try": 1.74
+			},
+			{
+				"id": 27855,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Cornhole",
+				"solved_count": 342,
+				"average_try": 1.152
 			},
 			{
 				"id": 27866,
@@ -14657,6 +14702,15 @@
 				"average_try": 1.6594
 			},
 			{
+				"id": 28248,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Deliv-e-droid",
+				"solved_count": 375,
+				"average_try": 1.1867
+			},
+			{
 				"id": 28249,
 				"level": 2,
 				"level_locked": 0,
@@ -14819,6 +14873,24 @@
 				"average_try": 1.1384
 			},
 			{
+				"id": 28519,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\u041f\u043b\u0430\u043d\u0435\u0442\u044b \u0434\u0432\u0443\u0445 \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u0439",
+				"solved_count": 266,
+				"average_try": 1.2519
+			},
+			{
+				"id": 28648,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\u0422\u043e\u0440\u0433\u043e\u0432\u044b\u0439 \u0446\u0435\u043d\u0442\u0440",
+				"solved_count": 250,
+				"average_try": 1.16
+			},
+			{
 				"id": 28691,
 				"level": 1,
 				"level_locked": 0,
@@ -14880,6 +14952,24 @@
 				"title": "\u0421\u0447\u0430\u0441\u0442\u044c\u0435 \u041c\u0438\u0441\u0442\u0435\u0440\u0430 \u0411\u0438\u043d\u0430",
 				"solved_count": 782,
 				"average_try": 1.5985
+			},
+			{
+				"id": 29340,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\u041e\u0442\u0440\u044f\u0434",
+				"solved_count": 232,
+				"average_try": 1.181
+			},
+			{
+				"id": 29546,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\u0424\u0430\u0439\u043b\u044b",
+				"solved_count": 196,
+				"average_try": 1.6429
 			},
 			{
 				"id": 29699,
@@ -14972,6 +15062,15 @@
 				"average_try": 1.8805
 			},
 			{
+				"id": 29823,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Pakirobot Manhattanis",
+				"solved_count": 211,
+				"average_try": 1.2844
+			},
+			{
 				"id": 29863,
 				"level": 1,
 				"level_locked": 0,
@@ -14979,6 +15078,15 @@
 				"title": "Arno's Sleep Schedule",
 				"solved_count": 749,
 				"average_try": 1.5848
+			},
+			{
+				"id": 29986,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Amusement Park Adventure",
+				"solved_count": 254,
+				"average_try": 1.1693
 			},
 			{
 				"id": 30007,
@@ -15053,6 +15161,15 @@
 				"average_try": 1.347
 			},
 			{
+				"id": 30067,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Pasl\u0117pta suma",
+				"solved_count": 208,
+				"average_try": 1.3317
+			},
+			{
 				"id": 30087,
 				"level": 1,
 				"level_locked": 0,
@@ -15087,6 +15204,15 @@
 				"title": "Lucky 7",
 				"solved_count": 849,
 				"average_try": 1.2803
+			},
+			{
+				"id": 30319,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Advance to Taoyuan Regional",
+				"solved_count": 191,
+				"average_try": 1.3927
 			},
 			{
 				"id": 30328,
@@ -15143,6 +15269,15 @@
 				"average_try": 1.198
 			},
 			{
+				"id": 30585,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\u041f\u043e\u043f-\u0438\u0442",
+				"solved_count": 204,
+				"average_try": 1.3382
+			},
+			{
 				"id": 30664,
 				"level": 1,
 				"level_locked": 0,
@@ -15159,6 +15294,33 @@
 				"title": "\uc774 \ubcc4\uc740 \ubb34\uc2a8 \uc0c9\uc77c\uae4c",
 				"solved_count": 1347,
 				"average_try": 1.4232
+			},
+			{
+				"id": 30791,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "gahui and sousenkyo 1",
+				"solved_count": 289,
+				"average_try": 1.2457
+			},
+			{
+				"id": 30793,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "gahui and sousenkyo 3",
+				"solved_count": 285,
+				"average_try": 1.1789
+			},
+			{
+				"id": 30794,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uac00\ud76c\uc640 \ud074\ub7fd \uc624\ub514\uc158 1",
+				"solved_count": 387,
+				"average_try": 1.199
 			},
 			{
 				"id": 30868,
@@ -15330,8 +15492,26 @@
 				"title": "\uc7a5\ub09c\uac10 \uac15\uc544\uc9c0",
 				"solved_count": 209,
 				"average_try": 4.7225
+			},
+			{
+				"id": 31306,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Is Y a Vowel?",
+				"solved_count": 193,
+				"average_try": 1.171
+			},
+			{
+				"id": 31403,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "$A + B - C$",
+				"solved_count": 434,
+				"average_try": 1.3295
 			}
 		]
 	},
-	"last_updated": "Mon Feb  5 12:17:49 2024"
+	"last_updated": "Mon Feb  5 18:12:55 2024"
 }

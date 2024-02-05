@@ -1,6 +1,106 @@
 {
 	"problems": [
 		{
+			"id": 31403,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "$A + B - C$",
+			"solved_count": 434,
+			"average_try": 1.3295,
+			"update_date": "Mon Feb  5 18:12:55 2024"
+		},
+		{
+			"id": 31306,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Is Y a Vowel?",
+			"solved_count": 193,
+			"average_try": 1.171,
+			"update_date": "Mon Feb  5 18:12:55 2024"
+		},
+		{
+			"id": 30794,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uac00\ud76c\uc640 \ud074\ub7fd \uc624\ub514\uc158 1",
+			"solved_count": 387,
+			"average_try": 1.199,
+			"update_date": "Mon Feb  5 18:12:55 2024"
+		},
+		{
+			"id": 30793,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "gahui and sousenkyo 3",
+			"solved_count": 285,
+			"average_try": 1.1789,
+			"update_date": "Mon Feb  5 18:12:55 2024"
+		},
+		{
+			"id": 30791,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "gahui and sousenkyo 1",
+			"solved_count": 289,
+			"average_try": 1.2457,
+			"update_date": "Mon Feb  5 18:12:55 2024"
+		},
+		{
+			"id": 30585,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u041f\u043e\u043f-\u0438\u0442",
+			"solved_count": 204,
+			"average_try": 1.3382,
+			"update_date": "Mon Feb  5 18:12:55 2024"
+		},
+		{
+			"id": 30319,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Advance to Taoyuan Regional",
+			"solved_count": 191,
+			"average_try": 1.3927,
+			"update_date": "Mon Feb  5 18:12:55 2024"
+		},
+		{
+			"id": 30067,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Pasl\u0117pta suma",
+			"solved_count": 208,
+			"average_try": 1.3317,
+			"update_date": "Mon Feb  5 18:12:55 2024"
+		},
+		{
+			"id": 29986,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Amusement Park Adventure",
+			"solved_count": 254,
+			"average_try": 1.1693,
+			"update_date": "Mon Feb  5 18:12:55 2024"
+		},
+		{
+			"id": 29823,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Pakirobot Manhattanis",
+			"solved_count": 211,
+			"average_try": 1.2844,
+			"update_date": "Mon Feb  5 18:12:55 2024"
+		},
+		{
 			"id": 1760,
 			"level": 18,
 			"level_locked": 0,
@@ -741,5 +841,5 @@
 			"update_date": "Sat Jan 20 05:51:17 2024"
 		}
 	],
-	"last_updated": "Mon Feb  5 12:17:49 2024"
+	"last_updated": "Mon Feb  5 18:12:55 2024"
 }
