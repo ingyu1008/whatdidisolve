@@ -1,6 +1,16 @@
 {
 	"problems": [
 		{
+			"id": 26612,
+			"level": 18,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "infinite XYZ",
+			"solved_count": 28,
+			"average_try": 2.8571,
+			"update_date": "Tue Feb  6 06:13:25 2024"
+		},
+		{
 			"id": 31403,
 			"level": 2,
 			"level_locked": 0,
@@ -841,5 +851,5 @@
 			"update_date": "Sat Jan 20 05:51:17 2024"
 		}
 	],
-	"last_updated": "Tue Feb  6 00:43:25 2024"
+	"last_updated": "Tue Feb  6 06:13:25 2024"
 }

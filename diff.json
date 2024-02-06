@@ -1,3 +1,13 @@
 {
-	"problems": []
+	"problems": [
+		{
+			"id": 26612,
+			"level": 18,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "infinite XYZ",
+			"solved_count": 28,
+			"average_try": 2.8571
+		}
+	]
 }

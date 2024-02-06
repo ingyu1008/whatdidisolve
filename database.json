@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1723,
+		"total_problems": 1724,
 		"total_page": 1,
 		"problems": [
 			{
@@ -14153,6 +14153,15 @@
 				"average_try": 1.2953
 			},
 			{
+				"id": 26612,
+				"level": 18,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "infinite XYZ",
+				"solved_count": 28,
+				"average_try": 2.8571
+			},
+			{
 				"id": 26645,
 				"level": 3,
 				"level_locked": 0,
@@ -15499,8 +15508,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Is Y a Vowel?",
-				"solved_count": 193,
-				"average_try": 1.171
+				"solved_count": 195,
+				"average_try": 1.1692
 			},
 			{
 				"id": 31403,
@@ -15513,5 +15522,5 @@
 			}
 		]
 	},
-	"last_updated": "Tue Feb  6 00:43:25 2024"
+	"last_updated": "Tue Feb  6 06:13:25 2024"
 }
