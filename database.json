@@ -15508,8 +15508,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Is Y a Vowel?",
-				"solved_count": 201,
-				"average_try": 1.1642
+				"solved_count": 204,
+				"average_try": 1.1618
 			},
 			{
 				"id": 31403,
@@ -15522,5 +15522,5 @@
 			}
 		]
 	},
-	"last_updated": "Wed Feb  7 00:42:16 2024"
+	"last_updated": "Wed Feb  7 06:13:06 2024"
 }
