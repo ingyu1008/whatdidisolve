@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1724,
+		"total_problems": 1726,
 		"total_page": 1,
 		"problems": [
 			{
@@ -6474,6 +6474,15 @@
 				"title": "\ubaa8\ub798\uc131",
 				"solved_count": 1030,
 				"average_try": 3.3175
+			},
+			{
+				"id": 10715,
+				"level": 15,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "JOI \uacf5\uc6d0",
+				"solved_count": 181,
+				"average_try": 2.0331
 			},
 			{
 				"id": 10718,
@@ -13127,6 +13136,15 @@
 				"average_try": 1.2371
 			},
 			{
+				"id": 24235,
+				"level": 19,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc720\uc0b0",
+				"solved_count": 44,
+				"average_try": 6.3182
+			},
+			{
 				"id": 24262,
 				"level": 1,
 				"level_locked": 0,
@@ -15508,8 +15526,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Is Y a Vowel?",
-				"solved_count": 204,
-				"average_try": 1.1618
+				"solved_count": 206,
+				"average_try": 1.1602
 			},
 			{
 				"id": 31403,
@@ -15522,5 +15540,5 @@
 			}
 		]
 	},
-	"last_updated": "Wed Feb  7 06:13:06 2024"
+	"last_updated": "Wed Feb  7 12:17:13 2024"
 }

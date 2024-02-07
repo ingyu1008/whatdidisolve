@@ -1,6 +1,26 @@
 {
 	"problems": [
 		{
+			"id": 24235,
+			"level": 19,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc720\uc0b0",
+			"solved_count": 44,
+			"average_try": 6.3182,
+			"update_date": "Wed Feb  7 12:17:13 2024"
+		},
+		{
+			"id": 10715,
+			"level": 15,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "JOI \uacf5\uc6d0",
+			"solved_count": 181,
+			"average_try": 2.0331,
+			"update_date": "Wed Feb  7 12:17:13 2024"
+		},
+		{
 			"id": 26612,
 			"level": 18,
 			"level_locked": 0,
@@ -851,5 +871,5 @@
 			"update_date": "Sat Jan 20 05:51:17 2024"
 		}
 	],
-	"last_updated": "Wed Feb  7 06:13:06 2024"
+	"last_updated": "Wed Feb  7 12:17:13 2024"
 }
