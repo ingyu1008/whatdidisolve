@@ -1,7 +1,8 @@
-올해 푼 문제 수: 87
+올해 푼 문제 수: 88
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 19618 | [벽 칠하기](https://www.acmicpc.net/problem/19618) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> | 2024. 02. 08.  |
 | 24235 | [유산](https://www.acmicpc.net/problem/24235) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/19.svg"/> | 2024. 02. 07.  |
 | 10715 | [JOI 공원](https://www.acmicpc.net/problem/10715) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 02. 07.  |
 | 26612 | [infinite XYZ](https://www.acmicpc.net/problem/26612) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> | 2024. 02. 06.  |
@@ -21,4 +22,3 @@
 | 31287 | [장난감 강아지](https://www.acmicpc.net/problem/31287) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> | 2024. 02. 03.  |
 | 31268 | [물자 조달](https://www.acmicpc.net/problem/31268) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> | 2024. 02. 03.  |
 | 31267 | [시간 외 근무 멈춰!!!](https://www.acmicpc.net/problem/31267) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> | 2024. 02. 03.  |
-| 31266 | [축구 대회](https://www.acmicpc.net/problem/31266) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 02. 03.  |
