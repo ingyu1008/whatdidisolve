@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1734,
+		"total_problems": 1736,
 		"total_page": 1,
 		"problems": [
 			{
@@ -7997,6 +7997,15 @@
 				"average_try": 3.7835
 			},
 			{
+				"id": 12101,
+				"level": 10,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "1, 2, 3 \ub354\ud558\uae30 2",
+				"solved_count": 1749,
+				"average_try": 1.5992
+			},
+			{
 				"id": 12728,
 				"level": 20,
 				"level_locked": 0,
@@ -10785,6 +10794,15 @@
 				"title": "\ube44\ubc00\ubc88\ud638 \ucc3e\uae30",
 				"solved_count": 12830,
 				"average_try": 1.4152
+			},
+			{
+				"id": 17253,
+				"level": 9,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc0bc\uc0bc\ud55c \uc218 2",
+				"solved_count": 275,
+				"average_try": 1.9891
 			},
 			{
 				"id": 17256,
@@ -15612,5 +15630,5 @@
 			}
 		]
 	},
-	"last_updated": "Thu Feb  8 12:17:24 2024"
+	"last_updated": "Thu Feb  8 18:12:25 2024"
 }
