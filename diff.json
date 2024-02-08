@@ -1,13 +1,67 @@
 {
 	"problems": [
 		{
-			"id": 19618,
-			"level": 20,
+			"id": 28808,
+			"level": 2,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\ubcbd \uce60\ud558\uae30",
-			"solved_count": 44,
-			"average_try": 4.1136
+			"title": "\u0422\u0430\u0431\u043b\u0438\u0446\u0430 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u043e\u0432",
+			"solved_count": 190,
+			"average_try": 1.1789
+		},
+		{
+			"id": 29683,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u0420\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u0435\u043d\u0441\u043a\u0430\u044f \u043b\u043e\u0442\u0435\u0440\u0435\u044f",
+			"solved_count": 185,
+			"average_try": 1.1568
+		},
+		{
+			"id": 30658,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Os \u00faltimos ser\u00e3o os primeiros",
+			"solved_count": 187,
+			"average_try": 1.4278
+		},
+		{
+			"id": 31261,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u041d\u0410\u041c\u0418\u0421\u041b\u0418\u0425 \u0421\u0418 \u0427\u0418\u0421\u041b\u041e",
+			"solved_count": 174,
+			"average_try": 1.1092
+		},
+		{
+			"id": 31280,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u0424\u0410\u041a\u0418\u0420",
+			"solved_count": 143,
+			"average_try": 1.2587
+		},
+		{
+			"id": 31281,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u0417\u041b\u0410\u0422\u041d\u0410\u0422\u0410 \u0421\u0420\u0415\u0414\u0410",
+			"solved_count": 149,
+			"average_try": 1.2282
+		},
+		{
+			"id": 31282,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u041b\u041e\u0412\u041d\u041e \u041a\u0423\u0427\u0415",
+			"solved_count": 168,
+			"average_try": 1.369
 		}
 	]
 }

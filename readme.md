@@ -1,7 +1,14 @@
-올해 푼 문제 수: 88
+올해 푼 문제 수: 95
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 31282 | [ЛОВНО КУЧЕ](https://www.acmicpc.net/problem/31282) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 08.  |
+| 31281 | [ЗЛАТНАТА СРЕДА](https://www.acmicpc.net/problem/31281) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 08.  |
+| 31280 | [ФАКИР](https://www.acmicpc.net/problem/31280) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 08.  |
+| 31261 | [НАМИСЛИХ СИ ЧИСЛО](https://www.acmicpc.net/problem/31261) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 08.  |
+| 30658 | [Os últimos serão os primeiros](https://www.acmicpc.net/problem/30658) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 08.  |
+| 29683 | [Рождественская лотерея](https://www.acmicpc.net/problem/29683) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 08.  |
+| 28808 | [Таблица результатов](https://www.acmicpc.net/problem/28808) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 08.  |
 | 19618 | [벽 칠하기](https://www.acmicpc.net/problem/19618) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> | 2024. 02. 08.  |
 | 24235 | [유산](https://www.acmicpc.net/problem/24235) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/19.svg"/> | 2024. 02. 07.  |
 | 10715 | [JOI 공원](https://www.acmicpc.net/problem/10715) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 02. 07.  |
@@ -15,10 +22,3 @@
 | 30319 | [Advance to Taoyuan Regional](https://www.acmicpc.net/problem/30319) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 05.  |
 | 30067 | [Paslėpta suma](https://www.acmicpc.net/problem/30067) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 05.  |
 | 29986 | [Amusement Park Adventure](https://www.acmicpc.net/problem/29986) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 05.  |
-| 29823 | [Pakirobot Manhattanis](https://www.acmicpc.net/problem/29823) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 05.  |
-| 1760 | [N-Rook](https://www.acmicpc.net/problem/1760) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> | 2024. 02. 05.  |
-| 14711 | [타일 뒤집기 (Easy)](https://www.acmicpc.net/problem/14711) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 02. 04.  |
-| 2233 | [사과나무](https://www.acmicpc.net/problem/2233) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | 2024. 02. 04.  |
-| 31287 | [장난감 강아지](https://www.acmicpc.net/problem/31287) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> | 2024. 02. 03.  |
-| 31268 | [물자 조달](https://www.acmicpc.net/problem/31268) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> | 2024. 02. 03.  |
-| 31267 | [시간 외 근무 멈춰!!!](https://www.acmicpc.net/problem/31267) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> | 2024. 02. 03.  |
