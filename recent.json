@@ -1,6 +1,36 @@
 {
 	"problems": [
 		{
+			"id": 30961,
+			"level": 12,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ucd5c\uc19f\uac12, \ucd5c\ub313\uac12",
+			"solved_count": 116,
+			"average_try": 1.319,
+			"update_date": "Fri Feb  9 12:17:21 2024"
+		},
+		{
+			"id": 24654,
+			"level": 14,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Build The Grid",
+			"solved_count": 57,
+			"average_try": 1.4561,
+			"update_date": "Fri Feb  9 12:17:21 2024"
+		},
+		{
+			"id": 8012,
+			"level": 16,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud55c\ub3d9\uc774\ub294 \uc601\uc5c5\uc0ac\uc6d0!",
+			"solved_count": 727,
+			"average_try": 1.7868,
+			"update_date": "Fri Feb  9 12:17:21 2024"
+		},
+		{
 			"id": 30877,
 			"level": 4,
 			"level_locked": 0,
@@ -981,5 +1011,5 @@
 			"update_date": "Sat Jan 20 05:51:17 2024"
 		}
 	],
-	"last_updated": "Fri Feb  9 06:13:06 2024"
+	"last_updated": "Fri Feb  9 12:17:21 2024"
 }

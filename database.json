@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1737,
+		"total_problems": 1740,
 		"total_page": 1,
 		"problems": [
 			{
@@ -5457,6 +5457,15 @@
 				"title": "\ud070 \uc218",
 				"solved_count": 614,
 				"average_try": 2.7427
+			},
+			{
+				"id": 8012,
+				"level": 16,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ud55c\ub3d9\uc774\ub294 \uc601\uc5c5\uc0ac\uc6d0!",
+				"solved_count": 727,
+				"average_try": 1.7868
 			},
 			{
 				"id": 8131,
@@ -13505,6 +13514,15 @@
 				"average_try": 1.445
 			},
 			{
+				"id": 24654,
+				"level": 14,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Build The Grid",
+				"solved_count": 57,
+				"average_try": 1.4561
+			},
+			{
 				"id": 24678,
 				"level": 14,
 				"level_locked": 0,
@@ -15467,6 +15485,15 @@
 				"average_try": 3.2969
 			},
 			{
+				"id": 30961,
+				"level": 12,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ucd5c\uc19f\uac12, \ucd5c\ub313\uac12",
+				"solved_count": 116,
+				"average_try": 1.319
+			},
+			{
 				"id": 30987,
 				"level": 6,
 				"level_locked": 0,
@@ -15639,5 +15666,5 @@
 			}
 		]
 	},
-	"last_updated": "Fri Feb  9 06:13:06 2024"
+	"last_updated": "Fri Feb  9 12:17:21 2024"
 }

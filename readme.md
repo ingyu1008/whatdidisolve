@@ -1,7 +1,10 @@
-올해 푼 문제 수: 98
+올해 푼 문제 수: 101
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 30961 | [최솟값, 최댓값](https://www.acmicpc.net/problem/30961) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 02. 09.  |
+| 24654 | [Build The Grid](https://www.acmicpc.net/problem/24654) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | 2024. 02. 09.  |
+| 8012 | [한동이는 영업사원!](https://www.acmicpc.net/problem/8012) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 02. 09.  |
 | 30877 | [X marks the Spot](https://www.acmicpc.net/problem/30877) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> | 2024. 02. 09.  |
 | 17253 | [삼삼한 수 2](https://www.acmicpc.net/problem/17253) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> | 2024. 02. 08.  |
 | 12101 | [1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | 2024. 02. 08.  |
@@ -19,6 +22,3 @@
 | 31403 | [$A + B - C$](https://www.acmicpc.net/problem/31403) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 05.  |
 | 31306 | [Is Y a Vowel?](https://www.acmicpc.net/problem/31306) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 05.  |
 | 30794 | [가희와 클럽 오디션 1](https://www.acmicpc.net/problem/30794) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 05.  |
-| 30793 | [gahui and sousenkyo 3](https://www.acmicpc.net/problem/30793) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 05.  |
-| 30791 | [gahui and sousenkyo 1](https://www.acmicpc.net/problem/30791) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 05.  |
-| 30585 | [Поп-ит](https://www.acmicpc.net/problem/30585) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 05.  |
