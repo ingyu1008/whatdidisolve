@@ -1,7 +1,8 @@
-올해 푼 문제 수: 97
+올해 푼 문제 수: 98
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 30877 | [X marks the Spot](https://www.acmicpc.net/problem/30877) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> | 2024. 02. 09.  |
 | 17253 | [삼삼한 수 2](https://www.acmicpc.net/problem/17253) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> | 2024. 02. 08.  |
 | 12101 | [1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | 2024. 02. 08.  |
 | 31282 | [ЛОВНО КУЧЕ](https://www.acmicpc.net/problem/31282) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 08.  |
@@ -21,4 +22,3 @@
 | 30793 | [gahui and sousenkyo 3](https://www.acmicpc.net/problem/30793) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 05.  |
 | 30791 | [gahui and sousenkyo 1](https://www.acmicpc.net/problem/30791) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 05.  |
 | 30585 | [Поп-ит](https://www.acmicpc.net/problem/30585) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 05.  |
-| 30319 | [Advance to Taoyuan Regional](https://www.acmicpc.net/problem/30319) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 05.  |

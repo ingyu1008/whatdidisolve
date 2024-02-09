@@ -1,6 +1,16 @@
 {
 	"problems": [
 		{
+			"id": 30877,
+			"level": 4,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "X marks the Spot",
+			"solved_count": 258,
+			"average_try": 1.8915,
+			"update_date": "Fri Feb  9 00:42:50 2024"
+		},
+		{
 			"id": 17253,
 			"level": 9,
 			"level_locked": 0,
@@ -971,5 +981,5 @@
 			"update_date": "Sat Jan 20 05:51:17 2024"
 		}
 	],
-	"last_updated": "Thu Feb  8 18:12:25 2024"
+	"last_updated": "Fri Feb  9 00:42:50 2024"
 }
