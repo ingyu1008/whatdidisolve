@@ -1,7 +1,8 @@
-올해 푼 문제 수: 101
+올해 푼 문제 수: 102
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 22978 | [압축 프로그램](https://www.acmicpc.net/problem/22978) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> | 2024. 02. 10.  |
 | 30961 | [최솟값, 최댓값](https://www.acmicpc.net/problem/30961) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 02. 09.  |
 | 24654 | [Build The Grid](https://www.acmicpc.net/problem/24654) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | 2024. 02. 09.  |
 | 8012 | [한동이는 영업사원!](https://www.acmicpc.net/problem/8012) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 02. 09.  |
@@ -21,4 +22,3 @@
 | 26612 | [infinite XYZ](https://www.acmicpc.net/problem/26612) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> | 2024. 02. 06.  |
 | 31403 | [$A + B - C$](https://www.acmicpc.net/problem/31403) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 05.  |
 | 31306 | [Is Y a Vowel?](https://www.acmicpc.net/problem/31306) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 05.  |
-| 30794 | [가희와 클럽 오디션 1](https://www.acmicpc.net/problem/30794) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 05.  |

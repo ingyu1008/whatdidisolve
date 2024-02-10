@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1740,
+		"total_problems": 1741,
 		"total_page": 1,
 		"problems": [
 			{
@@ -12893,6 +12893,15 @@
 				"average_try": 1.3552
 			},
 			{
+				"id": 22978,
+				"level": 20,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc555\ucd95 \ud504\ub85c\uadf8\ub7a8",
+				"solved_count": 22,
+				"average_try": 3.0909
+			},
+			{
 				"id": 23037,
 				"level": 4,
 				"level_locked": 1,
@@ -15661,10 +15670,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "$A + B - C$",
-				"solved_count": 609,
-				"average_try": 1.3317
+				"solved_count": 612,
+				"average_try": 1.3301
 			}
 		]
 	},
-	"last_updated": "Sat Feb 10 06:12:04 2024"
+	"last_updated": "Sat Feb 10 12:16:41 2024"
 }
