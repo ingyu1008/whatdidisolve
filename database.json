@@ -3219,7 +3219,7 @@
 			},
 			{
 				"id": 2672,
-				"level": 14,
+				"level": 15,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc5ec\ub7ec \uc9c1\uc0ac\uac01\ud615\uc758 \uc804\uccb4 \uba74\uc801 \uad6c\ud558\uae30",
@@ -15661,8 +15661,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Is Y a Vowel?",
-				"solved_count": 217,
-				"average_try": 1.1613
+				"solved_count": 218,
+				"average_try": 1.1606
 			},
 			{
 				"id": 31403,
@@ -15670,10 +15670,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "$A + B - C$",
-				"solved_count": 612,
-				"average_try": 1.3301
+				"solved_count": 619,
+				"average_try": 1.3328
 			}
 		]
 	},
-	"last_updated": "Sat Feb 10 12:16:41 2024"
+	"last_updated": "Sat Feb 10 18:12:00 2024"
 }
