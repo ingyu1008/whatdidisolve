@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1742,
+		"total_problems": 1744,
 		"total_page": 1,
 		"problems": [
 			{
@@ -849,6 +849,15 @@
 				"title": "\ub450 \uc218 \ube44\uad50\ud558\uae30",
 				"solved_count": 170719,
 				"average_try": 2.0125
+			},
+			{
+				"id": 1338,
+				"level": 12,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc54c \uc218 \uc5c6\ub294 \ubc88\ud638",
+				"solved_count": 145,
+				"average_try": 10.4621
 			},
 			{
 				"id": 1339,
@@ -12812,6 +12821,15 @@
 				"average_try": 2.4335
 			},
 			{
+				"id": 22254,
+				"level": 13,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uacf5\uc815 \ucee8\uc124\ud134\ud2b8 \ud638\uc11d",
+				"solved_count": 281,
+				"average_try": 3.0071
+			},
+			{
 				"id": 22255,
 				"level": 14,
 				"level_locked": 0,
@@ -15670,8 +15688,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Is Y a Vowel?",
-				"solved_count": 222,
-				"average_try": 1.1622
+				"solved_count": 223,
+				"average_try": 1.1614
 			},
 			{
 				"id": 31403,
@@ -15684,5 +15702,5 @@
 			}
 		]
 	},
-	"last_updated": "Sun Feb 11 12:15:52 2024"
+	"last_updated": "Sun Feb 11 18:12:28 2024"
 }
