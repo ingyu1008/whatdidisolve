@@ -15670,8 +15670,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Is Y a Vowel?",
-				"solved_count": 219,
-				"average_try": 1.1598
+				"solved_count": 221,
+				"average_try": 1.1629
 			},
 			{
 				"id": 31403,
@@ -15679,10 +15679,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "$A + B - C$",
-				"solved_count": 619,
-				"average_try": 1.3328
+				"solved_count": 621,
+				"average_try": 1.3366
 			}
 		]
 	},
-	"last_updated": "Sun Feb 11 00:47:42 2024"
+	"last_updated": "Sun Feb 11 06:13:06 2024"
 }
