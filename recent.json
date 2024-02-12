@@ -1,6 +1,16 @@
 {
 	"problems": [
 		{
+			"id": 14288,
+			"level": 18,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud68c\uc0ac \ubb38\ud654 4",
+			"solved_count": 411,
+			"average_try": 1.4988,
+			"update_date": "Mon Feb 12 18:11:45 2024"
+		},
+		{
 			"id": 1209,
 			"level": 17,
 			"level_locked": 0,
@@ -1061,5 +1071,5 @@
 			"update_date": "Sat Jan 20 05:51:17 2024"
 		}
 	],
-	"last_updated": "Mon Feb 12 12:17:55 2024"
+	"last_updated": "Mon Feb 12 18:11:45 2024"
 }
