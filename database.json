@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1744,
+		"total_problems": 1745,
 		"total_page": 1,
 		"problems": [
 			{
@@ -552,6 +552,15 @@
 				"title": "\ubd80\ubd84\uc218\uc5f4\uc758 \ud569 2",
 				"solved_count": 4886,
 				"average_try": 4.0362
+			},
+			{
+				"id": 1209,
+				"level": 17,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ub2e8\uc870\uc218\uc5f4 \ub9cc\ub4e4\uae30",
+				"solved_count": 211,
+				"average_try": 2.7773
 			},
 			{
 				"id": 1212,
@@ -15688,8 +15697,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Is Y a Vowel?",
-				"solved_count": 223,
-				"average_try": 1.1614
+				"solved_count": 224,
+				"average_try": 1.1607
 			},
 			{
 				"id": 31403,
@@ -15697,10 +15706,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "$A + B - C$",
-				"solved_count": 621,
-				"average_try": 1.3366
+				"solved_count": 629,
+				"average_try": 1.3418
 			}
 		]
 	},
-	"last_updated": "Mon Feb 12 00:44:18 2024"
+	"last_updated": "Mon Feb 12 06:13:24 2024"
 }

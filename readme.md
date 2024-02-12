@@ -1,7 +1,8 @@
-올해 푼 문제 수: 105
+올해 푼 문제 수: 106
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 1209 | [단조수열 만들기](https://www.acmicpc.net/problem/1209) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> | 2024. 02. 12.  |
 | 22254 | [공정 컨설턴트 호석](https://www.acmicpc.net/problem/22254) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 02. 11.  |
 | 1338 | [알 수 없는 번호](https://www.acmicpc.net/problem/1338) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 02. 11.  |
 | 23971 | [ZOAC 4](https://www.acmicpc.net/problem/23971) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 02. 11.  |
@@ -21,4 +22,3 @@
 | 28808 | [Таблица результатов](https://www.acmicpc.net/problem/28808) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 08.  |
 | 19618 | [벽 칠하기](https://www.acmicpc.net/problem/19618) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> | 2024. 02. 08.  |
 | 24235 | [유산](https://www.acmicpc.net/problem/24235) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/19.svg"/> | 2024. 02. 07.  |
-| 10715 | [JOI 공원](https://www.acmicpc.net/problem/10715) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 02. 07.  |
