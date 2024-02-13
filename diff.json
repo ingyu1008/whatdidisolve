@@ -1,22 +1,13 @@
 {
 	"problems": [
 		{
-			"id": 10854,
-			"level": 21,
+			"id": 22289,
+			"level": 20,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "Divisions",
-			"solved_count": 482,
-			"average_try": 1.9751
-		},
-		{
-			"id": 13430,
-			"level": 16,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud569 \uad6c\ud558\uae30",
-			"solved_count": 490,
-			"average_try": 2.2041
+			"title": "\ud070 \uc218 \uacf1\uc148 (3)",
+			"solved_count": 414,
+			"average_try": 3.2319
 		}
 	]
 }
