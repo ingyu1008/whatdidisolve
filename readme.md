@@ -1,7 +1,8 @@
-올해 푼 문제 수: 110
+올해 푼 문제 수: 111
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 5789 | [한다 안한다](https://www.acmicpc.net/problem/5789) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 02. 14.  |
 | 22289 | [큰 수 곱셈 (3)](https://www.acmicpc.net/problem/22289) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> | 2024. 02. 13.  |
 | 13430 | [합 구하기](https://www.acmicpc.net/problem/13430) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 02. 13.  |
 | 10854 | [Divisions](https://www.acmicpc.net/problem/10854) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/21.svg"/> | 2024. 02. 13.  |
@@ -21,4 +22,3 @@
 | 31281 | [ЗЛАТНАТА СРЕДА](https://www.acmicpc.net/problem/31281) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 08.  |
 | 31280 | [ФАКИР](https://www.acmicpc.net/problem/31280) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 08.  |
 | 31261 | [НАМИСЛИХ СИ ЧИСЛО](https://www.acmicpc.net/problem/31261) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 08.  |
-| 30658 | [Os últimos serão os primeiros](https://www.acmicpc.net/problem/30658) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 08.  |
