@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1750,
+		"total_problems": 1752,
 		"total_page": 1,
 		"problems": [
 			{
@@ -5468,6 +5468,15 @@
 				"average_try": 2.4606
 			},
 			{
+				"id": 7868,
+				"level": 11,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ud574\ubc0d \uc218\uc5f4",
+				"solved_count": 188,
+				"average_try": 2.0319
+			},
+			{
 				"id": 7891,
 				"level": 1,
 				"level_locked": 0,
@@ -6123,6 +6132,15 @@
 				"title": "N-Queen",
 				"solved_count": 34107,
 				"average_try": 2.1496
+			},
+			{
+				"id": 9694,
+				"level": 13,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ubb34\uc5c7\uc744 \uc544\ub290\ub0d0\uac00 \uc544\ub2c8\ub77c \ub204\uad6c\ub97c \uc544\ub290\ub0d0\uac00 \ubb38\uc81c\ub2e4",
+				"solved_count": 458,
+				"average_try": 2.6157
 			},
 			{
 				"id": 9772,
@@ -15756,5 +15774,5 @@
 			}
 		]
 	},
-	"last_updated": "Wed Feb 14 06:13:48 2024"
+	"last_updated": "Wed Feb 14 12:17:55 2024"
 }
