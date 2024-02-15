@@ -1,7 +1,8 @@
-올해 푼 문제 수: 113
+올해 푼 문제 수: 114
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 4181 | [Convex Hull](https://www.acmicpc.net/problem/4181) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> | 2024. 02. 15.  |
 | 9694 | [무엇을 아느냐가 아니라 누구를 아느냐가 문제다](https://www.acmicpc.net/problem/9694) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 02. 14.  |
 | 7868 | [해밍 수열](https://www.acmicpc.net/problem/7868) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 02. 14.  |
 | 5789 | [한다 안한다](https://www.acmicpc.net/problem/5789) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 02. 14.  |
@@ -21,4 +22,3 @@
 | 17253 | [삼삼한 수 2](https://www.acmicpc.net/problem/17253) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> | 2024. 02. 08.  |
 | 12101 | [1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | 2024. 02. 08.  |
 | 31282 | [ЛОВНО КУЧЕ](https://www.acmicpc.net/problem/31282) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 08.  |
-| 31281 | [ЗЛАТНАТА СРЕДА](https://www.acmicpc.net/problem/31281) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 08.  |
