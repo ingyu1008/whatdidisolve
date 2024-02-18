@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1758,
+		"total_problems": 1759,
 		"total_page": 1,
 		"problems": [
 			{
@@ -15825,8 +15825,17 @@
 				"title": "$A + B - C$",
 				"solved_count": 701,
 				"average_try": 1.3452
+			},
+			{
+				"id": 31412,
+				"level": 16,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uad70\uc218\ud488 \ucc3d\uace0 \uc815\ub9ac",
+				"solved_count": 17,
+				"average_try": 2.0588
 			}
 		]
 	},
-	"last_updated": "Sun Feb 18 06:12:55 2024"
+	"last_updated": "Sun Feb 18 12:16:25 2024"
 }

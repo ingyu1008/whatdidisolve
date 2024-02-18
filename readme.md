@@ -1,7 +1,8 @@
-올해 푼 문제 수: 119
+올해 푼 문제 수: 120
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 31412 | [군수품 창고 정리](https://www.acmicpc.net/problem/31412) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 02. 18.  |
 | 2721 | [삼각수의 합](https://www.acmicpc.net/problem/2721) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 02. 18.  |
 | 22859 | [HTML 파싱](https://www.acmicpc.net/problem/22859) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 02. 16.  |
 | 13415 | [정렬 게임](https://www.acmicpc.net/problem/13415) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 02. 16.  |
@@ -21,4 +22,3 @@
 | 23971 | [ZOAC 4](https://www.acmicpc.net/problem/23971) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 02. 11.  |
 | 22978 | [압축 프로그램](https://www.acmicpc.net/problem/22978) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> | 2024. 02. 10.  |
 | 30961 | [최솟값, 최댓값](https://www.acmicpc.net/problem/30961) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 02. 09.  |
-| 24654 | [Build The Grid](https://www.acmicpc.net/problem/24654) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | 2024. 02. 09.  |
