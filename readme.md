@@ -1,7 +1,8 @@
-올해 푼 문제 수: 118
+올해 푼 문제 수: 119
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 2721 | [삼각수의 합](https://www.acmicpc.net/problem/2721) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 02. 18.  |
 | 22859 | [HTML 파싱](https://www.acmicpc.net/problem/22859) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 02. 16.  |
 | 13415 | [정렬 게임](https://www.acmicpc.net/problem/13415) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 02. 16.  |
 | 13023 | [ABCDE](https://www.acmicpc.net/problem/13023) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 02. 15.  |
@@ -21,4 +22,3 @@
 | 22978 | [압축 프로그램](https://www.acmicpc.net/problem/22978) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> | 2024. 02. 10.  |
 | 30961 | [최솟값, 최댓값](https://www.acmicpc.net/problem/30961) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 02. 09.  |
 | 24654 | [Build The Grid](https://www.acmicpc.net/problem/24654) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | 2024. 02. 09.  |
-| 8012 | [한동이는 영업사원!](https://www.acmicpc.net/problem/8012) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 02. 09.  |
