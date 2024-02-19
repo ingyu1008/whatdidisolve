@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1759,
+		"total_problems": 1760,
 		"total_page": 1,
 		"problems": [
 			{
@@ -8564,6 +8564,15 @@
 				"average_try": 2.2024
 			},
 			{
+				"id": 13441,
+				"level": 20,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ub9c8\ubc95\uc758 \ub098\ubb34",
+				"solved_count": 32,
+				"average_try": 2.5
+			},
+			{
 				"id": 13458,
 				"level": 4,
 				"level_locked": 0,
@@ -15814,8 +15823,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Is Y a Vowel?",
-				"solved_count": 248,
-				"average_try": 1.1774
+				"solved_count": 251,
+				"average_try": 1.1793
 			},
 			{
 				"id": 31403,
@@ -15832,10 +15841,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uad70\uc218\ud488 \ucc3d\uace0 \uc815\ub9ac",
-				"solved_count": 20,
-				"average_try": 2.2
+				"solved_count": 21,
+				"average_try": 2.1429
 			}
 		]
 	},
-	"last_updated": "Mon Feb 19 00:44:36 2024"
+	"last_updated": "Mon Feb 19 06:14:18 2024"
 }
