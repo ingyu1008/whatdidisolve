@@ -1,7 +1,8 @@
-올해 푼 문제 수: 122
+올해 푼 문제 수: 123
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 3860 | [할로윈 묘지](https://www.acmicpc.net/problem/3860) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 02. 21.  |
 | 10909 | [Quaternion inverse](https://www.acmicpc.net/problem/10909) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/19.svg"/> | 2024. 02. 20.  |
 | 13441 | [마법의 나무](https://www.acmicpc.net/problem/13441) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> | 2024. 02. 19.  |
 | 31412 | [군수품 창고 정리](https://www.acmicpc.net/problem/31412) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 02. 18.  |
@@ -21,4 +22,3 @@
 | 1209 | [단조수열 만들기](https://www.acmicpc.net/problem/1209) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> | 2024. 02. 12.  |
 | 22254 | [공정 컨설턴트 호석](https://www.acmicpc.net/problem/22254) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 02. 11.  |
 | 1338 | [알 수 없는 번호](https://www.acmicpc.net/problem/1338) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 02. 11.  |
-| 23971 | [ZOAC 4](https://www.acmicpc.net/problem/23971) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 02. 11.  |

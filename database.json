@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1761,
+		"total_problems": 1762,
 		"total_page": 1,
 		"problems": [
 			{
@@ -3237,7 +3237,7 @@
 			},
 			{
 				"id": 2672,
-				"level": 15,
+				"level": 14,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc5ec\ub7ec \uc9c1\uc0ac\uac01\ud615\uc758 \uc804\uccb4 \uba74\uc801 \uad6c\ud558\uae30",
@@ -4242,6 +4242,15 @@
 				"title": "Computer Transformation",
 				"solved_count": 147,
 				"average_try": 10.4286
+			},
+			{
+				"id": 3860,
+				"level": 16,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ud560\ub85c\uc708 \ubb18\uc9c0",
+				"solved_count": 721,
+				"average_try": 6.3911
 			},
 			{
 				"id": 3903,
@@ -15850,10 +15859,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uad70\uc218\ud488 \ucc3d\uace0 \uc815\ub9ac",
-				"solved_count": 24,
-				"average_try": 2.1667
+				"solved_count": 25,
+				"average_try": 2.2
 			}
 		]
 	},
-	"last_updated": "Wed Feb 21 00:43:55 2024"
+	"last_updated": "Wed Feb 21 06:13:26 2024"
 }
