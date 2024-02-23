@@ -1,7 +1,9 @@
-올해 푼 문제 수: 124
+올해 푼 문제 수: 126
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 27725 | [지수를 더하자](https://www.acmicpc.net/problem/27725) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 02. 23.  |
+| 9327 | [용량 확보](https://www.acmicpc.net/problem/9327) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 02. 23.  |
 | 31429 | [SUAPC 2023 Summer](https://www.acmicpc.net/problem/31429) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 02. 22.  |
 | 3860 | [할로윈 묘지](https://www.acmicpc.net/problem/3860) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 02. 21.  |
 | 10909 | [Quaternion inverse](https://www.acmicpc.net/problem/10909) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/19.svg"/> | 2024. 02. 20.  |
@@ -20,5 +22,3 @@
 | 13430 | [합 구하기](https://www.acmicpc.net/problem/13430) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 02. 13.  |
 | 10854 | [Divisions](https://www.acmicpc.net/problem/10854) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/21.svg"/> | 2024. 02. 13.  |
 | 14288 | [회사 문화 4](https://www.acmicpc.net/problem/14288) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> | 2024. 02. 12.  |
-| 1209 | [단조수열 만들기](https://www.acmicpc.net/problem/1209) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> | 2024. 02. 12.  |
-| 22254 | [공정 컨설턴트 호석](https://www.acmicpc.net/problem/22254) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 02. 11.  |
