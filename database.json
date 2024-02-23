@@ -15850,8 +15850,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "$A + B - C$",
-				"solved_count": 727,
-				"average_try": 1.3453
+				"solved_count": 737,
+				"average_try": 1.3528
 			},
 			{
 				"id": 31412,
@@ -15868,10 +15868,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "SUAPC 2023 Summer",
-				"solved_count": 272,
-				"average_try": 1.239
+				"solved_count": 276,
+				"average_try": 1.2355
 			}
 		]
 	},
-	"last_updated": "Thu Feb 22 18:13:03 2024"
+	"last_updated": "Fri Feb 23 00:42:54 2024"
 }
