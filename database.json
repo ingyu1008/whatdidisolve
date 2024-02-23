@@ -15877,8 +15877,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uad70\uc218\ud488 \ucc3d\uace0 \uc815\ub9ac",
-				"solved_count": 27,
-				"average_try": 2.2963
+				"solved_count": 28,
+				"average_try": 2.25
 			},
 			{
 				"id": 31429,
@@ -15886,10 +15886,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "SUAPC 2023 Summer",
-				"solved_count": 276,
-				"average_try": 1.2355
+				"solved_count": 301,
+				"average_try": 1.2326
 			}
 		]
 	},
-	"last_updated": "Fri Feb 23 12:17:53 2024"
+	"last_updated": "Fri Feb 23 18:13:22 2024"
 }
