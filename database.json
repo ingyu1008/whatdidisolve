@@ -15886,8 +15886,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uad70\uc218\ud488 \ucc3d\uace0 \uc815\ub9ac",
-				"solved_count": 28,
-				"average_try": 2.25
+				"solved_count": 29,
+				"average_try": 2.2414
 			},
 			{
 				"id": 31428,
@@ -15909,5 +15909,5 @@
 			}
 		]
 	},
-	"last_updated": "Sun Feb 25 12:16:20 2024"
+	"last_updated": "Sun Feb 25 18:11:27 2024"
 }
