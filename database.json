@@ -15886,8 +15886,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "$A + B - C$",
-				"solved_count": 761,
-				"average_try": 1.3482
+				"solved_count": 762,
+				"average_try": 1.3478
 			},
 			{
 				"id": 31412,
@@ -15918,5 +15918,5 @@
 			}
 		]
 	},
-	"last_updated": "Tue Feb 27 00:43:01 2024"
+	"last_updated": "Tue Feb 27 06:12:53 2024"
 }
