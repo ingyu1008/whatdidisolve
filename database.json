@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1768,
+		"total_problems": 1769,
 		"total_page": 1,
 		"problems": [
 			{
@@ -6483,6 +6483,15 @@
 				"title": "\uc11c\ubc84",
 				"solved_count": 2859,
 				"average_try": 1.95
+			},
+			{
+				"id": 10419,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc9c0\uac01",
+				"solved_count": 2156,
+				"average_try": 1.346
 			},
 			{
 				"id": 10430,
@@ -15918,5 +15927,5 @@
 			}
 		]
 	},
-	"last_updated": "Tue Feb 27 06:12:53 2024"
+	"last_updated": "Tue Feb 27 12:17:03 2024"
 }
