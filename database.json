@@ -6162,7 +6162,7 @@
 			},
 			{
 				"id": 9656,
-				"level": 7,
+				"level": 6,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub3cc \uac8c\uc784 2",
@@ -15927,5 +15927,5 @@
 			}
 		]
 	},
-	"last_updated": "Wed Feb 28 00:43:02 2024"
+	"last_updated": "Wed Feb 28 06:13:15 2024"
 }
