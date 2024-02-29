@@ -5487,7 +5487,7 @@
 			},
 			{
 				"id": 7687,
-				"level": 20,
+				"level": 19,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc9c0\uad6c \uc9c1\uc721\uba74\uccb4\uc124",
@@ -15913,8 +15913,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "$A + B - C$",
-				"solved_count": 765,
-				"average_try": 1.3477
+				"solved_count": 770,
+				"average_try": 1.3468
 			},
 			{
 				"id": 31412,
@@ -15945,5 +15945,5 @@
 			}
 		]
 	},
-	"last_updated": "Thu Feb 29 12:18:07 2024"
+	"last_updated": "Thu Feb 29 18:13:24 2024"
 }
