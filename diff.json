@@ -1,3 +1,13 @@
 {
-	"problems": []
+	"problems": [
+		{
+			"id": 31450,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Everyone is a winner",
+			"solved_count": 193,
+			"average_try": 1.228
+		}
+	]
 }
