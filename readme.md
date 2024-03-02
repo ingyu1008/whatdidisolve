@@ -1,7 +1,8 @@
-올해 푼 문제 수: 153
+올해 푼 문제 수: 154
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 15667 | [2018 연세대학교 프로그래밍 경진대회](https://www.acmicpc.net/problem/15667) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 02.  |
 | 31450 | [Everyone is a winner](https://www.acmicpc.net/problem/31450) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 03. 01.  |
 | 4690 | [완전 세제곱](https://www.acmicpc.net/problem/4690) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 02. 29.  |
 | 17618 | [신기한 수](https://www.acmicpc.net/problem/17618) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 02. 28.  |
@@ -21,4 +22,3 @@
 | 31267 | [시간 외 근무 멈춰!!!](https://www.acmicpc.net/problem/31267) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> | 2024. 02. 24.  |
 | 31429 | [SUAPC 2023 Summer](https://www.acmicpc.net/problem/31429) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 02. 24.  |
 | 31412 | [군수품 창고 정리](https://www.acmicpc.net/problem/31412) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 02. 24.  |
-| 31403 | [$A + B - C$](https://www.acmicpc.net/problem/31403) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 24.  |
