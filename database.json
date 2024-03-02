@@ -15949,8 +15949,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "SUAPC 2023 Summer",
-				"solved_count": 390,
-				"average_try": 1.2513
+				"solved_count": 396,
+				"average_try": 1.25
 			},
 			{
 				"id": 31450,
@@ -15958,10 +15958,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Everyone is a winner",
-				"solved_count": 239,
-				"average_try": 1.2427
+				"solved_count": 258,
+				"average_try": 1.2597
 			}
 		]
 	},
-	"last_updated": "Sat Mar  2 12:16:03 2024"
+	"last_updated": "Sat Mar  2 18:12:52 2024"
 }
