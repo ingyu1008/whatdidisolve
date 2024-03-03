@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1773,
+		"total_problems": 1774,
 		"total_page": 1,
 		"problems": [
 			{
@@ -15960,8 +15960,17 @@
 				"title": "Everyone is a winner",
 				"solved_count": 264,
 				"average_try": 1.2576
+			},
+			{
+				"id": 31495,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uadf8\uac8c \ubb34\uc2a8 \ucf54\ub4dc\ub2c8..",
+				"solved_count": 334,
+				"average_try": 2.9162
 			}
 		]
 	},
-	"last_updated": "Sun Mar  3 06:13:01 2024"
+	"last_updated": "Sun Mar  3 12:16:43 2024"
 }
