@@ -15958,8 +15958,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Everyone is a winner",
-				"solved_count": 264,
-				"average_try": 1.2576
+				"solved_count": 290,
+				"average_try": 1.2621
 			},
 			{
 				"id": 31495,
@@ -15967,10 +15967,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uadf8\uac8c \ubb34\uc2a8 \ucf54\ub4dc\ub2c8..",
-				"solved_count": 334,
-				"average_try": 2.9162
+				"solved_count": 369,
+				"average_try": 2.9756
 			}
 		]
 	},
-	"last_updated": "Sun Mar  3 12:16:43 2024"
+	"last_updated": "Sun Mar  3 18:11:46 2024"
 }
