@@ -15981,14 +15981,14 @@
 			},
 			{
 				"id": 31520,
-				"level": 3,
+				"level": 2,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Champernowne Verification",
-				"solved_count": 33,
-				"average_try": 1.3636
+				"solved_count": 37,
+				"average_try": 1.3514
 			}
 		]
 	},
-	"last_updated": "Tue Mar  5 12:17:42 2024"
+	"last_updated": "Tue Mar  5 18:12:32 2024"
 }
