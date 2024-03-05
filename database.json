@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1775,
+		"total_problems": 1776,
 		"total_page": 1,
 		"problems": [
 			{
@@ -15978,8 +15978,17 @@
 				"title": "\uadf8\uac8c \ubb34\uc2a8 \ucf54\ub4dc\ub2c8..",
 				"solved_count": 431,
 				"average_try": 2.9907
+			},
+			{
+				"id": 31520,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Champernowne Verification",
+				"solved_count": 33,
+				"average_try": 1.3636
 			}
 		]
 	},
-	"last_updated": "Tue Mar  5 06:13:07 2024"
+	"last_updated": "Tue Mar  5 12:17:42 2024"
 }
