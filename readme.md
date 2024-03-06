@@ -1,7 +1,8 @@
-올해 푼 문제 수: 157
+올해 푼 문제 수: 158
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 31518 | [Triple Sevens](https://www.acmicpc.net/problem/31518) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 06.  |
 | 31520 | [Champernowne Verification](https://www.acmicpc.net/problem/31520) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 05.  |
 | 4435 | [중간계 전쟁](https://www.acmicpc.net/problem/4435) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 04.  |
 | 31495 | [그게 무슨 코드니..](https://www.acmicpc.net/problem/31495) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 03.  |
@@ -21,4 +22,3 @@
 | 31282 | [ЛОВНО КУЧЕ](https://www.acmicpc.net/problem/31282) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 24.  |
 | 31281 | [ЗЛАТНАТА СРЕДА](https://www.acmicpc.net/problem/31281) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 24.  |
 | 31280 | [ФАКИР](https://www.acmicpc.net/problem/31280) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 24.  |
-| 31268 | [물자 조달](https://www.acmicpc.net/problem/31268) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> | 2024. 02. 24.  |

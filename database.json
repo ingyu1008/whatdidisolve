@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1776,
+		"total_problems": 1777,
 		"total_page": 1,
 		"problems": [
 			{
@@ -15967,8 +15967,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Everyone is a winner",
-				"solved_count": 351,
-				"average_try": 1.2593
+				"solved_count": 353,
+				"average_try": 1.2578
 			},
 			{
 				"id": 31495,
@@ -15976,8 +15976,17 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uadf8\uac8c \ubb34\uc2a8 \ucf54\ub4dc\ub2c8..",
-				"solved_count": 463,
-				"average_try": 2.9611
+				"solved_count": 468,
+				"average_try": 2.9701
+			},
+			{
+				"id": 31518,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Triple Sevens",
+				"solved_count": 91,
+				"average_try": 1.2088
 			},
 			{
 				"id": 31520,
@@ -15985,10 +15994,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Champernowne Verification",
-				"solved_count": 44,
-				"average_try": 1.3409
+				"solved_count": 56,
+				"average_try": 1.3036
 			}
 		]
 	},
-	"last_updated": "Wed Mar  6 00:43:35 2024"
+	"last_updated": "Wed Mar  6 06:14:13 2024"
 }
