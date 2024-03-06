@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1777,
+		"total_problems": 1778,
 		"total_page": 1,
 		"problems": [
 			{
@@ -15949,8 +15949,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc5d8\ub9ac\uc2a4 \ud2b8\ub799 \ub9e4\uce6d",
-				"solved_count": 470,
-				"average_try": 1.1277
+				"solved_count": 477,
+				"average_try": 1.1279
 			},
 			{
 				"id": 31429,
@@ -15971,13 +15971,22 @@
 				"average_try": 1.2578
 			},
 			{
+				"id": 31465,
+				"level": 21,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ucd08\ucf5c\ub9bf \uc885\ub958 \ub9de\ud788\uae30",
+				"solved_count": 11,
+				"average_try": 2.2727
+			},
+			{
 				"id": 31495,
 				"level": 2,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uadf8\uac8c \ubb34\uc2a8 \ucf54\ub4dc\ub2c8..",
-				"solved_count": 468,
-				"average_try": 2.9701
+				"solved_count": 481,
+				"average_try": 2.9792
 			},
 			{
 				"id": 31518,
@@ -15985,8 +15994,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Triple Sevens",
-				"solved_count": 99,
-				"average_try": 1.202
+				"solved_count": 107,
+				"average_try": 1.2243
 			},
 			{
 				"id": 31520,
@@ -15994,10 +16003,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Champernowne Verification",
-				"solved_count": 70,
-				"average_try": 1.3143
+				"solved_count": 81,
+				"average_try": 1.3457
 			}
 		]
 	},
-	"last_updated": "Wed Mar  6 12:18:49 2024"
+	"last_updated": "Wed Mar  6 18:12:58 2024"
 }
