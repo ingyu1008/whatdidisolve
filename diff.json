@@ -1,13 +1,22 @@
 {
 	"problems": [
 		{
-			"id": 31465,
-			"level": 21,
+			"id": 2991,
+			"level": 3,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\ucd08\ucf5c\ub9bf \uc885\ub958 \ub9de\ud788\uae30",
-			"solved_count": 11,
-			"average_try": 2.2727
+			"title": "\uc0ac\ub098\uc6b4 \uac1c",
+			"solved_count": 1999,
+			"average_try": 1.4722
+		},
+		{
+			"id": 31472,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uac08\ub798\uc758 \uc0c9\uc885\uc774 \uc790\ub974\uae30",
+			"solved_count": 377,
+			"average_try": 1.374
 		}
 	]
 }

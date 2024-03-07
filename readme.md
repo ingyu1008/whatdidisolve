@@ -1,7 +1,9 @@
-올해 푼 문제 수: 159
+올해 푼 문제 수: 161
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 31472 | [갈래의 색종이 자르기](https://www.acmicpc.net/problem/31472) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 07.  |
+| 2991 | [사나운 개](https://www.acmicpc.net/problem/2991) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 07.  |
 | 31465 | [초콜릿 종류 맞히기](https://www.acmicpc.net/problem/31465) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/21.svg"/> | 2024. 03. 06.  |
 | 31518 | [Triple Sevens](https://www.acmicpc.net/problem/31518) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 06.  |
 | 31520 | [Champernowne Verification](https://www.acmicpc.net/problem/31520) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 05.  |
@@ -20,5 +22,3 @@
 | 31403 | [$A + B - C$](https://www.acmicpc.net/problem/31403) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 24.  |
 | 31306 | [Is Y a Vowel?](https://www.acmicpc.net/problem/31306) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 24.  |
 | 31287 | [장난감 강아지](https://www.acmicpc.net/problem/31287) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> | 2024. 02. 24.  |
-| 31282 | [ЛОВНО КУЧЕ](https://www.acmicpc.net/problem/31282) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 24.  |
-| 31281 | [ЗЛАТНАТА СРЕДА](https://www.acmicpc.net/problem/31281) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 24.  |
