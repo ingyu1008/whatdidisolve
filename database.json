@@ -15994,8 +15994,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Everyone is a winner",
-				"solved_count": 388,
-				"average_try": 1.268
+				"solved_count": 395,
+				"average_try": 1.2633
 			},
 			{
 				"id": 31465,
@@ -16039,10 +16039,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Champernowne Verification",
-				"solved_count": 107,
-				"average_try": 1.3925
+				"solved_count": 110,
+				"average_try": 1.4
 			}
 		]
 	},
-	"last_updated": "Fri Mar  8 12:17:47 2024"
+	"last_updated": "Fri Mar  8 18:12:52 2024"
 }
