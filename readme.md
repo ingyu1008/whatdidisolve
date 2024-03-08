@@ -1,7 +1,8 @@
-올해 푼 문제 수: 162
+올해 푼 문제 수: 163
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 1637 | [날카로운 눈](https://www.acmicpc.net/problem/1637) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> | 2024. 03. 08.  |
 | 5612 | [터널의 입구와 출구](https://www.acmicpc.net/problem/5612) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 08.  |
 | 31472 | [갈래의 색종이 자르기](https://www.acmicpc.net/problem/31472) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 07.  |
 | 2991 | [사나운 개](https://www.acmicpc.net/problem/2991) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 07.  |
@@ -21,4 +22,3 @@
 | 31429 | [SUAPC 2023 Summer](https://www.acmicpc.net/problem/31429) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 02. 24.  |
 | 31412 | [군수품 창고 정리](https://www.acmicpc.net/problem/31412) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 02. 24.  |
 | 31403 | [$A + B - C$](https://www.acmicpc.net/problem/31403) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 24.  |
-| 31306 | [Is Y a Vowel?](https://www.acmicpc.net/problem/31306) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 24.  |

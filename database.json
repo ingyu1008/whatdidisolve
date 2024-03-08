@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1781,
+		"total_problems": 1782,
 		"total_page": 1,
 		"problems": [
 			{
@@ -1218,6 +1218,15 @@
 				"title": "\uacf1\uc148",
 				"solved_count": 24457,
 				"average_try": 3.6974
+			},
+			{
+				"id": 1637,
+				"level": 17,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ub0a0\uce74\ub85c\uc6b4 \ub208",
+				"solved_count": 592,
+				"average_try": 3.2669
 			},
 			{
 				"id": 1644,
@@ -15967,8 +15976,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc5d8\ub9ac\uc2a4 \ud2b8\ub799 \ub9e4\uce6d",
-				"solved_count": 478,
-				"average_try": 1.1276
+				"solved_count": 490,
+				"average_try": 1.1306
 			},
 			{
 				"id": 31429,
@@ -15985,8 +15994,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Everyone is a winner",
-				"solved_count": 381,
-				"average_try": 1.2651
+				"solved_count": 388,
+				"average_try": 1.268
 			},
 			{
 				"id": 31465,
@@ -16012,8 +16021,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uadf8\uac8c \ubb34\uc2a8 \ucf54\ub4dc\ub2c8..",
-				"solved_count": 499,
-				"average_try": 2.9599
+				"solved_count": 502,
+				"average_try": 2.9582
 			},
 			{
 				"id": 31518,
@@ -16021,8 +16030,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Triple Sevens",
-				"solved_count": 135,
-				"average_try": 1.237
+				"solved_count": 145,
+				"average_try": 1.2483
 			},
 			{
 				"id": 31520,
@@ -16030,10 +16039,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Champernowne Verification",
-				"solved_count": 105,
-				"average_try": 1.4
+				"solved_count": 107,
+				"average_try": 1.3925
 			}
 		]
 	},
-	"last_updated": "Fri Mar  8 06:13:05 2024"
+	"last_updated": "Fri Mar  8 12:17:47 2024"
 }
