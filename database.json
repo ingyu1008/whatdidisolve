@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1780,
+		"total_problems": 1781,
 		"total_page": 1,
 		"problems": [
 			{
@@ -4971,6 +4971,15 @@
 				"title": "\uacfc\uc81c \uc548 \ub0b4\uc2e0 \ubd84..?",
 				"solved_count": 50062,
 				"average_try": 1.9172
+			},
+			{
+				"id": 5612,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ud130\ub110\uc758 \uc785\uad6c\uc640 \ucd9c\uad6c",
+				"solved_count": 1974,
+				"average_try": 1.8946
 			},
 			{
 				"id": 5613,
@@ -15967,8 +15976,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "SUAPC 2023 Summer",
-				"solved_count": 421,
-				"average_try": 1.2375
+				"solved_count": 435,
+				"average_try": 1.2345
 			},
 			{
 				"id": 31450,
@@ -15994,8 +16003,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uac08\ub798\uc758 \uc0c9\uc885\uc774 \uc790\ub974\uae30",
-				"solved_count": 390,
-				"average_try": 1.3821
+				"solved_count": 392,
+				"average_try": 1.3852
 			},
 			{
 				"id": 31495,
@@ -16003,8 +16012,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uadf8\uac8c \ubb34\uc2a8 \ucf54\ub4dc\ub2c8..",
-				"solved_count": 485,
-				"average_try": 2.9794
+				"solved_count": 499,
+				"average_try": 2.9599
 			},
 			{
 				"id": 31518,
@@ -16012,8 +16021,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Triple Sevens",
-				"solved_count": 132,
-				"average_try": 1.2273
+				"solved_count": 135,
+				"average_try": 1.237
 			},
 			{
 				"id": 31520,
@@ -16021,10 +16030,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Champernowne Verification",
-				"solved_count": 101,
-				"average_try": 1.4158
+				"solved_count": 105,
+				"average_try": 1.4
 			}
 		]
 	},
-	"last_updated": "Fri Mar  8 00:43:34 2024"
+	"last_updated": "Fri Mar  8 06:13:05 2024"
 }
