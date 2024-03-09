@@ -16030,8 +16030,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Triple Sevens",
-				"solved_count": 147,
-				"average_try": 1.2449
+				"solved_count": 149,
+				"average_try": 1.2416
 			},
 			{
 				"id": 31520,
@@ -16039,10 +16039,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Champernowne Verification",
-				"solved_count": 111,
-				"average_try": 1.3964
+				"solved_count": 112,
+				"average_try": 1.3929
 			}
 		]
 	},
-	"last_updated": "Sat Mar  9 06:14:43 2024"
+	"last_updated": "Sat Mar  9 12:15:31 2024"
 }
