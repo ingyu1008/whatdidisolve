@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1782,
+		"total_problems": 1783,
 		"total_page": 1,
 		"problems": [
 			{
@@ -7455,6 +7455,15 @@
 				"title": "Communication Channels",
 				"solved_count": 810,
 				"average_try": 1.8173
+			},
+			{
+				"id": 11134,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ucfe0\ud0a4\uc560\ud638\uac00",
+				"solved_count": 1955,
+				"average_try": 1.2476
 			},
 			{
 				"id": 11170,
@@ -16044,5 +16053,5 @@
 			}
 		]
 	},
-	"last_updated": "Sat Mar  9 12:15:31 2024"
+	"last_updated": "Sat Mar  9 18:11:38 2024"
 }
