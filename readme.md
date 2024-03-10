@@ -1,7 +1,16 @@
-올해 푼 문제 수: 165
+올해 푼 문제 수: 174
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 25286 | [11월 11일](https://www.acmicpc.net/problem/25286) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 10.  |
+| 13949 | [쉬운 문제](https://www.acmicpc.net/problem/13949) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/23.svg"/> | 2024. 03. 10.  |
+| 12869 | [뮤탈리스크](https://www.acmicpc.net/problem/12869) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 03. 10.  |
+| 4485 | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 03. 10.  |
+| 3986 | [좋은 단어](https://www.acmicpc.net/problem/3986) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> | 2024. 03. 10.  |
+| 2586 | [소방차](https://www.acmicpc.net/problem/2586) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/25.svg"/> | 2024. 03. 10.  |
+| 2529 | [부등호](https://www.acmicpc.net/problem/2529) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | 2024. 03. 10.  |
+| 2146 | [다리 만들기](https://www.acmicpc.net/problem/2146) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 03. 10.  |
+| 1357 | [뒤집힌 덧셈](https://www.acmicpc.net/problem/1357) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> | 2024. 03. 10.  |
 | 2547 | [사탕 선생 고창영](https://www.acmicpc.net/problem/2547) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 10.  |
 | 11134 | [쿠키애호가](https://www.acmicpc.net/problem/11134) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 09.  |
 | 1637 | [날카로운 눈](https://www.acmicpc.net/problem/1637) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> | 2024. 03. 08.  |
@@ -13,12 +22,3 @@
 | 31520 | [Champernowne Verification](https://www.acmicpc.net/problem/31520) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 05.  |
 | 4435 | [중간계 전쟁](https://www.acmicpc.net/problem/4435) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 04.  |
 | 31495 | [그게 무슨 코드니..](https://www.acmicpc.net/problem/31495) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 03.  |
-| 15667 | [2018 연세대학교 프로그래밍 경진대회](https://www.acmicpc.net/problem/15667) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 02.  |
-| 31450 | [Everyone is a winner](https://www.acmicpc.net/problem/31450) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 03. 01.  |
-| 4690 | [완전 세제곱](https://www.acmicpc.net/problem/4690) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 02. 29.  |
-| 17618 | [신기한 수](https://www.acmicpc.net/problem/17618) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 02. 28.  |
-| 10419 | [지각](https://www.acmicpc.net/problem/10419) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 02. 27.  |
-| 15781 | [헬멧과 조끼](https://www.acmicpc.net/problem/15781) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 02. 26.  |
-| 9517 | [아이 러브 크로아티아](https://www.acmicpc.net/problem/9517) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 02. 25.  |
-| 31428 | [엘리스 트랙 매칭](https://www.acmicpc.net/problem/31428) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 02. 25.  |
-| 31429 | [SUAPC 2023 Summer](https://www.acmicpc.net/problem/31429) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 02. 24.  |
