@@ -1,85 +1,31 @@
 {
 	"problems": [
 		{
-			"id": 1357,
+			"id": 9328,
+			"level": 15,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc5f4\uc1e0",
+			"solved_count": 4128,
+			"average_try": 3.6722
+		},
+		{
+			"id": 31561,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc2dc\uacc4\ud0d1",
+			"solved_count": 198,
+			"average_try": 1.2222
+		},
+		{
+			"id": 31562,
 			"level": 5,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\ub4a4\uc9d1\ud78c \ub367\uc148",
-			"solved_count": 10106,
-			"average_try": 1.8648
-		},
-		{
-			"id": 2146,
-			"level": 13,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub2e4\ub9ac \ub9cc\ub4e4\uae30",
-			"solved_count": 10104,
-			"average_try": 2.9186
-		},
-		{
-			"id": 2529,
-			"level": 10,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ubd80\ub4f1\ud638",
-			"solved_count": 10304,
-			"average_try": 1.765
-		},
-		{
-			"id": 2586,
-			"level": 25,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc18c\ubc29\ucc28",
-			"solved_count": 197,
-			"average_try": 2.1421
-		},
-		{
-			"id": 3986,
-			"level": 7,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc88b\uc740 \ub2e8\uc5b4",
-			"solved_count": 9889,
-			"average_try": 1.7799
-		},
-		{
-			"id": 4485,
-			"level": 12,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub179\uc0c9 \uc637 \uc785\uc740 \uc560\uac00 \uc824\ub2e4\uc9c0?",
-			"solved_count": 10069,
-			"average_try": 1.9535
-		},
-		{
-			"id": 12869,
-			"level": 12,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ubba4\ud0c8\ub9ac\uc2a4\ud06c",
-			"solved_count": 3047,
-			"average_try": 2.1234
-		},
-		{
-			"id": 13949,
-			"level": 23,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc26c\uc6b4 \ubb38\uc81c",
-			"solved_count": 105,
-			"average_try": 2.4476
-		},
-		{
-			"id": 25286,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "11\uc6d4 11\uc77c",
-			"solved_count": 619,
-			"average_try": 1.7254
+			"title": "\uc804\uc8fc \ub4e3\uace0 \ub178\ub798 \ub9de\ud788\uae30",
+			"solved_count": 164,
+			"average_try": 1.1524
 		}
 	]
 }

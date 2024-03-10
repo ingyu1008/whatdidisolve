@@ -1,7 +1,10 @@
-올해 푼 문제 수: 174
+올해 푼 문제 수: 177
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 31562 | [전주 듣고 노래 맞히기](https://www.acmicpc.net/problem/31562) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> | 2024. 03. 10.  |
+| 31561 | [시계탑](https://www.acmicpc.net/problem/31561) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 10.  |
+| 9328 | [열쇠](https://www.acmicpc.net/problem/9328) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 03. 10.  |
 | 25286 | [11월 11일](https://www.acmicpc.net/problem/25286) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 10.  |
 | 13949 | [쉬운 문제](https://www.acmicpc.net/problem/13949) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/23.svg"/> | 2024. 03. 10.  |
 | 12869 | [뮤탈리스크](https://www.acmicpc.net/problem/12869) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 03. 10.  |
@@ -19,6 +22,3 @@
 | 2991 | [사나운 개](https://www.acmicpc.net/problem/2991) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 07.  |
 | 31465 | [초콜릿 종류 맞히기](https://www.acmicpc.net/problem/31465) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/21.svg"/> | 2024. 03. 06.  |
 | 31518 | [Triple Sevens](https://www.acmicpc.net/problem/31518) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 06.  |
-| 31520 | [Champernowne Verification](https://www.acmicpc.net/problem/31520) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 05.  |
-| 4435 | [중간계 전쟁](https://www.acmicpc.net/problem/4435) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 04.  |
-| 31495 | [그게 무슨 코드니..](https://www.acmicpc.net/problem/31495) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 03.  |
