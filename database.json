@@ -15976,8 +15976,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "$A + B - C$",
-				"solved_count": 809,
-				"average_try": 1.3498
+				"solved_count": 814,
+				"average_try": 1.3501
 			},
 			{
 				"id": 31412,
@@ -16048,8 +16048,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Triple Sevens",
-				"solved_count": 152,
-				"average_try": 1.2368
+				"solved_count": 154,
+				"average_try": 1.2403
 			},
 			{
 				"id": 31520,
@@ -16062,5 +16062,5 @@
 			}
 		]
 	},
-	"last_updated": "Sun Mar 10 00:47:16 2024"
+	"last_updated": "Sun Mar 10 06:12:05 2024"
 }
