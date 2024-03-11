@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1799,
+		"total_problems": 1801,
 		"total_page": 1,
 		"problems": [
 			{
@@ -9806,6 +9806,15 @@
 				"average_try": 2.1104
 			},
 			{
+				"id": 14909,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc591\uc218 \uac1c\uc218 \uc138\uae30",
+				"solved_count": 1917,
+				"average_try": 1.3015
+			},
+			{
 				"id": 14916,
 				"level": 6,
 				"level_locked": 0,
@@ -12765,6 +12774,15 @@
 				"title": "Atrium",
 				"solved_count": 1218,
 				"average_try": 1.188
+			},
+			{
+				"id": 20361,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc77c\uc6b0\ub294 \uc57c\ubc14\uc704\uafbc",
+				"solved_count": 1864,
+				"average_try": 1.552
 			},
 			{
 				"id": 20492,
@@ -16129,8 +16147,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Everyone is a winner",
-				"solved_count": 424,
-				"average_try": 1.2665
+				"solved_count": 426,
+				"average_try": 1.2653
 			},
 			{
 				"id": 31465,
@@ -16147,8 +16165,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uac08\ub798\uc758 \uc0c9\uc885\uc774 \uc790\ub974\uae30",
-				"solved_count": 428,
-				"average_try": 1.3972
+				"solved_count": 431,
+				"average_try": 1.3968
 			},
 			{
 				"id": 31495,
@@ -16165,8 +16183,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Triple Sevens",
-				"solved_count": 164,
-				"average_try": 1.2317
+				"solved_count": 165,
+				"average_try": 1.2303
 			},
 			{
 				"id": 31520,
@@ -16174,8 +16192,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Champernowne Verification",
-				"solved_count": 121,
-				"average_try": 1.3636
+				"solved_count": 122,
+				"average_try": 1.3607
 			},
 			{
 				"id": 31561,
@@ -16192,10 +16210,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc804\uc8fc \ub4e3\uace0 \ub178\ub798 \ub9de\ud788\uae30",
-				"solved_count": 172,
-				"average_try": 1.1453
+				"solved_count": 177,
+				"average_try": 1.1412
 			}
 		]
 	},
-	"last_updated": "Mon Mar 11 06:13:26 2024"
+	"last_updated": "Mon Mar 11 12:18:04 2024"
 }
