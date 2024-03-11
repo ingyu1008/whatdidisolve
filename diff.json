@@ -1,22 +1,3 @@
 {
-	"problems": [
-		{
-			"id": 14909,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc591\uc218 \uac1c\uc218 \uc138\uae30",
-			"solved_count": 1917,
-			"average_try": 1.3015
-		},
-		{
-			"id": 20361,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc77c\uc6b0\ub294 \uc57c\ubc14\uc704\uafbc",
-			"solved_count": 1864,
-			"average_try": 1.552
-		}
-	]
+	"problems": []
 }
