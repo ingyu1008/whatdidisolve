@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1796,
+		"total_problems": 1799,
 		"total_page": 1,
 		"problems": [
 			{
@@ -294,7 +294,7 @@
 			},
 			{
 				"id": 1074,
-				"level": 10,
+				"level": 11,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Z",
@@ -4910,6 +4910,15 @@
 				"average_try": 5.1659
 			},
 			{
+				"id": 5485,
+				"level": 14,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ud3c9\uade0\uac12 \uc218\uc5f4",
+				"solved_count": 194,
+				"average_try": 3.1753
+			},
+			{
 				"id": 5522,
 				"level": 1,
 				"level_locked": 0,
@@ -6186,6 +6195,15 @@
 				"title": "\uc2dc\ud5d8 \uc131\uc801",
 				"solved_count": 179381,
 				"average_try": 1.8199
+			},
+			{
+				"id": 9505,
+				"level": 12,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc5d4\ud130\ud504\ub77c\uc774\uc988\ud638 \ud0c8\ucd9c",
+				"solved_count": 166,
+				"average_try": 3.3373
 			},
 			{
 				"id": 9506,
@@ -14711,6 +14729,15 @@
 				"average_try": 1.1739
 			},
 			{
+				"id": 27115,
+				"level": 15,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ud1b5\uc2e0\uc18c",
+				"solved_count": 86,
+				"average_try": 4.5581
+			},
+			{
 				"id": 27159,
 				"level": 3,
 				"level_locked": 0,
@@ -16138,8 +16165,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Triple Sevens",
-				"solved_count": 161,
-				"average_try": 1.236
+				"solved_count": 164,
+				"average_try": 1.2317
 			},
 			{
 				"id": 31520,
@@ -16156,8 +16183,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc2dc\uacc4\ud0d1",
-				"solved_count": 213,
-				"average_try": 1.2113
+				"solved_count": 228,
+				"average_try": 1.2237
 			},
 			{
 				"id": 31562,
@@ -16165,10 +16192,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc804\uc8fc \ub4e3\uace0 \ub178\ub798 \ub9de\ud788\uae30",
-				"solved_count": 167,
-				"average_try": 1.1497
+				"solved_count": 172,
+				"average_try": 1.1453
 			}
 		]
 	},
-	"last_updated": "Mon Mar 11 00:44:46 2024"
+	"last_updated": "Mon Mar 11 06:13:26 2024"
 }
