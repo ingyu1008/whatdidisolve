@@ -1,7 +1,10 @@
-올해 푼 문제 수: 183
+올해 푼 문제 수: 186
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 11509 | [풍선 맞추기](https://www.acmicpc.net/problem/11509) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 03. 12.  |
+| 11501 | [주식](https://www.acmicpc.net/problem/11501) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> | 2024. 03. 12.  |
+| 1071 | [소트](https://www.acmicpc.net/problem/1071) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 03. 12.  |
 | 31503 | [DP (Large)](https://www.acmicpc.net/problem/31503) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 03. 12.  |
 | 20361 | [일우는 야바위꾼](https://www.acmicpc.net/problem/20361) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 11.  |
 | 14909 | [양수 개수 세기](https://www.acmicpc.net/problem/14909) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 11.  |
@@ -19,6 +22,3 @@
 | 2586 | [소방차](https://www.acmicpc.net/problem/2586) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/25.svg"/> | 2024. 03. 10.  |
 | 2529 | [부등호](https://www.acmicpc.net/problem/2529) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | 2024. 03. 10.  |
 | 2146 | [다리 만들기](https://www.acmicpc.net/problem/2146) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 03. 10.  |
-| 1357 | [뒤집힌 덧셈](https://www.acmicpc.net/problem/1357) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> | 2024. 03. 10.  |
-| 2547 | [사탕 선생 고창영](https://www.acmicpc.net/problem/2547) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 10.  |
-| 11134 | [쿠키애호가](https://www.acmicpc.net/problem/11134) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 09.  |
