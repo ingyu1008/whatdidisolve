@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1801,
+		"total_problems": 1802,
 		"total_page": 1,
 		"problems": [
 			{
@@ -16178,6 +16178,15 @@
 				"average_try": 2.9596
 			},
 			{
+				"id": 31503,
+				"level": 16,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "DP (Large)",
+				"solved_count": 45,
+				"average_try": 1.3556
+			},
+			{
 				"id": 31518,
 				"level": 2,
 				"level_locked": 0,
@@ -16192,8 +16201,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Champernowne Verification",
-				"solved_count": 128,
-				"average_try": 1.3594
+				"solved_count": 131,
+				"average_try": 1.4122
 			},
 			{
 				"id": 31561,
@@ -16210,10 +16219,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc804\uc8fc \ub4e3\uace0 \ub178\ub798 \ub9de\ud788\uae30",
-				"solved_count": 187,
-				"average_try": 1.1444
+				"solved_count": 192,
+				"average_try": 1.1458
 			}
 		]
 	},
-	"last_updated": "Tue Mar 12 00:43:12 2024"
+	"last_updated": "Tue Mar 12 06:13:23 2024"
 }

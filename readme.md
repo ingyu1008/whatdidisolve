@@ -1,7 +1,8 @@
-올해 푼 문제 수: 182
+올해 푼 문제 수: 183
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 31503 | [DP (Large)](https://www.acmicpc.net/problem/31503) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 03. 12.  |
 | 20361 | [일우는 야바위꾼](https://www.acmicpc.net/problem/20361) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 11.  |
 | 14909 | [양수 개수 세기](https://www.acmicpc.net/problem/14909) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 11.  |
 | 27115 | [통신소](https://www.acmicpc.net/problem/27115) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 03. 11.  |
@@ -21,4 +22,3 @@
 | 1357 | [뒤집힌 덧셈](https://www.acmicpc.net/problem/1357) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> | 2024. 03. 10.  |
 | 2547 | [사탕 선생 고창영](https://www.acmicpc.net/problem/2547) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 10.  |
 | 11134 | [쿠키애호가](https://www.acmicpc.net/problem/11134) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 09.  |
-| 1637 | [날카로운 눈](https://www.acmicpc.net/problem/1637) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> | 2024. 03. 08.  |
