@@ -16237,8 +16237,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Champernowne Verification",
-				"solved_count": 136,
-				"average_try": 1.3971
+				"solved_count": 138,
+				"average_try": 1.3913
 			},
 			{
 				"id": 31561,
@@ -16246,8 +16246,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc2dc\uacc4\ud0d1",
-				"solved_count": 328,
-				"average_try": 1.25
+				"solved_count": 336,
+				"average_try": 1.3006
 			},
 			{
 				"id": 31562,
@@ -16255,10 +16255,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc804\uc8fc \ub4e3\uace0 \ub178\ub798 \ub9de\ud788\uae30",
-				"solved_count": 209,
-				"average_try": 1.134
+				"solved_count": 210,
+				"average_try": 1.1333
 			}
 		]
 	},
-	"last_updated": "Wed Mar 13 12:18:36 2024"
+	"last_updated": "Wed Mar 13 18:12:33 2024"
 }
