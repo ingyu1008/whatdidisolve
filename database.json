@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1805,
+		"total_problems": 1806,
 		"total_page": 1,
 		"problems": [
 			{
@@ -5180,6 +5180,15 @@
 				"average_try": 4.9196
 			},
 			{
+				"id": 5864,
+				"level": 12,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Wifi Setup",
+				"solved_count": 73,
+				"average_try": 3.1096
+			},
+			{
 				"id": 5893,
 				"level": 3,
 				"level_locked": 0,
@@ -9969,7 +9978,7 @@
 			},
 			{
 				"id": 15232,
-				"level": 2,
+				"level": 1,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Rectangles",
@@ -16228,8 +16237,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Champernowne Verification",
-				"solved_count": 135,
-				"average_try": 1.4
+				"solved_count": 136,
+				"average_try": 1.3971
 			},
 			{
 				"id": 31561,
@@ -16251,5 +16260,5 @@
 			}
 		]
 	},
-	"last_updated": "Wed Mar 13 06:14:26 2024"
+	"last_updated": "Wed Mar 13 12:18:36 2024"
 }

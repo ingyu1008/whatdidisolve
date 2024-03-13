@@ -1,3 +1,13 @@
 {
-	"problems": []
+	"problems": [
+		{
+			"id": 5864,
+			"level": 12,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Wifi Setup",
+			"solved_count": 73,
+			"average_try": 3.1096
+		}
+	]
 }

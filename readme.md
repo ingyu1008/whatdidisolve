@@ -1,7 +1,8 @@
-올해 푼 문제 수: 186
+올해 푼 문제 수: 187
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 5864 | [Wifi Setup](https://www.acmicpc.net/problem/5864) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 03. 13.  |
 | 11509 | [풍선 맞추기](https://www.acmicpc.net/problem/11509) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 03. 12.  |
 | 11501 | [주식](https://www.acmicpc.net/problem/11501) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> | 2024. 03. 12.  |
 | 1071 | [소트](https://www.acmicpc.net/problem/1071) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 03. 12.  |
@@ -21,4 +22,3 @@
 | 3986 | [좋은 단어](https://www.acmicpc.net/problem/3986) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> | 2024. 03. 10.  |
 | 2586 | [소방차](https://www.acmicpc.net/problem/2586) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/25.svg"/> | 2024. 03. 10.  |
 | 2529 | [부등호](https://www.acmicpc.net/problem/2529) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | 2024. 03. 10.  |
-| 2146 | [다리 만들기](https://www.acmicpc.net/problem/2146) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 03. 10.  |
