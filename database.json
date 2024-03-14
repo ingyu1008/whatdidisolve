@@ -16255,8 +16255,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc804\uc8fc \ub4e3\uace0 \ub178\ub798 \ub9de\ud788\uae30",
-				"solved_count": 215,
-				"average_try": 1.1395
+				"solved_count": 216,
+				"average_try": 1.1389
 			},
 			{
 				"id": 31606,
@@ -16264,10 +16264,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u679c\u7269 (Fruit)",
-				"solved_count": 156,
-				"average_try": 1.0769
+				"solved_count": 172,
+				"average_try": 1.0756
 			}
 		]
 	},
-	"last_updated": "Thu Mar 14 12:18:58 2024"
+	"last_updated": "Thu Mar 14 18:12:41 2024"
 }
