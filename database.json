@@ -3363,8 +3363,8 @@
 			},
 			{
 				"id": 2738,
-				"level": 1,
-				"level_locked": 1,
+				"level": 3,
+				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud589\ub82c \ub367\uc148",
 				"solved_count": 35649,
@@ -3498,8 +3498,8 @@
 			},
 			{
 				"id": 2754,
-				"level": 1,
-				"level_locked": 1,
+				"level": 3,
+				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud559\uc810\uacc4\uc0b0",
 				"solved_count": 18166,
@@ -5055,8 +5055,8 @@
 			},
 			{
 				"id": 5597,
-				"level": 1,
-				"level_locked": 1,
+				"level": 3,
+				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uacfc\uc81c \uc548 \ub0b4\uc2e0 \ubd84..?",
 				"solved_count": 50536,
@@ -7116,8 +7116,8 @@
 			},
 			{
 				"id": 10872,
-				"level": 1,
-				"level_locked": 1,
+				"level": 3,
+				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud329\ud1a0\ub9ac\uc5bc",
 				"solved_count": 74286,
@@ -8025,8 +8025,8 @@
 			},
 			{
 				"id": 11718,
-				"level": 1,
-				"level_locked": 1,
+				"level": 3,
+				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uadf8\ub300\ub85c \ucd9c\ub825\ud558\uae30",
 				"solved_count": 59881,
@@ -16228,8 +16228,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Triple Sevens",
-				"solved_count": 173,
-				"average_try": 1.2312
+				"solved_count": 174,
+				"average_try": 1.2299
 			},
 			{
 				"id": 31520,
@@ -16255,8 +16255,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc804\uc8fc \ub4e3\uace0 \ub178\ub798 \ub9de\ud788\uae30",
-				"solved_count": 210,
-				"average_try": 1.1333
+				"solved_count": 213,
+				"average_try": 1.1408
 			},
 			{
 				"id": 31606,
@@ -16264,10 +16264,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u679c\u7269 (Fruit)",
-				"solved_count": 123,
-				"average_try": 1.0813
+				"solved_count": 137,
+				"average_try": 1.0803
 			}
 		]
 	},
-	"last_updated": "Thu Mar 14 00:43:21 2024"
+	"last_updated": "Thu Mar 14 06:13:13 2024"
 }
