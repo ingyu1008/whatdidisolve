@@ -1,6 +1,16 @@
 {
 	"problems": [
 		{
+			"id": 31606,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u679c\u7269 (Fruit)",
+			"solved_count": 123,
+			"average_try": 1.0813,
+			"update_date": "Thu Mar 14 00:43:21 2024"
+		},
+		{
 			"id": 5864,
 			"level": 12,
 			"level_locked": 0,
@@ -1871,5 +1881,5 @@
 			"update_date": "Sat Jan 20 05:51:17 2024"
 		}
 	],
-	"last_updated": "Wed Mar 13 18:12:33 2024"
+	"last_updated": "Thu Mar 14 00:43:21 2024"
 }

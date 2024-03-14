@@ -1,3 +1,13 @@
 {
-	"problems": []
+	"problems": [
+		{
+			"id": 31606,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u679c\u7269 (Fruit)",
+			"solved_count": 123,
+			"average_try": 1.0813
+		}
+	]
 }
