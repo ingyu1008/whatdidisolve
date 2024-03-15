@@ -16237,8 +16237,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Champernowne Verification",
-				"solved_count": 144,
-				"average_try": 1.4236
+				"solved_count": 145,
+				"average_try": 1.4207
 			},
 			{
 				"id": 31561,
@@ -16255,8 +16255,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc804\uc8fc \ub4e3\uace0 \ub178\ub798 \ub9de\ud788\uae30",
-				"solved_count": 217,
-				"average_try": 1.1382
+				"solved_count": 224,
+				"average_try": 1.1607
 			},
 			{
 				"id": 31606,
@@ -16264,8 +16264,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u679c\u7269 (Fruit)",
-				"solved_count": 195,
-				"average_try": 1.0718
+				"solved_count": 204,
+				"average_try": 1.0784
 			},
 			{
 				"id": 31614,
@@ -16273,10 +16273,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u5206 (Minutes)",
-				"solved_count": 168,
-				"average_try": 1.0595
+				"solved_count": 181,
+				"average_try": 1.0552
 			}
 		]
 	},
-	"last_updated": "Fri Mar 15 12:17:26 2024"
+	"last_updated": "Fri Mar 15 18:13:49 2024"
 }
