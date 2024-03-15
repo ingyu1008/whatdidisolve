@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1807,
+		"total_problems": 1808,
 		"total_page": 1,
 		"problems": [
 			{
@@ -16228,8 +16228,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Triple Sevens",
-				"solved_count": 177,
-				"average_try": 1.2655
+				"solved_count": 179,
+				"average_try": 1.2626
 			},
 			{
 				"id": 31520,
@@ -16237,8 +16237,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Champernowne Verification",
-				"solved_count": 142,
-				"average_try": 1.4296
+				"solved_count": 144,
+				"average_try": 1.4236
 			},
 			{
 				"id": 31561,
@@ -16255,8 +16255,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc804\uc8fc \ub4e3\uace0 \ub178\ub798 \ub9de\ud788\uae30",
-				"solved_count": 216,
-				"average_try": 1.1389
+				"solved_count": 217,
+				"average_try": 1.1382
 			},
 			{
 				"id": 31606,
@@ -16264,10 +16264,19 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u679c\u7269 (Fruit)",
-				"solved_count": 186,
-				"average_try": 1.0753
+				"solved_count": 195,
+				"average_try": 1.0718
+			},
+			{
+				"id": 31614,
+				"level": 1,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\u5206 (Minutes)",
+				"solved_count": 168,
+				"average_try": 1.0595
 			}
 		]
 	},
-	"last_updated": "Fri Mar 15 06:13:28 2024"
+	"last_updated": "Fri Mar 15 12:17:26 2024"
 }

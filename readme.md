@@ -1,7 +1,8 @@
-올해 푼 문제 수: 188
+올해 푼 문제 수: 189
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 31614 | [分 (Minutes)](https://www.acmicpc.net/problem/31614) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 03. 15.  |
 | 31606 | [果物 (Fruit)](https://www.acmicpc.net/problem/31606) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 03. 14.  |
 | 5864 | [Wifi Setup](https://www.acmicpc.net/problem/5864) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 03. 13.  |
 | 11509 | [풍선 맞추기](https://www.acmicpc.net/problem/11509) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 03. 12.  |
@@ -21,4 +22,3 @@
 | 12869 | [뮤탈리스크](https://www.acmicpc.net/problem/12869) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 03. 10.  |
 | 4485 | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 03. 10.  |
 | 3986 | [좋은 단어](https://www.acmicpc.net/problem/3986) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> | 2024. 03. 10.  |
-| 2586 | [소방차](https://www.acmicpc.net/problem/2586) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/25.svg"/> | 2024. 03. 10.  |

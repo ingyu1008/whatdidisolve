@@ -1,3 +1,13 @@
 {
-	"problems": []
+	"problems": [
+		{
+			"id": 31614,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u5206 (Minutes)",
+			"solved_count": 168,
+			"average_try": 1.0595
+		}
+	]
 }
