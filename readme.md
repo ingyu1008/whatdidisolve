@@ -1,7 +1,10 @@
-올해 푼 문제 수: 190
+올해 푼 문제 수: 193
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 23274 | [Joint Jog Jam](https://www.acmicpc.net/problem/23274) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> | 2024. 03. 17.  |
+| 23271 | [Grazed Grains](https://www.acmicpc.net/problem/23271) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 03. 17.  |
+| 23268 | [Deceptive Directions](https://www.acmicpc.net/problem/23268) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | 2024. 03. 17.  |
 | 31611 | [火曜日 (Tuesday)](https://www.acmicpc.net/problem/31611) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 03. 16.  |
 | 31614 | [分 (Minutes)](https://www.acmicpc.net/problem/31614) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 03. 15.  |
 | 31606 | [果物 (Fruit)](https://www.acmicpc.net/problem/31606) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 03. 14.  |
@@ -19,6 +22,3 @@
 | 31561 | [시계탑](https://www.acmicpc.net/problem/31561) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 10.  |
 | 9328 | [열쇠](https://www.acmicpc.net/problem/9328) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 03. 10.  |
 | 25286 | [11월 11일](https://www.acmicpc.net/problem/25286) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 10.  |
-| 13949 | [쉬운 문제](https://www.acmicpc.net/problem/13949) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/23.svg"/> | 2024. 03. 10.  |
-| 12869 | [뮤탈리스크](https://www.acmicpc.net/problem/12869) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 03. 10.  |
-| 4485 | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 03. 10.  |
