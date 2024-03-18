@@ -1,7 +1,8 @@
-올해 푼 문제 수: 195
+올해 푼 문제 수: 196
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 31610 | [飴の袋詰め (Drops Packing)](https://www.acmicpc.net/problem/31610) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 03. 18.  |
 | 31631 | [:rightplant:](https://www.acmicpc.net/problem/31631) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 03. 18.  |
 | 31628 | [가지 한 두름 주세요](https://www.acmicpc.net/problem/31628) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 18.  |
 | 23274 | [Joint Jog Jam](https://www.acmicpc.net/problem/23274) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> | 2024. 03. 17.  |
@@ -21,4 +22,3 @@
 | 9505 | [엔터프라이즈호 탈출](https://www.acmicpc.net/problem/9505) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 03. 11.  |
 | 5485 | [평균값 수열](https://www.acmicpc.net/problem/5485) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | 2024. 03. 11.  |
 | 31562 | [전주 듣고 노래 맞히기](https://www.acmicpc.net/problem/31562) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> | 2024. 03. 10.  |
-| 31561 | [시계탑](https://www.acmicpc.net/problem/31561) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 10.  |

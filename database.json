@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1814,
+		"total_problems": 1815,
 		"total_page": 1,
 		"problems": [
 			{
@@ -16255,8 +16255,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Triple Sevens",
-				"solved_count": 184,
-				"average_try": 1.2609
+				"solved_count": 185,
+				"average_try": 1.2595
 			},
 			{
 				"id": 31520,
@@ -16282,8 +16282,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc804\uc8fc \ub4e3\uace0 \ub178\ub798 \ub9de\ud788\uae30",
-				"solved_count": 230,
-				"average_try": 1.1609
+				"solved_count": 231,
+				"average_try": 1.1602
 			},
 			{
 				"id": 31606,
@@ -16293,6 +16293,15 @@
 				"title": "\u679c\u7269 (Fruit)",
 				"solved_count": 270,
 				"average_try": 1.0741
+			},
+			{
+				"id": 31610,
+				"level": 1,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\u98f4\u306e\u888b\u8a70\u3081 (Drops Packing)",
+				"solved_count": 245,
+				"average_try": 1.0816
 			},
 			{
 				"id": 31611,
@@ -16323,7 +16332,7 @@
 			},
 			{
 				"id": 31631,
-				"level": 11,
+				"level": 12,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": ":rightplant:",
@@ -16332,5 +16341,5 @@
 			}
 		]
 	},
-	"last_updated": "Mon Mar 18 00:44:37 2024"
+	"last_updated": "Mon Mar 18 06:14:07 2024"
 }
