@@ -16309,8 +16309,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u98f4\u306e\u888b\u8a70\u3081 (Drops Packing)",
-				"solved_count": 258,
-				"average_try": 1.093
+				"solved_count": 260,
+				"average_try": 1.0923
 			},
 			{
 				"id": 31611,
@@ -16336,8 +16336,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uac00\uc9c0 \ud55c \ub450\ub984 \uc8fc\uc138\uc694",
-				"solved_count": 349,
-				"average_try": 1.467
+				"solved_count": 396,
+				"average_try": 1.4444
 			},
 			{
 				"id": 31631,
@@ -16350,5 +16350,5 @@
 			}
 		]
 	},
-	"last_updated": "Mon Mar 18 12:17:45 2024"
+	"last_updated": "Mon Mar 18 18:12:40 2024"
 }
