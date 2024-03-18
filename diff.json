@@ -1,13 +1,13 @@
 {
 	"problems": [
 		{
-			"id": 31610,
-			"level": 1,
+			"id": 16174,
+			"level": 10,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\u98f4\u306e\u888b\u8a70\u3081 (Drops Packing)",
-			"solved_count": 245,
-			"average_try": 1.0816
+			"title": "\uc810\ud504\uc655 \uca70\ub9ac (Large)",
+			"solved_count": 1233,
+			"average_try": 2.2052
 		}
 	]
 }
