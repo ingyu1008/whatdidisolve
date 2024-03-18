@@ -1,7 +1,9 @@
-올해 푼 문제 수: 193
+올해 푼 문제 수: 195
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 31631 | [:rightplant:](https://www.acmicpc.net/problem/31631) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 03. 18.  |
+| 31628 | [가지 한 두름 주세요](https://www.acmicpc.net/problem/31628) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 18.  |
 | 23274 | [Joint Jog Jam](https://www.acmicpc.net/problem/23274) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> | 2024. 03. 17.  |
 | 23271 | [Grazed Grains](https://www.acmicpc.net/problem/23271) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 03. 17.  |
 | 23268 | [Deceptive Directions](https://www.acmicpc.net/problem/23268) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | 2024. 03. 17.  |
@@ -20,5 +22,3 @@
 | 5485 | [평균값 수열](https://www.acmicpc.net/problem/5485) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | 2024. 03. 11.  |
 | 31562 | [전주 듣고 노래 맞히기](https://www.acmicpc.net/problem/31562) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> | 2024. 03. 10.  |
 | 31561 | [시계탑](https://www.acmicpc.net/problem/31561) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 10.  |
-| 9328 | [열쇠](https://www.acmicpc.net/problem/9328) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 03. 10.  |
-| 25286 | [11월 11일](https://www.acmicpc.net/problem/25286) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 10.  |
