@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1817,
+		"total_problems": 1818,
 		"total_page": 1,
 		"problems": [
 			{
@@ -10661,6 +10661,15 @@
 				"average_try": 2.3118
 			},
 			{
+				"id": 16227,
+				"level": 14,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc758\uc57d\ud488 \uc218\uc1a1",
+				"solved_count": 81,
+				"average_try": 2.4321
+			},
+			{
 				"id": 16234,
 				"level": 12,
 				"level_locked": 0,
@@ -16264,8 +16273,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "DP (Large)",
-				"solved_count": 51,
-				"average_try": 1.3922
+				"solved_count": 53,
+				"average_try": 1.3774
 			},
 			{
 				"id": 31518,
@@ -16282,8 +16291,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Champernowne Verification",
-				"solved_count": 149,
-				"average_try": 1.4094
+				"solved_count": 151,
+				"average_try": 1.404
 			},
 			{
 				"id": 31561,
@@ -16318,8 +16327,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u98f4\u306e\u888b\u8a70\u3081 (Drops Packing)",
-				"solved_count": 262,
-				"average_try": 1.0916
+				"solved_count": 272,
+				"average_try": 1.0882
 			},
 			{
 				"id": 31611,
@@ -16336,8 +16345,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u5206 (Minutes)",
-				"solved_count": 310,
-				"average_try": 1.071
+				"solved_count": 315,
+				"average_try": 1.0698
 			},
 			{
 				"id": 31628,
@@ -16350,7 +16359,7 @@
 			},
 			{
 				"id": 31631,
-				"level": 12,
+				"level": 13,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": ":rightplant:",
@@ -16359,5 +16368,5 @@
 			}
 		]
 	},
-	"last_updated": "Tue Mar 19 06:13:20 2024"
+	"last_updated": "Tue Mar 19 12:18:06 2024"
 }
