@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1816,
+		"total_problems": 1817,
 		"total_page": 1,
 		"problems": [
 			{
@@ -4125,6 +4125,15 @@
 				"title": "\ucc28\uc774\ub97c \ucd5c\uc18c\ub85c",
 				"solved_count": 367,
 				"average_try": 3.3379
+			},
+			{
+				"id": 3109,
+				"level": 14,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ube75\uc9d1",
+				"solved_count": 6441,
+				"average_try": 3.1821
 			},
 			{
 				"id": 3111,
@@ -16255,8 +16264,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "DP (Large)",
-				"solved_count": 50,
-				"average_try": 1.4
+				"solved_count": 51,
+				"average_try": 1.3922
 			},
 			{
 				"id": 31518,
@@ -16273,8 +16282,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Champernowne Verification",
-				"solved_count": 148,
-				"average_try": 1.4122
+				"solved_count": 149,
+				"average_try": 1.4094
 			},
 			{
 				"id": 31561,
@@ -16291,8 +16300,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc804\uc8fc \ub4e3\uace0 \ub178\ub798 \ub9de\ud788\uae30",
-				"solved_count": 231,
-				"average_try": 1.1602
+				"solved_count": 236,
+				"average_try": 1.1737
 			},
 			{
 				"id": 31606,
@@ -16327,8 +16336,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u5206 (Minutes)",
-				"solved_count": 309,
-				"average_try": 1.0712
+				"solved_count": 310,
+				"average_try": 1.071
 			},
 			{
 				"id": 31628,
@@ -16341,7 +16350,7 @@
 			},
 			{
 				"id": 31631,
-				"level": 13,
+				"level": 12,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": ":rightplant:",
@@ -16350,5 +16359,5 @@
 			}
 		]
 	},
-	"last_updated": "Tue Mar 19 00:43:30 2024"
+	"last_updated": "Tue Mar 19 06:13:20 2024"
 }

@@ -1,7 +1,8 @@
-올해 푼 문제 수: 197
+올해 푼 문제 수: 198
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 3109 | [빵집](https://www.acmicpc.net/problem/3109) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | 2024. 03. 19.  |
 | 16174 | [점프왕 쩰리 (Large)](https://www.acmicpc.net/problem/16174) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | 2024. 03. 18.  |
 | 31610 | [飴の袋詰め (Drops Packing)](https://www.acmicpc.net/problem/31610) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 03. 18.  |
 | 31631 | [:rightplant:](https://www.acmicpc.net/problem/31631) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 03. 18.  |
@@ -21,4 +22,3 @@
 | 14909 | [양수 개수 세기](https://www.acmicpc.net/problem/14909) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 11.  |
 | 27115 | [통신소](https://www.acmicpc.net/problem/27115) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 03. 11.  |
 | 9505 | [엔터프라이즈호 탈출](https://www.acmicpc.net/problem/9505) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 03. 11.  |
-| 5485 | [평균값 수열](https://www.acmicpc.net/problem/5485) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | 2024. 03. 11.  |
