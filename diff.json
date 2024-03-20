@@ -1,13 +1,13 @@
 {
 	"problems": [
 		{
-			"id": 16227,
-			"level": 14,
+			"id": 17404,
+			"level": 12,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\uc758\uc57d\ud488 \uc218\uc1a1",
-			"solved_count": 81,
-			"average_try": 2.4321
+			"title": "RGB\uac70\ub9ac 2",
+			"solved_count": 7329,
+			"average_try": 1.6871
 		}
 	]
 }

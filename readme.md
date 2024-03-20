@@ -1,7 +1,8 @@
-올해 푼 문제 수: 199
+올해 푼 문제 수: 200
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 17404 | [RGB거리 2](https://www.acmicpc.net/problem/17404) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 03. 20.  |
 | 16227 | [의약품 수송](https://www.acmicpc.net/problem/16227) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | 2024. 03. 19.  |
 | 3109 | [빵집](https://www.acmicpc.net/problem/3109) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | 2024. 03. 19.  |
 | 16174 | [점프왕 쩰리 (Large)](https://www.acmicpc.net/problem/16174) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | 2024. 03. 18.  |
@@ -21,4 +22,3 @@
 | 31503 | [DP (Large)](https://www.acmicpc.net/problem/31503) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 03. 12.  |
 | 20361 | [일우는 야바위꾼](https://www.acmicpc.net/problem/20361) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 11.  |
 | 14909 | [양수 개수 세기](https://www.acmicpc.net/problem/14909) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 11.  |
-| 27115 | [통신소](https://www.acmicpc.net/problem/27115) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 03. 11.  |
