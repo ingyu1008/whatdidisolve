@@ -16282,8 +16282,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "DP (Large)",
-				"solved_count": 53,
-				"average_try": 1.3774
+				"solved_count": 54,
+				"average_try": 1.3704
 			},
 			{
 				"id": 31518,
@@ -16291,8 +16291,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Triple Sevens",
-				"solved_count": 190,
-				"average_try": 1.2684
+				"solved_count": 191,
+				"average_try": 1.267
 			},
 			{
 				"id": 31520,
@@ -16377,5 +16377,5 @@
 			}
 		]
 	},
-	"last_updated": "Wed Mar 20 06:13:19 2024"
+	"last_updated": "Wed Mar 20 12:17:41 2024"
 }
