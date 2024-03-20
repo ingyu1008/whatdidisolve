@@ -16354,8 +16354,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u5206 (Minutes)",
-				"solved_count": 335,
-				"average_try": 1.0657
+				"solved_count": 339,
+				"average_try": 1.0649
 			},
 			{
 				"id": 31628,
@@ -16377,5 +16377,5 @@
 			}
 		]
 	},
-	"last_updated": "Wed Mar 20 00:43:23 2024"
+	"last_updated": "Wed Mar 20 06:13:19 2024"
 }
