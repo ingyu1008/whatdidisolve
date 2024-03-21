@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1819,
+		"total_problems": 1820,
 		"total_page": 1,
 		"problems": [
 			{
@@ -16291,8 +16291,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Triple Sevens",
-				"solved_count": 192,
-				"average_try": 1.2656
+				"solved_count": 193,
+				"average_try": 1.2642
 			},
 			{
 				"id": 31520,
@@ -16300,8 +16300,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Champernowne Verification",
-				"solved_count": 153,
-				"average_try": 1.4052
+				"solved_count": 155,
+				"average_try": 1.4
 			},
 			{
 				"id": 31561,
@@ -16374,8 +16374,17 @@
 				"title": ":rightplant:",
 				"solved_count": 120,
 				"average_try": 2.8167
+			},
+			{
+				"id": 31654,
+				"level": 1,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Adding Trouble",
+				"solved_count": 41,
+				"average_try": 1.0488
 			}
 		]
 	},
-	"last_updated": "Thu Mar 21 00:45:19 2024"
+	"last_updated": "Thu Mar 21 06:13:19 2024"
 }
