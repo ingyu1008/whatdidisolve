@@ -16282,8 +16282,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "DP (Large)",
-				"solved_count": 54,
-				"average_try": 1.3704
+				"solved_count": 55,
+				"average_try": 1.4182
 			},
 			{
 				"id": 31518,
@@ -16300,8 +16300,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Champernowne Verification",
-				"solved_count": 155,
-				"average_try": 1.4
+				"solved_count": 156,
+				"average_try": 1.4103
 			},
 			{
 				"id": 31561,
@@ -16381,10 +16381,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Adding Trouble",
-				"solved_count": 91,
-				"average_try": 1.1319
+				"solved_count": 142,
+				"average_try": 1.0915
 			}
 		]
 	},
-	"last_updated": "Thu Mar 21 12:17:36 2024"
+	"last_updated": "Thu Mar 21 18:13:00 2024"
 }
