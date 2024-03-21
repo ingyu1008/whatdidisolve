@@ -16291,8 +16291,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Triple Sevens",
-				"solved_count": 193,
-				"average_try": 1.2642
+				"solved_count": 194,
+				"average_try": 1.2629
 			},
 			{
 				"id": 31520,
@@ -16381,10 +16381,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Adding Trouble",
-				"solved_count": 41,
-				"average_try": 1.0488
+				"solved_count": 91,
+				"average_try": 1.1319
 			}
 		]
 	},
-	"last_updated": "Thu Mar 21 06:13:19 2024"
+	"last_updated": "Thu Mar 21 12:17:36 2024"
 }
