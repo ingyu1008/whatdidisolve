@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1821,
+		"total_problems": 1822,
 		"total_page": 1,
 		"problems": [
 			{
@@ -12524,6 +12524,15 @@
 				"average_try": 4.4174
 			},
 			{
+				"id": 19672,
+				"level": 22,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Feast",
+				"solved_count": 36,
+				"average_try": 2.8333
+			},
+			{
 				"id": 19698,
 				"level": 2,
 				"level_locked": 0,
@@ -16282,8 +16291,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "DP (Large)",
-				"solved_count": 55,
-				"average_try": 1.4182
+				"solved_count": 56,
+				"average_try": 1.4286
 			},
 			{
 				"id": 31518,
@@ -16300,8 +16309,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Champernowne Verification",
-				"solved_count": 156,
-				"average_try": 1.4103
+				"solved_count": 157,
+				"average_try": 1.414
 			},
 			{
 				"id": 31561,
@@ -16363,8 +16372,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 138,
-				"average_try": 1.1014
+				"solved_count": 143,
+				"average_try": 1.1049
 			},
 			{
 				"id": 31628,
@@ -16390,10 +16399,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Adding Trouble",
-				"solved_count": 192,
-				"average_try": 1.1458
+				"solved_count": 217,
+				"average_try": 1.1475
 			}
 		]
 	},
-	"last_updated": "Fri Mar 22 06:13:15 2024"
+	"last_updated": "Fri Mar 22 12:18:09 2024"
 }

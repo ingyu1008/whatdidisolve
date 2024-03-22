@@ -1,6 +1,16 @@
 {
 	"problems": [
 		{
+			"id": 19672,
+			"level": 22,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Feast",
+			"solved_count": 36,
+			"average_try": 2.8333,
+			"update_date": "Fri Mar 22 12:18:09 2024"
+		},
+		{
 			"id": 31615,
 			"level": 2,
 			"level_locked": 0,
@@ -2021,5 +2031,5 @@
 			"update_date": "Sat Jan 20 05:51:17 2024"
 		}
 	],
-	"last_updated": "Fri Mar 22 06:13:15 2024"
+	"last_updated": "Fri Mar 22 12:18:09 2024"
 }

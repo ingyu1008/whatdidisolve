@@ -1,13 +1,13 @@
 {
 	"problems": [
 		{
-			"id": 31615,
-			"level": 2,
+			"id": 19672,
+			"level": 22,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\u6841 (Digit)",
-			"solved_count": 138,
-			"average_try": 1.1014
+			"title": "Feast",
+			"solved_count": 36,
+			"average_try": 2.8333
 		}
 	]
 }
