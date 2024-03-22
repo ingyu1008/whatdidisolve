@@ -1,7 +1,8 @@
-올해 푼 문제 수: 201
+올해 푼 문제 수: 202
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 31615 | [桁 (Digit)](https://www.acmicpc.net/problem/31615) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 22.  |
 | 31654 | [Adding Trouble](https://www.acmicpc.net/problem/31654) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 03. 21.  |
 | 17404 | [RGB거리 2](https://www.acmicpc.net/problem/17404) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 03. 20.  |
 | 16227 | [의약품 수송](https://www.acmicpc.net/problem/16227) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | 2024. 03. 19.  |
@@ -21,4 +22,3 @@
 | 11501 | [주식](https://www.acmicpc.net/problem/11501) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> | 2024. 03. 12.  |
 | 1071 | [소트](https://www.acmicpc.net/problem/1071) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 03. 12.  |
 | 31503 | [DP (Large)](https://www.acmicpc.net/problem/31503) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 03. 12.  |
-| 20361 | [일우는 야바위꾼](https://www.acmicpc.net/problem/20361) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 11.  |

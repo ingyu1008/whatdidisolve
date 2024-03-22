@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1820,
+		"total_problems": 1821,
 		"total_page": 1,
 		"problems": [
 			{
@@ -16358,6 +16358,15 @@
 				"average_try": 1.0649
 			},
 			{
+				"id": 31615,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\u6841 (Digit)",
+				"solved_count": 138,
+				"average_try": 1.1014
+			},
+			{
 				"id": 31628,
 				"level": 3,
 				"level_locked": 0,
@@ -16381,10 +16390,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Adding Trouble",
-				"solved_count": 169,
-				"average_try": 1.1361
+				"solved_count": 192,
+				"average_try": 1.1458
 			}
 		]
 	},
-	"last_updated": "Fri Mar 22 00:43:34 2024"
+	"last_updated": "Fri Mar 22 06:13:15 2024"
 }
