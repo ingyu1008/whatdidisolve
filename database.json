@@ -16309,8 +16309,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Champernowne Verification",
-				"solved_count": 159,
-				"average_try": 1.4088
+				"solved_count": 160,
+				"average_try": 1.425
 			},
 			{
 				"id": 31561,
@@ -16336,8 +16336,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u679c\u7269 (Fruit)",
-				"solved_count": 380,
-				"average_try": 1.0684
+				"solved_count": 382,
+				"average_try": 1.0681
 			},
 			{
 				"id": 31607,
@@ -16345,8 +16345,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 146,
-				"average_try": 1.1712
+				"solved_count": 149,
+				"average_try": 1.1745
 			},
 			{
 				"id": 31610,
@@ -16381,8 +16381,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 152,
-				"average_try": 1.1053
+				"solved_count": 155,
+				"average_try": 1.1032
 			},
 			{
 				"id": 31628,
@@ -16408,10 +16408,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Adding Trouble",
-				"solved_count": 239,
-				"average_try": 1.1506
+				"solved_count": 252,
+				"average_try": 1.1468
 			}
 		]
 	},
-	"last_updated": "Sat Mar 23 06:17:18 2024"
+	"last_updated": "Sat Mar 23 12:18:59 2024"
 }
