@@ -16291,8 +16291,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "DP (Large)",
-				"solved_count": 57,
-				"average_try": 1.5263
+				"solved_count": 58,
+				"average_try": 1.5172
 			},
 			{
 				"id": 31518,
@@ -16336,8 +16336,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u679c\u7269 (Fruit)",
-				"solved_count": 382,
-				"average_try": 1.0681
+				"solved_count": 386,
+				"average_try": 1.0674
 			},
 			{
 				"id": 31607,
@@ -16381,8 +16381,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 155,
-				"average_try": 1.1032
+				"solved_count": 158,
+				"average_try": 1.1013
 			},
 			{
 				"id": 31628,
@@ -16413,5 +16413,5 @@
 			}
 		]
 	},
-	"last_updated": "Sat Mar 23 12:18:59 2024"
+	"last_updated": "Sat Mar 23 18:11:46 2024"
 }
