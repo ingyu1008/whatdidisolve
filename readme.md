@@ -1,7 +1,8 @@
-올해 푼 문제 수: 203
+올해 푼 문제 수: 204
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 31607 | [和の判定 (Sum Checker)](https://www.acmicpc.net/problem/31607) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 23.  |
 | 19672 | [Feast](https://www.acmicpc.net/problem/19672) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> | 2024. 03. 22.  |
 | 31615 | [桁 (Digit)](https://www.acmicpc.net/problem/31615) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 22.  |
 | 31654 | [Adding Trouble](https://www.acmicpc.net/problem/31654) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 03. 21.  |
@@ -21,4 +22,3 @@
 | 5864 | [Wifi Setup](https://www.acmicpc.net/problem/5864) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 03. 13.  |
 | 11509 | [풍선 맞추기](https://www.acmicpc.net/problem/11509) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 03. 12.  |
 | 11501 | [주식](https://www.acmicpc.net/problem/11501) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> | 2024. 03. 12.  |
-| 1071 | [소트](https://www.acmicpc.net/problem/1071) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 03. 12.  |
