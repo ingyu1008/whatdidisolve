@@ -16309,8 +16309,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Champernowne Verification",
-				"solved_count": 160,
-				"average_try": 1.425
+				"solved_count": 161,
+				"average_try": 1.4224
 			},
 			{
 				"id": 31561,
@@ -16345,8 +16345,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 149,
-				"average_try": 1.1745
+				"solved_count": 150,
+				"average_try": 1.1733
 			},
 			{
 				"id": 31610,
@@ -16372,8 +16372,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u5206 (Minutes)",
-				"solved_count": 339,
-				"average_try": 1.0649
+				"solved_count": 403,
+				"average_try": 1.0844
 			},
 			{
 				"id": 31615,
@@ -16381,8 +16381,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 159,
-				"average_try": 1.1006
+				"solved_count": 160,
+				"average_try": 1.1
 			},
 			{
 				"id": 31628,
@@ -16413,5 +16413,5 @@
 			}
 		]
 	},
-	"last_updated": "Sun Mar 24 00:49:46 2024"
+	"last_updated": "Sun Mar 24 06:12:35 2024"
 }
