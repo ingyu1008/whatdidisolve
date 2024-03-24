@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1823,
+		"total_problems": 1827,
 		"total_page": 1,
 		"problems": [
 			{
@@ -1371,6 +1371,15 @@
 				"title": "Cubeditor",
 				"solved_count": 2499,
 				"average_try": 2.8924
+			},
+			{
+				"id": 1703,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc0dd\uc7a5\uc810",
+				"solved_count": 1863,
+				"average_try": 1.2378
 			},
 			{
 				"id": 1707,
@@ -5162,6 +5171,15 @@
 				"average_try": 5.1472
 			},
 			{
+				"id": 5724,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ud30c\uc778\ub9cc",
+				"solved_count": 1858,
+				"average_try": 1.2137
+			},
+			{
 				"id": 5789,
 				"level": 3,
 				"level_locked": 0,
@@ -7455,6 +7473,15 @@
 				"title": "\ub354\ud558\uae30 4",
 				"solved_count": 2302,
 				"average_try": 1.4831
+			},
+			{
+				"id": 11034,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ucea5\uac70\ub8e8 \uc138\ub9c8\ub9ac2",
+				"solved_count": 1880,
+				"average_try": 2.5027
 			},
 			{
 				"id": 11047,
@@ -16291,8 +16318,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "DP (Large)",
-				"solved_count": 58,
-				"average_try": 1.5172
+				"solved_count": 59,
+				"average_try": 1.5254
 			},
 			{
 				"id": 31518,
@@ -16327,8 +16354,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc804\uc8fc \ub4e3\uace0 \ub178\ub798 \ub9de\ud788\uae30",
-				"solved_count": 244,
-				"average_try": 1.168
+				"solved_count": 250,
+				"average_try": 1.176
 			},
 			{
 				"id": 31606,
@@ -16347,6 +16374,15 @@
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
 				"solved_count": 155,
 				"average_try": 1.1742
+			},
+			{
+				"id": 31609,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
+				"solved_count": 141,
+				"average_try": 1.2553
 			},
 			{
 				"id": 31610,
@@ -16381,8 +16417,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 163,
-				"average_try": 1.0982
+				"solved_count": 165,
+				"average_try": 1.097
 			},
 			{
 				"id": 31628,
@@ -16390,8 +16426,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uac00\uc9c0 \ud55c \ub450\ub984 \uc8fc\uc138\uc694",
-				"solved_count": 415,
-				"average_try": 1.4482
+				"solved_count": 456,
+				"average_try": 1.4671
 			},
 			{
 				"id": 31631,
@@ -16413,5 +16449,5 @@
 			}
 		]
 	},
-	"last_updated": "Sun Mar 24 12:17:12 2024"
+	"last_updated": "Sun Mar 24 18:14:27 2024"
 }

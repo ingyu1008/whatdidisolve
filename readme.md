@@ -1,7 +1,11 @@
-올해 푼 문제 수: 204
+올해 푼 문제 수: 208
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 31609 | [現れている数字 (Appearing Numbers)](https://www.acmicpc.net/problem/31609) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 24.  |
+| 11034 | [캥거루 세마리2](https://www.acmicpc.net/problem/11034) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 24.  |
+| 5724 | [파인만](https://www.acmicpc.net/problem/5724) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 24.  |
+| 1703 | [생장점](https://www.acmicpc.net/problem/1703) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 24.  |
 | 31607 | [和の判定 (Sum Checker)](https://www.acmicpc.net/problem/31607) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 23.  |
 | 19672 | [Feast](https://www.acmicpc.net/problem/19672) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> | 2024. 03. 22.  |
 | 31615 | [桁 (Digit)](https://www.acmicpc.net/problem/31615) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 22.  |
@@ -18,7 +22,3 @@
 | 23268 | [Deceptive Directions](https://www.acmicpc.net/problem/23268) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | 2024. 03. 17.  |
 | 31611 | [火曜日 (Tuesday)](https://www.acmicpc.net/problem/31611) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 03. 16.  |
 | 31614 | [分 (Minutes)](https://www.acmicpc.net/problem/31614) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 03. 15.  |
-| 31606 | [果物 (Fruit)](https://www.acmicpc.net/problem/31606) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 03. 14.  |
-| 5864 | [Wifi Setup](https://www.acmicpc.net/problem/5864) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 03. 13.  |
-| 11509 | [풍선 맞추기](https://www.acmicpc.net/problem/11509) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 03. 12.  |
-| 11501 | [주식](https://www.acmicpc.net/problem/11501) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> | 2024. 03. 12.  |
