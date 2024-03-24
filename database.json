@@ -16345,8 +16345,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 150,
-				"average_try": 1.1733
+				"solved_count": 155,
+				"average_try": 1.1742
 			},
 			{
 				"id": 31610,
@@ -16381,8 +16381,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 160,
-				"average_try": 1.1
+				"solved_count": 163,
+				"average_try": 1.0982
 			},
 			{
 				"id": 31628,
@@ -16413,5 +16413,5 @@
 			}
 		]
 	},
-	"last_updated": "Sun Mar 24 06:12:35 2024"
+	"last_updated": "Sun Mar 24 12:17:12 2024"
 }
