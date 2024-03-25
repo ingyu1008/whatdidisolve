@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1827,
+		"total_problems": 1828,
 		"total_page": 1,
 		"problems": [
 			{
@@ -10400,6 +10400,15 @@
 				"average_try": 3.678
 			},
 			{
+				"id": 15780,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uba40\ud2f0\ud0ed \ucda9\ubd84\ud558\ub2c8?",
+				"solved_count": 1818,
+				"average_try": 1.7338
+			},
+			{
 				"id": 15781,
 				"level": 3,
 				"level_locked": 0,
@@ -16327,8 +16336,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Triple Sevens",
-				"solved_count": 198,
-				"average_try": 1.2626
+				"solved_count": 199,
+				"average_try": 1.2613
 			},
 			{
 				"id": 31520,
@@ -16336,8 +16345,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Champernowne Verification",
-				"solved_count": 162,
-				"average_try": 1.4259
+				"solved_count": 163,
+				"average_try": 1.4233
 			},
 			{
 				"id": 31561,
@@ -16345,8 +16354,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc2dc\uacc4\ud0d1",
-				"solved_count": 454,
-				"average_try": 1.4427
+				"solved_count": 456,
+				"average_try": 1.4496
 			},
 			{
 				"id": 31562,
@@ -16363,8 +16372,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u679c\u7269 (Fruit)",
-				"solved_count": 386,
-				"average_try": 1.0674
+				"solved_count": 400,
+				"average_try": 1.065
 			},
 			{
 				"id": 31607,
@@ -16381,8 +16390,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 144,
-				"average_try": 1.25
+				"solved_count": 145,
+				"average_try": 1.2759
 			},
 			{
 				"id": 31610,
@@ -16417,8 +16426,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 169,
-				"average_try": 1.0947
+				"solved_count": 172,
+				"average_try": 1.1105
 			},
 			{
 				"id": 31628,
@@ -16449,5 +16458,5 @@
 			}
 		]
 	},
-	"last_updated": "Mon Mar 25 00:45:31 2024"
+	"last_updated": "Mon Mar 25 06:14:13 2024"
 }
