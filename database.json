@@ -16381,8 +16381,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 160,
-				"average_try": 1.1688
+				"solved_count": 162,
+				"average_try": 1.1667
 			},
 			{
 				"id": 31609,
@@ -16390,8 +16390,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 148,
-				"average_try": 1.2905
+				"solved_count": 149,
+				"average_try": 1.2886
 			},
 			{
 				"id": 31610,
@@ -16426,8 +16426,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 172,
-				"average_try": 1.1105
+				"solved_count": 173,
+				"average_try": 1.1098
 			},
 			{
 				"id": 31628,
@@ -16458,5 +16458,5 @@
 			}
 		]
 	},
-	"last_updated": "Mon Mar 25 12:17:39 2024"
+	"last_updated": "Mon Mar 25 18:13:45 2024"
 }
