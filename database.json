@@ -16350,7 +16350,7 @@
 			},
 			{
 				"id": 31561,
-				"level": 2,
+				"level": 3,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc2dc\uacc4\ud0d1",
@@ -16381,8 +16381,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 166,
-				"average_try": 1.1627
+				"solved_count": 170,
+				"average_try": 1.1588
 			},
 			{
 				"id": 31609,
@@ -16390,8 +16390,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 154,
-				"average_try": 1.2792
+				"solved_count": 155,
+				"average_try": 1.2774
 			},
 			{
 				"id": 31610,
@@ -16426,8 +16426,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 177,
-				"average_try": 1.113
+				"solved_count": 181,
+				"average_try": 1.1105
 			},
 			{
 				"id": 31616,
@@ -16435,8 +16435,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
-				"solved_count": 146,
-				"average_try": 1.1986
+				"solved_count": 149,
+				"average_try": 1.1946
 			},
 			{
 				"id": 31628,
@@ -16467,5 +16467,5 @@
 			}
 		]
 	},
-	"last_updated": "Tue Mar 26 12:18:39 2024"
+	"last_updated": "Tue Mar 26 18:13:14 2024"
 }
