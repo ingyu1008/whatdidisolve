@@ -16390,8 +16390,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 152,
-				"average_try": 1.2829
+				"solved_count": 154,
+				"average_try": 1.2792
 			},
 			{
 				"id": 31610,
@@ -16426,8 +16426,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 176,
-				"average_try": 1.1136
+				"solved_count": 177,
+				"average_try": 1.113
 			},
 			{
 				"id": 31616,
@@ -16467,5 +16467,5 @@
 			}
 		]
 	},
-	"last_updated": "Tue Mar 26 06:14:07 2024"
+	"last_updated": "Tue Mar 26 12:18:39 2024"
 }
