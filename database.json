@@ -16426,8 +16426,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 182,
-				"average_try": 1.1099
+				"solved_count": 185,
+				"average_try": 1.1081
 			},
 			{
 				"id": 31616,
@@ -16435,8 +16435,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
-				"solved_count": 150,
-				"average_try": 1.1933
+				"solved_count": 152,
+				"average_try": 1.1908
 			},
 			{
 				"id": 31628,
@@ -16444,8 +16444,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uac00\uc9c0 \ud55c \ub450\ub984 \uc8fc\uc138\uc694",
-				"solved_count": 456,
-				"average_try": 1.4671
+				"solved_count": 466,
+				"average_try": 1.4871
 			},
 			{
 				"id": 31631,
@@ -16467,5 +16467,5 @@
 			}
 		]
 	},
-	"last_updated": "Wed Mar 27 00:43:53 2024"
+	"last_updated": "Wed Mar 27 06:13:28 2024"
 }
