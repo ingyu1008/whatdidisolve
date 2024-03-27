@@ -1,6 +1,16 @@
 {
 	"problems": [
 		{
+			"id": 31612,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u753b\u6570\u6570\u3048 (Stroke Count)",
+			"solved_count": 156,
+			"average_try": 1.109,
+			"update_date": "Wed Mar 27 12:18:40 2024"
+		},
+		{
 			"id": 31616,
 			"level": 2,
 			"level_locked": 0,
@@ -2101,5 +2111,5 @@
 			"update_date": "Sat Jan 20 05:51:17 2024"
 		}
 	],
-	"last_updated": "Wed Mar 27 06:13:28 2024"
+	"last_updated": "Wed Mar 27 12:18:40 2024"
 }

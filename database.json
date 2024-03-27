@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1829,
+		"total_problems": 1830,
 		"total_page": 1,
 		"problems": [
 			{
@@ -16381,8 +16381,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 170,
-				"average_try": 1.1588
+				"solved_count": 174,
+				"average_try": 1.1609
 			},
 			{
 				"id": 31609,
@@ -16390,8 +16390,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 155,
-				"average_try": 1.2774
+				"solved_count": 156,
+				"average_try": 1.2756
 			},
 			{
 				"id": 31610,
@@ -16412,6 +16412,15 @@
 				"average_try": 1.1765
 			},
 			{
+				"id": 31612,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\u753b\u6570\u6570\u3048 (Stroke Count)",
+				"solved_count": 156,
+				"average_try": 1.109
+			},
+			{
 				"id": 31614,
 				"level": 1,
 				"level_locked": 0,
@@ -16426,8 +16435,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 185,
-				"average_try": 1.1081
+				"solved_count": 188,
+				"average_try": 1.1064
 			},
 			{
 				"id": 31616,
@@ -16435,8 +16444,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
-				"solved_count": 152,
-				"average_try": 1.1908
+				"solved_count": 154,
+				"average_try": 1.1883
 			},
 			{
 				"id": 31628,
@@ -16467,5 +16476,5 @@
 			}
 		]
 	},
-	"last_updated": "Wed Mar 27 06:13:28 2024"
+	"last_updated": "Wed Mar 27 12:18:40 2024"
 }
