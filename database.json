@@ -16381,8 +16381,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 174,
-				"average_try": 1.1609
+				"solved_count": 175,
+				"average_try": 1.16
 			},
 			{
 				"id": 31609,
@@ -16390,8 +16390,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 156,
-				"average_try": 1.2756
+				"solved_count": 157,
+				"average_try": 1.2739
 			},
 			{
 				"id": 31610,
@@ -16399,8 +16399,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u98f4\u306e\u888b\u8a70\u3081 (Drops Packing)",
-				"solved_count": 362,
-				"average_try": 1.105
+				"solved_count": 387,
+				"average_try": 1.1059
 			},
 			{
 				"id": 31611,
@@ -16417,8 +16417,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u753b\u6570\u6570\u3048 (Stroke Count)",
-				"solved_count": 156,
-				"average_try": 1.109
+				"solved_count": 157,
+				"average_try": 1.1083
 			},
 			{
 				"id": 31614,
@@ -16435,8 +16435,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 188,
-				"average_try": 1.1064
+				"solved_count": 190,
+				"average_try": 1.1053
 			},
 			{
 				"id": 31616,
@@ -16444,8 +16444,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
-				"solved_count": 154,
-				"average_try": 1.1883
+				"solved_count": 156,
+				"average_try": 1.1859
 			},
 			{
 				"id": 31628,
@@ -16471,10 +16471,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Adding Trouble",
-				"solved_count": 276,
-				"average_try": 1.1486
+				"solved_count": 365,
+				"average_try": 1.1562
 			}
 		]
 	},
-	"last_updated": "Wed Mar 27 12:18:40 2024"
+	"last_updated": "Wed Mar 27 18:14:06 2024"
 }
