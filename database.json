@@ -16381,8 +16381,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 176,
-				"average_try": 1.1591
+				"solved_count": 178,
+				"average_try": 1.1573
 			},
 			{
 				"id": 31609,
@@ -16417,8 +16417,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u753b\u6570\u6570\u3048 (Stroke Count)",
-				"solved_count": 157,
-				"average_try": 1.1083
+				"solved_count": 158,
+				"average_try": 1.1076
 			},
 			{
 				"id": 31614,
@@ -16435,8 +16435,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 192,
-				"average_try": 1.1042
+				"solved_count": 193,
+				"average_try": 1.1036
 			},
 			{
 				"id": 31616,
@@ -16476,5 +16476,5 @@
 			}
 		]
 	},
-	"last_updated": "Thu Mar 28 00:44:17 2024"
+	"last_updated": "Thu Mar 28 06:13:37 2024"
 }
