@@ -1,3 +1,13 @@
 {
-	"problems": []
+	"problems": [
+		{
+			"id": 31636,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u4e09\u9023\u7d9a (Three Consecutive)",
+			"solved_count": 156,
+			"average_try": 1.25
+		}
+	]
 }
