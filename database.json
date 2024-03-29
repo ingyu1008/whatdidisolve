@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1831,
+		"total_problems": 1832,
 		"total_page": 1,
 		"problems": [
 			{
@@ -16381,8 +16381,17 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 182,
-				"average_try": 1.1538
+				"solved_count": 185,
+				"average_try": 1.1622
+			},
+			{
+				"id": 31608,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
+				"solved_count": 158,
+				"average_try": 1.1899
 			},
 			{
 				"id": 31609,
@@ -16390,8 +16399,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 162,
-				"average_try": 1.284
+				"solved_count": 163,
+				"average_try": 1.2822
 			},
 			{
 				"id": 31610,
@@ -16417,8 +16426,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u753b\u6570\u6570\u3048 (Stroke Count)",
-				"solved_count": 165,
-				"average_try": 1.103
+				"solved_count": 166,
+				"average_try": 1.1024
 			},
 			{
 				"id": 31614,
@@ -16435,8 +16444,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 195,
-				"average_try": 1.1026
+				"solved_count": 198,
+				"average_try": 1.101
 			},
 			{
 				"id": 31616,
@@ -16444,8 +16453,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
-				"solved_count": 158,
-				"average_try": 1.1835
+				"solved_count": 161,
+				"average_try": 1.1801
 			},
 			{
 				"id": 31628,
@@ -16462,8 +16471,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": ":rightplant:",
-				"solved_count": 157,
-				"average_try": 2.9236
+				"solved_count": 175,
+				"average_try": 2.9314
 			},
 			{
 				"id": 31636,
@@ -16471,8 +16480,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u4e09\u9023\u7d9a (Three Consecutive)",
-				"solved_count": 158,
-				"average_try": 1.2468
+				"solved_count": 159,
+				"average_try": 1.2453
 			},
 			{
 				"id": 31654,
@@ -16485,5 +16494,5 @@
 			}
 		]
 	},
-	"last_updated": "Fri Mar 29 00:44:09 2024"
+	"last_updated": "Fri Mar 29 06:13:22 2024"
 }
