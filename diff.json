@@ -1,13 +1,22 @@
 {
 	"problems": [
 		{
-			"id": 31608,
-			"level": 2,
+			"id": 20535,
+			"level": 21,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
-			"solved_count": 158,
-			"average_try": 1.1899
+			"title": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1\uacfc \ucffc\ub9ac",
+			"solved_count": 86,
+			"average_try": 2.186
+		},
+		{
+			"id": 29771,
+			"level": 20,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud2b8\ub9ac \ucef4\ud3ec\ub10c\ud2b8 \ucc3e\uae30",
+			"solved_count": 17,
+			"average_try": 7.8824
 		}
 	]
 }

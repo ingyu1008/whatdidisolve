@@ -1,6 +1,26 @@
 {
 	"problems": [
 		{
+			"id": 29771,
+			"level": 20,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud2b8\ub9ac \ucef4\ud3ec\ub10c\ud2b8 \ucc3e\uae30",
+			"solved_count": 17,
+			"average_try": 7.8824,
+			"update_date": "Fri Mar 29 12:18:54 2024"
+		},
+		{
+			"id": 20535,
+			"level": 21,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ucd5c\uc18c \uacf5\ud1b5 \uc870\uc0c1\uacfc \ucffc\ub9ac",
+			"solved_count": 86,
+			"average_try": 2.186,
+			"update_date": "Fri Mar 29 12:18:54 2024"
+		},
+		{
 			"id": 31608,
 			"level": 2,
 			"level_locked": 0,
@@ -2131,5 +2151,5 @@
 			"update_date": "Sat Jan 20 05:51:17 2024"
 		}
 	],
-	"last_updated": "Fri Mar 29 06:13:22 2024"
+	"last_updated": "Fri Mar 29 12:18:54 2024"
 }
