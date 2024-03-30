@@ -1,7 +1,8 @@
-올해 푼 문제 수: 215
+올해 푼 문제 수: 216
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 31656 | [Sticky Keys](https://www.acmicpc.net/problem/31656) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 30.  |
 | 29771 | [트리 컴포넌트 찾기](https://www.acmicpc.net/problem/29771) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> | 2024. 03. 29.  |
 | 20535 | [최소 공통 조상과 쿼리](https://www.acmicpc.net/problem/20535) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/21.svg"/> | 2024. 03. 29.  |
 | 31608 | [ハミング距離 (Hamming Distance)](https://www.acmicpc.net/problem/31608) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 29.  |
@@ -21,4 +22,3 @@
 | 16227 | [의약품 수송](https://www.acmicpc.net/problem/16227) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | 2024. 03. 19.  |
 | 3109 | [빵집](https://www.acmicpc.net/problem/3109) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | 2024. 03. 19.  |
 | 16174 | [점프왕 쩰리 (Large)](https://www.acmicpc.net/problem/16174) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | 2024. 03. 18.  |
-| 31610 | [飴の袋詰め (Drops Packing)](https://www.acmicpc.net/problem/31610) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 03. 18.  |
