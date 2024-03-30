@@ -16399,8 +16399,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 188,
-				"average_try": 1.1596
+				"solved_count": 190,
+				"average_try": 1.1579
 			},
 			{
 				"id": 31608,
@@ -16408,8 +16408,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
-				"solved_count": 164,
-				"average_try": 1.1829
+				"solved_count": 166,
+				"average_try": 1.1807
 			},
 			{
 				"id": 31609,
@@ -16417,8 +16417,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 168,
-				"average_try": 1.2738
+				"solved_count": 169,
+				"average_try": 1.2722
 			},
 			{
 				"id": 31610,
@@ -16444,8 +16444,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u753b\u6570\u6570\u3048 (Stroke Count)",
-				"solved_count": 168,
-				"average_try": 1.1071
+				"solved_count": 172,
+				"average_try": 1.1047
 			},
 			{
 				"id": 31614,
@@ -16462,8 +16462,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 205,
-				"average_try": 1.1122
+				"solved_count": 207,
+				"average_try": 1.1159
 			},
 			{
 				"id": 31616,
@@ -16471,8 +16471,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
-				"solved_count": 167,
-				"average_try": 1.1737
+				"solved_count": 168,
+				"average_try": 1.1726
 			},
 			{
 				"id": 31628,
@@ -16498,8 +16498,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u4e09\u9023\u7d9a (Three Consecutive)",
-				"solved_count": 166,
-				"average_try": 1.259
+				"solved_count": 168,
+				"average_try": 1.256
 			},
 			{
 				"id": 31654,
@@ -16516,10 +16516,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Sticky Keys",
-				"solved_count": 153,
-				"average_try": 1.4641
+				"solved_count": 155,
+				"average_try": 1.4774
 			}
 		]
 	},
-	"last_updated": "Sat Mar 30 12:16:06 2024"
+	"last_updated": "Sat Mar 30 18:13:30 2024"
 }
