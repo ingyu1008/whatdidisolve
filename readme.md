@@ -1,7 +1,8 @@
-올해 푼 문제 수: 216
+올해 푼 문제 수: 217
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 9713 | [Sum of Odd Sequence](https://www.acmicpc.net/problem/9713) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 31.  |
 | 31656 | [Sticky Keys](https://www.acmicpc.net/problem/31656) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 30.  |
 | 29771 | [트리 컴포넌트 찾기](https://www.acmicpc.net/problem/29771) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> | 2024. 03. 29.  |
 | 20535 | [최소 공통 조상과 쿼리](https://www.acmicpc.net/problem/20535) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/21.svg"/> | 2024. 03. 29.  |
@@ -21,4 +22,3 @@
 | 17404 | [RGB거리 2](https://www.acmicpc.net/problem/17404) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 03. 20.  |
 | 16227 | [의약품 수송](https://www.acmicpc.net/problem/16227) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | 2024. 03. 19.  |
 | 3109 | [빵집](https://www.acmicpc.net/problem/3109) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | 2024. 03. 19.  |
-| 16174 | [점프왕 쩰리 (Large)](https://www.acmicpc.net/problem/16174) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | 2024. 03. 18.  |

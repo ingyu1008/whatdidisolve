@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1835,
+		"total_problems": 1836,
 		"total_page": 1,
 		"problems": [
 			{
@@ -6375,6 +6375,15 @@
 				"title": "\ubb34\uc5c7\uc744 \uc544\ub290\ub0d0\uac00 \uc544\ub2c8\ub77c \ub204\uad6c\ub97c \uc544\ub290\ub0d0\uac00 \ubb38\uc81c\ub2e4",
 				"solved_count": 486,
 				"average_try": 2.6049
+			},
+			{
+				"id": 9713,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Sum of Odd Sequence",
+				"solved_count": 1796,
+				"average_try": 1.8697
 			},
 			{
 				"id": 9772,
@@ -16399,8 +16408,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 191,
-				"average_try": 1.1571
+				"solved_count": 192,
+				"average_try": 1.1563
 			},
 			{
 				"id": 31608,
@@ -16408,8 +16417,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
-				"solved_count": 167,
-				"average_try": 1.1796
+				"solved_count": 169,
+				"average_try": 1.1775
 			},
 			{
 				"id": 31609,
@@ -16417,8 +16426,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 170,
-				"average_try": 1.2706
+				"solved_count": 172,
+				"average_try": 1.2674
 			},
 			{
 				"id": 31610,
@@ -16426,8 +16435,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u98f4\u306e\u888b\u8a70\u3081 (Drops Packing)",
-				"solved_count": 405,
-				"average_try": 1.1037
+				"solved_count": 413,
+				"average_try": 1.1017
 			},
 			{
 				"id": 31611,
@@ -16444,8 +16453,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u753b\u6570\u6570\u3048 (Stroke Count)",
-				"solved_count": 175,
-				"average_try": 1.1314
+				"solved_count": 177,
+				"average_try": 1.1299
 			},
 			{
 				"id": 31614,
@@ -16462,8 +16471,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 210,
-				"average_try": 1.1143
+				"solved_count": 211,
+				"average_try": 1.1137
 			},
 			{
 				"id": 31616,
@@ -16471,8 +16480,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
-				"solved_count": 169,
-				"average_try": 1.1716
+				"solved_count": 170,
+				"average_try": 1.1706
 			},
 			{
 				"id": 31628,
@@ -16480,8 +16489,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uac00\uc9c0 \ud55c \ub450\ub984 \uc8fc\uc138\uc694",
-				"solved_count": 466,
-				"average_try": 1.4871
+				"solved_count": 487,
+				"average_try": 1.499
 			},
 			{
 				"id": 31631,
@@ -16507,8 +16516,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Adding Trouble",
-				"solved_count": 415,
-				"average_try": 1.1494
+				"solved_count": 417,
+				"average_try": 1.1487
 			},
 			{
 				"id": 31656,
@@ -16521,5 +16530,5 @@
 			}
 		]
 	},
-	"last_updated": "Sun Mar 31 00:49:48 2024"
+	"last_updated": "Sun Mar 31 06:12:29 2024"
 }
