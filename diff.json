@@ -1,13 +1,3 @@
 {
-	"problems": [
-		{
-			"id": 9713,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Sum of Odd Sequence",
-			"solved_count": 1796,
-			"average_try": 1.8697
-		}
-	]
+	"problems": []
 }

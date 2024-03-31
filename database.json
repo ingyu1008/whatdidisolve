@@ -16426,8 +16426,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 172,
-				"average_try": 1.2674
+				"solved_count": 173,
+				"average_try": 1.2659
 			},
 			{
 				"id": 31610,
@@ -16453,8 +16453,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u753b\u6570\u6570\u3048 (Stroke Count)",
-				"solved_count": 177,
-				"average_try": 1.1299
+				"solved_count": 178,
+				"average_try": 1.1292
 			},
 			{
 				"id": 31614,
@@ -16480,8 +16480,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
-				"solved_count": 170,
-				"average_try": 1.1706
+				"solved_count": 172,
+				"average_try": 1.1744
 			},
 			{
 				"id": 31628,
@@ -16530,5 +16530,5 @@
 			}
 		]
 	},
-	"last_updated": "Sun Mar 31 06:12:29 2024"
+	"last_updated": "Sun Mar 31 12:17:04 2024"
 }
