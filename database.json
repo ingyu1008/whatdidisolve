@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1836,
+		"total_problems": 1837,
 		"total_page": 1,
 		"problems": [
 			{
@@ -16426,8 +16426,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 176,
-				"average_try": 1.2614
+				"solved_count": 177,
+				"average_try": 1.2599
 			},
 			{
 				"id": 31610,
@@ -16462,8 +16462,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u5206 (Minutes)",
-				"solved_count": 488,
-				"average_try": 1.0881
+				"solved_count": 490,
+				"average_try": 1.0918
 			},
 			{
 				"id": 31615,
@@ -16471,8 +16471,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 213,
-				"average_try": 1.1127
+				"solved_count": 217,
+				"average_try": 1.1106
 			},
 			{
 				"id": 31616,
@@ -16507,8 +16507,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u4e09\u9023\u7d9a (Three Consecutive)",
-				"solved_count": 173,
-				"average_try": 1.2543
+				"solved_count": 174,
+				"average_try": 1.2586
 			},
 			{
 				"id": 31654,
@@ -16516,8 +16516,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Adding Trouble",
-				"solved_count": 427,
-				"average_try": 1.1546
+				"solved_count": 430,
+				"average_try": 1.1535
 			},
 			{
 				"id": 31656,
@@ -16527,8 +16527,17 @@
 				"title": "Sticky Keys",
 				"solved_count": 156,
 				"average_try": 1.4744
+			},
+			{
+				"id": 31668,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ud2b9\ubcc4\ud55c \uac00\uc9c0",
+				"solved_count": 237,
+				"average_try": 1.1139
 			}
 		]
 	},
-	"last_updated": "Mon Apr  1 00:50:19 2024"
+	"last_updated": "Mon Apr  1 06:14:01 2024"
 }
