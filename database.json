@@ -16408,8 +16408,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 196,
-				"average_try": 1.1531
+				"solved_count": 197,
+				"average_try": 1.1523
 			},
 			{
 				"id": 31608,
@@ -16417,8 +16417,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
-				"solved_count": 172,
-				"average_try": 1.1744
+				"solved_count": 177,
+				"average_try": 1.1695
 			},
 			{
 				"id": 31609,
@@ -16426,8 +16426,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 178,
-				"average_try": 1.2753
+				"solved_count": 181,
+				"average_try": 1.3039
 			},
 			{
 				"id": 31610,
@@ -16453,8 +16453,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u753b\u6570\u6570\u3048 (Stroke Count)",
-				"solved_count": 182,
-				"average_try": 1.1264
+				"solved_count": 185,
+				"average_try": 1.1297
 			},
 			{
 				"id": 31614,
@@ -16480,8 +16480,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
-				"solved_count": 178,
-				"average_try": 1.1685
+				"solved_count": 179,
+				"average_try": 1.1676
 			},
 			{
 				"id": 31628,
@@ -16489,8 +16489,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uac00\uc9c0 \ud55c \ub450\ub984 \uc8fc\uc138\uc694",
-				"solved_count": 489,
-				"average_try": 1.5031
+				"solved_count": 496,
+				"average_try": 1.5101
 			},
 			{
 				"id": 31631,
@@ -16507,8 +16507,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u4e09\u9023\u7d9a (Three Consecutive)",
-				"solved_count": 174,
-				"average_try": 1.2586
+				"solved_count": 176,
+				"average_try": 1.2614
 			},
 			{
 				"id": 31654,
@@ -16534,10 +16534,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud2b9\ubcc4\ud55c \uac00\uc9c0",
-				"solved_count": 251,
-				"average_try": 1.1076
+				"solved_count": 258,
+				"average_try": 1.1124
 			}
 		]
 	},
-	"last_updated": "Mon Apr  1 12:19:18 2024"
+	"last_updated": "Mon Apr  1 18:12:43 2024"
 }
