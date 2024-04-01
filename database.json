@@ -16408,8 +16408,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 195,
-				"average_try": 1.1538
+				"solved_count": 196,
+				"average_try": 1.1531
 			},
 			{
 				"id": 31608,
@@ -16426,8 +16426,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 177,
-				"average_try": 1.2599
+				"solved_count": 178,
+				"average_try": 1.2753
 			},
 			{
 				"id": 31610,
@@ -16516,8 +16516,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Adding Trouble",
-				"solved_count": 430,
-				"average_try": 1.1535
+				"solved_count": 432,
+				"average_try": 1.1528
 			},
 			{
 				"id": 31656,
@@ -16534,10 +16534,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud2b9\ubcc4\ud55c \uac00\uc9c0",
-				"solved_count": 237,
-				"average_try": 1.1139
+				"solved_count": 251,
+				"average_try": 1.1076
 			}
 		]
 	},
-	"last_updated": "Mon Apr  1 06:14:01 2024"
+	"last_updated": "Mon Apr  1 12:19:18 2024"
 }
