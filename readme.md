@@ -1,7 +1,8 @@
-올해 푼 문제 수: 218
+올해 푼 문제 수: 219
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 26314 | [Vowel Count](https://www.acmicpc.net/problem/26314) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 04. 02.  |
 | 31668 | [특별한 가지](https://www.acmicpc.net/problem/31668) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 04. 01.  |
 | 9713 | [Sum of Odd Sequence](https://www.acmicpc.net/problem/9713) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 31.  |
 | 31656 | [Sticky Keys](https://www.acmicpc.net/problem/31656) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 30.  |
@@ -21,4 +22,3 @@
 | 31615 | [桁 (Digit)](https://www.acmicpc.net/problem/31615) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 22.  |
 | 31654 | [Adding Trouble](https://www.acmicpc.net/problem/31654) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 03. 21.  |
 | 17404 | [RGB거리 2](https://www.acmicpc.net/problem/17404) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 03. 20.  |
-| 16227 | [의약품 수송](https://www.acmicpc.net/problem/16227) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | 2024. 03. 19.  |
