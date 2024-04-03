@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1838,
+		"total_problems": 1839,
 		"total_page": 1,
 		"problems": [
 			{
@@ -6240,6 +6240,15 @@
 				"title": "\uc2dc\ud5d8 \uc131\uc801",
 				"solved_count": 183236,
 				"average_try": 1.8218
+			},
+			{
+				"id": 9501,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uafcd\uc758 \uc6b0\uc8fc\uc5ec\ud589",
+				"solved_count": 1797,
+				"average_try": 1.241
 			},
 			{
 				"id": 9505,
@@ -16417,8 +16426,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 202,
-				"average_try": 1.1584
+				"solved_count": 203,
+				"average_try": 1.1576
 			},
 			{
 				"id": 31608,
@@ -16426,8 +16435,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
-				"solved_count": 178,
-				"average_try": 1.1685
+				"solved_count": 180,
+				"average_try": 1.1722
 			},
 			{
 				"id": 31609,
@@ -16435,8 +16444,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 184,
-				"average_try": 1.2989
+				"solved_count": 185,
+				"average_try": 1.2973
 			},
 			{
 				"id": 31610,
@@ -16489,8 +16498,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
-				"solved_count": 182,
-				"average_try": 1.1648
+				"solved_count": 183,
+				"average_try": 1.1639
 			},
 			{
 				"id": 31628,
@@ -16516,8 +16525,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u4e09\u9023\u7d9a (Three Consecutive)",
-				"solved_count": 184,
-				"average_try": 1.2663
+				"solved_count": 185,
+				"average_try": 1.2649
 			},
 			{
 				"id": 31654,
@@ -16548,5 +16557,5 @@
 			}
 		]
 	},
-	"last_updated": "Wed Apr  3 00:43:46 2024"
+	"last_updated": "Wed Apr  3 06:13:21 2024"
 }
