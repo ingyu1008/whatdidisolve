@@ -10617,7 +10617,7 @@
 			},
 			{
 				"id": 16099,
-				"level": 1,
+				"level": 2,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Larger Sport Facility",
@@ -16435,8 +16435,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
-				"solved_count": 181,
-				"average_try": 1.1713
+				"solved_count": 182,
+				"average_try": 1.1758
 			},
 			{
 				"id": 31609,
@@ -16471,8 +16471,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u753b\u6570\u6570\u3048 (Stroke Count)",
-				"solved_count": 191,
-				"average_try": 1.1257
+				"solved_count": 193,
+				"average_try": 1.1244
 			},
 			{
 				"id": 31614,
@@ -16525,8 +16525,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u4e09\u9023\u7d9a (Three Consecutive)",
-				"solved_count": 188,
-				"average_try": 1.266
+				"solved_count": 189,
+				"average_try": 1.2646
 			},
 			{
 				"id": 31654,
@@ -16552,10 +16552,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud2b9\ubcc4\ud55c \uac00\uc9c0",
-				"solved_count": 306,
-				"average_try": 1.1242
+				"solved_count": 328,
+				"average_try": 1.125
 			}
 		]
 	},
-	"last_updated": "Wed Apr  3 12:18:06 2024"
+	"last_updated": "Wed Apr  3 18:13:05 2024"
 }
