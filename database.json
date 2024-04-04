@@ -14667,7 +14667,7 @@
 			},
 			{
 				"id": 26314,
-				"level": 2,
+				"level": 3,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Vowel Count",
@@ -16444,8 +16444,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 189,
-				"average_try": 1.291
+				"solved_count": 190,
+				"average_try": 1.2895
 			},
 			{
 				"id": 31610,
@@ -16471,8 +16471,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u753b\u6570\u6570\u3048 (Stroke Count)",
-				"solved_count": 194,
-				"average_try": 1.1237
+				"solved_count": 195,
+				"average_try": 1.1333
 			},
 			{
 				"id": 31614,
@@ -16489,8 +16489,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 225,
-				"average_try": 1.1156
+				"solved_count": 227,
+				"average_try": 1.1145
 			},
 			{
 				"id": 31616,
@@ -16498,8 +16498,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
-				"solved_count": 186,
-				"average_try": 1.1613
+				"solved_count": 187,
+				"average_try": 1.1604
 			},
 			{
 				"id": 31628,
@@ -16525,8 +16525,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u4e09\u9023\u7d9a (Three Consecutive)",
-				"solved_count": 191,
-				"average_try": 1.2618
+				"solved_count": 193,
+				"average_try": 1.2591
 			},
 			{
 				"id": 31654,
@@ -16557,5 +16557,5 @@
 			}
 		]
 	},
-	"last_updated": "Thu Apr  4 06:13:19 2024"
+	"last_updated": "Thu Apr  4 12:18:16 2024"
 }
