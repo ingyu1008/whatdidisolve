@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1839,
+		"total_problems": 1840,
 		"total_page": 1,
 		"problems": [
 			{
@@ -9662,6 +9662,15 @@
 				"average_try": 2
 			},
 			{
+				"id": 14568,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "2017 \uc5f0\uc138\ub300\ud559\uad50 \ud504\ub85c\uadf8\ub798\ubc0d \uacbd\uc2dc\ub300\ud68c",
+				"solved_count": 1741,
+				"average_try": 2.0011
+			},
+			{
 				"id": 14581,
 				"level": 1,
 				"level_locked": 0,
@@ -16444,8 +16453,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 190,
-				"average_try": 1.2895
+				"solved_count": 192,
+				"average_try": 1.2865
 			},
 			{
 				"id": 31610,
@@ -16471,8 +16480,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u753b\u6570\u6570\u3048 (Stroke Count)",
-				"solved_count": 195,
-				"average_try": 1.1333
+				"solved_count": 196,
+				"average_try": 1.1327
 			},
 			{
 				"id": 31614,
@@ -16489,8 +16498,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 227,
-				"average_try": 1.1145
+				"solved_count": 230,
+				"average_try": 1.113
 			},
 			{
 				"id": 31616,
@@ -16557,5 +16566,5 @@
 			}
 		]
 	},
-	"last_updated": "Thu Apr  4 12:18:16 2024"
+	"last_updated": "Thu Apr  4 18:13:29 2024"
 }

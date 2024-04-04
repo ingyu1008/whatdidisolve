@@ -1,7 +1,8 @@
-올해 푼 문제 수: 220
+올해 푼 문제 수: 221
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 14568 | [2017 연세대학교 프로그래밍 경시대회](https://www.acmicpc.net/problem/14568) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 04.  |
 | 9501 | [꿍의 우주여행](https://www.acmicpc.net/problem/9501) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 03.  |
 | 26314 | [Vowel Count](https://www.acmicpc.net/problem/26314) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 04. 02.  |
 | 31668 | [특별한 가지](https://www.acmicpc.net/problem/31668) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 04. 01.  |
@@ -21,4 +22,3 @@
 | 31607 | [和の判定 (Sum Checker)](https://www.acmicpc.net/problem/31607) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 23.  |
 | 19672 | [Feast](https://www.acmicpc.net/problem/19672) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> | 2024. 03. 22.  |
 | 31615 | [桁 (Digit)](https://www.acmicpc.net/problem/31615) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 22.  |
-| 31654 | [Adding Trouble](https://www.acmicpc.net/problem/31654) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 03. 21.  |
