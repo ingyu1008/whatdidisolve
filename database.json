@@ -16435,8 +16435,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 206,
-				"average_try": 1.1553
+				"solved_count": 207,
+				"average_try": 1.1546
 			},
 			{
 				"id": 31608,
@@ -16480,8 +16480,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u753b\u6570\u6570\u3048 (Stroke Count)",
-				"solved_count": 196,
-				"average_try": 1.1327
+				"solved_count": 197,
+				"average_try": 1.132
 			},
 			{
 				"id": 31614,
@@ -16507,8 +16507,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
-				"solved_count": 189,
-				"average_try": 1.1587
+				"solved_count": 191,
+				"average_try": 1.1571
 			},
 			{
 				"id": 31628,
@@ -16566,5 +16566,5 @@
 			}
 		]
 	},
-	"last_updated": "Fri Apr  5 00:44:44 2024"
+	"last_updated": "Fri Apr  5 06:13:31 2024"
 }
