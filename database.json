@@ -16435,8 +16435,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 207,
-				"average_try": 1.1546
+				"solved_count": 210,
+				"average_try": 1.1524
 			},
 			{
 				"id": 31608,
@@ -16444,8 +16444,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
-				"solved_count": 186,
-				"average_try": 1.1882
+				"solved_count": 188,
+				"average_try": 1.1915
 			},
 			{
 				"id": 31609,
@@ -16453,8 +16453,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 192,
-				"average_try": 1.2865
+				"solved_count": 193,
+				"average_try": 1.285
 			},
 			{
 				"id": 31610,
@@ -16462,8 +16462,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u98f4\u306e\u888b\u8a70\u3081 (Drops Packing)",
-				"solved_count": 438,
-				"average_try": 1.105
+				"solved_count": 455,
+				"average_try": 1.1077
 			},
 			{
 				"id": 31611,
@@ -16480,8 +16480,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u753b\u6570\u6570\u3048 (Stroke Count)",
-				"solved_count": 197,
-				"average_try": 1.132
+				"solved_count": 198,
+				"average_try": 1.1313
 			},
 			{
 				"id": 31614,
@@ -16498,8 +16498,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 232,
-				"average_try": 1.1121
+				"solved_count": 234,
+				"average_try": 1.1111
 			},
 			{
 				"id": 31616,
@@ -16507,8 +16507,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
-				"solved_count": 191,
-				"average_try": 1.1571
+				"solved_count": 193,
+				"average_try": 1.1554
 			},
 			{
 				"id": 31628,
@@ -16534,8 +16534,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u4e09\u9023\u7d9a (Three Consecutive)",
-				"solved_count": 194,
-				"average_try": 1.268
+				"solved_count": 196,
+				"average_try": 1.2653
 			},
 			{
 				"id": 31654,
@@ -16566,5 +16566,5 @@
 			}
 		]
 	},
-	"last_updated": "Fri Apr  5 12:17:38 2024"
+	"last_updated": "Fri Apr  5 18:12:55 2024"
 }
