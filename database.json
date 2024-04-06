@@ -16435,8 +16435,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 212,
-				"average_try": 1.1509
+				"solved_count": 213,
+				"average_try": 1.1502
 			},
 			{
 				"id": 31608,
@@ -16444,8 +16444,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
-				"solved_count": 189,
-				"average_try": 1.1905
+				"solved_count": 190,
+				"average_try": 1.1947
 			},
 			{
 				"id": 31609,
@@ -16453,8 +16453,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 194,
-				"average_try": 1.2887
+				"solved_count": 196,
+				"average_try": 1.2857
 			},
 			{
 				"id": 31610,
@@ -16498,8 +16498,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 237,
-				"average_try": 1.1097
+				"solved_count": 238,
+				"average_try": 1.1092
 			},
 			{
 				"id": 31616,
@@ -16507,8 +16507,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
-				"solved_count": 197,
-				"average_try": 1.1574
+				"solved_count": 198,
+				"average_try": 1.1566
 			},
 			{
 				"id": 31628,
@@ -16570,10 +16570,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "SciComLove (2024)",
-				"solved_count": 139,
-				"average_try": 1.1655
+				"solved_count": 151,
+				"average_try": 1.1589
 			}
 		]
 	},
-	"last_updated": "Sat Apr  6 12:17:31 2024"
+	"last_updated": "Sat Apr  6 18:12:05 2024"
 }
