@@ -1,3 +1,13 @@
 {
-	"problems": []
+	"problems": [
+		{
+			"id": 31746,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "SciComLove (2024)",
+			"solved_count": 128,
+			"average_try": 1.1719
+		}
+	]
 }

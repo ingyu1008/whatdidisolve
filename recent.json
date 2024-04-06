@@ -1,6 +1,16 @@
 {
 	"problems": [
 		{
+			"id": 31746,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "SciComLove (2024)",
+			"solved_count": 128,
+			"average_try": 1.1719,
+			"update_date": "Sat Apr  6 06:13:08 2024"
+		},
+		{
 			"id": 14568,
 			"level": 3,
 			"level_locked": 0,
@@ -2211,5 +2221,5 @@
 			"update_date": "Sat Jan 20 05:51:17 2024"
 		}
 	],
-	"last_updated": "Sat Apr  6 00:43:23 2024"
+	"last_updated": "Sat Apr  6 06:13:08 2024"
 }

@@ -1,7 +1,8 @@
-올해 푼 문제 수: 221
+올해 푼 문제 수: 222
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 31746 | [SciComLove (2024)](https://www.acmicpc.net/problem/31746) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 04. 06.  |
 | 14568 | [2017 연세대학교 프로그래밍 경시대회](https://www.acmicpc.net/problem/14568) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 04.  |
 | 9501 | [꿍의 우주여행](https://www.acmicpc.net/problem/9501) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 03.  |
 | 26314 | [Vowel Count](https://www.acmicpc.net/problem/26314) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 04. 02.  |
@@ -21,4 +22,3 @@
 | 1703 | [생장점](https://www.acmicpc.net/problem/1703) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 24.  |
 | 31607 | [和の判定 (Sum Checker)](https://www.acmicpc.net/problem/31607) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 23.  |
 | 19672 | [Feast](https://www.acmicpc.net/problem/19672) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> | 2024. 03. 22.  |
-| 31615 | [桁 (Digit)](https://www.acmicpc.net/problem/31615) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 22.  |
