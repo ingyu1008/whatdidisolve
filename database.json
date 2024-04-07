@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1841,
+		"total_problems": 1842,
 		"total_page": 1,
 		"problems": [
 			{
@@ -1167,7 +1167,7 @@
 			},
 			{
 				"id": 1561,
-				"level": 14,
+				"level": 15,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub180\uc774 \uacf5\uc6d0",
@@ -3333,6 +3333,15 @@
 				"title": "N\ubc88\uc9f8 \ud070 \uc218",
 				"solved_count": 10154,
 				"average_try": 1.3233
+			},
+			{
+				"id": 2712,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ubbf8\uad6d \uc2a4\ud0c0\uc77c",
+				"solved_count": 1778,
+				"average_try": 1.4978
 			},
 			{
 				"id": 2715,
@@ -16498,8 +16507,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 240,
-				"average_try": 1.1083
+				"solved_count": 242,
+				"average_try": 1.1074
 			},
 			{
 				"id": 31616,
@@ -16507,8 +16516,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
-				"solved_count": 199,
-				"average_try": 1.1558
+				"solved_count": 200,
+				"average_try": 1.155
 			},
 			{
 				"id": 31628,
@@ -16570,10 +16579,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "SciComLove (2024)",
-				"solved_count": 165,
-				"average_try": 1.1636
+				"solved_count": 174,
+				"average_try": 1.1552
 			}
 		]
 	},
-	"last_updated": "Sun Apr  7 06:12:32 2024"
+	"last_updated": "Sun Apr  7 12:16:35 2024"
 }
