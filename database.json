@@ -16453,8 +16453,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 216,
-				"average_try": 1.1481
+				"solved_count": 218,
+				"average_try": 1.1468
 			},
 			{
 				"id": 31608,
@@ -16471,8 +16471,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 200,
-				"average_try": 1.305
+				"solved_count": 201,
+				"average_try": 1.3035
 			},
 			{
 				"id": 31610,
@@ -16489,8 +16489,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u706b\u66dc\u65e5 (Tuesday)",
-				"solved_count": 488,
-				"average_try": 1.1885
+				"solved_count": 497,
+				"average_try": 1.1851
 			},
 			{
 				"id": 31612,
@@ -16516,8 +16516,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6841 (Digit)",
-				"solved_count": 244,
-				"average_try": 1.1066
+				"solved_count": 247,
+				"average_try": 1.1053
 			},
 			{
 				"id": 31616,
@@ -16552,8 +16552,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u4e09\u9023\u7d9a (Three Consecutive)",
-				"solved_count": 203,
-				"average_try": 1.2759
+				"solved_count": 207,
+				"average_try": 1.2802
 			},
 			{
 				"id": 31654,
@@ -16588,10 +16588,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "SciComLove (2024)",
-				"solved_count": 199,
-				"average_try": 1.1457
+				"solved_count": 202,
+				"average_try": 1.1436
 			}
 		]
 	},
-	"last_updated": "Mon Apr  8 12:18:08 2024"
+	"last_updated": "Mon Apr  8 18:13:57 2024"
 }
