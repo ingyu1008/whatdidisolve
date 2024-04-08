@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1842,
+		"total_problems": 1843,
 		"total_page": 1,
 		"problems": [
 			{
@@ -11705,6 +11705,15 @@
 				"average_try": 2.7554
 			},
 			{
+				"id": 17548,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Greetings!",
+				"solved_count": 381,
+				"average_try": 1.0866
+			},
+			{
 				"id": 17607,
 				"level": 24,
 				"level_locked": 0,
@@ -16444,8 +16453,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 214,
-				"average_try": 1.1495
+				"solved_count": 216,
+				"average_try": 1.1481
 			},
 			{
 				"id": 31608,
@@ -16453,8 +16462,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
-				"solved_count": 190,
-				"average_try": 1.1947
+				"solved_count": 191,
+				"average_try": 1.1937
 			},
 			{
 				"id": 31609,
@@ -16516,8 +16525,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
-				"solved_count": 202,
-				"average_try": 1.1634
+				"solved_count": 203,
+				"average_try": 1.1626
 			},
 			{
 				"id": 31628,
@@ -16579,10 +16588,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "SciComLove (2024)",
-				"solved_count": 194,
-				"average_try": 1.1443
+				"solved_count": 199,
+				"average_try": 1.1457
 			}
 		]
 	},
-	"last_updated": "Mon Apr  8 06:14:12 2024"
+	"last_updated": "Mon Apr  8 12:18:08 2024"
 }
