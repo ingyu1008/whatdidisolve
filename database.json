@@ -16507,8 +16507,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u753b\u6570\u6570\u3048 (Stroke Count)",
-				"solved_count": 204,
-				"average_try": 1.1275
+				"solved_count": 205,
+				"average_try": 1.1268
 			},
 			{
 				"id": 31614,
@@ -16561,8 +16561,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u4e09\u9023\u7d9a (Three Consecutive)",
-				"solved_count": 208,
-				"average_try": 1.2788
+				"solved_count": 211,
+				"average_try": 1.2749
 			},
 			{
 				"id": 31654,
@@ -16597,10 +16597,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "SciComLove (2024)",
-				"solved_count": 204,
-				"average_try": 1.1422
+				"solved_count": 208,
+				"average_try": 1.1394
 			}
 		]
 	},
-	"last_updated": "Tue Apr  9 06:14:07 2024"
+	"last_updated": "Tue Apr  9 12:18:39 2024"
 }
