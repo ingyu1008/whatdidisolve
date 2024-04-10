@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1844,
+		"total_problems": 1845,
 		"total_page": 1,
 		"problems": [
 			{
@@ -5160,6 +5160,15 @@
 				"title": "\uc74c\uc8fc \ucf54\ub529",
 				"solved_count": 2234,
 				"average_try": 3.0278
+			},
+			{
+				"id": 5692,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ud329\ud1a0\ub9ac\uc5bc \uc9c4\ubc95",
+				"solved_count": 1728,
+				"average_try": 2.2708
 			},
 			{
 				"id": 5717,
@@ -16507,8 +16516,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u753b\u6570\u6570\u3048 (Stroke Count)",
-				"solved_count": 210,
-				"average_try": 1.1429
+				"solved_count": 212,
+				"average_try": 1.1415
 			},
 			{
 				"id": 31614,
@@ -16534,8 +16543,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
-				"solved_count": 211,
-				"average_try": 1.1801
+				"solved_count": 213,
+				"average_try": 1.1831
 			},
 			{
 				"id": 31628,
@@ -16561,8 +16570,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u4e09\u9023\u7d9a (Three Consecutive)",
-				"solved_count": 213,
-				"average_try": 1.2723
+				"solved_count": 214,
+				"average_try": 1.271
 			},
 			{
 				"id": 31654,
@@ -16597,10 +16606,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "SciComLove (2024)",
-				"solved_count": 219,
-				"average_try": 1.1507
+				"solved_count": 224,
+				"average_try": 1.1518
 			}
 		]
 	},
-	"last_updated": "Wed Apr 10 06:13:57 2024"
+	"last_updated": "Wed Apr 10 12:18:26 2024"
 }

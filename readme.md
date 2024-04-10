@@ -1,7 +1,8 @@
-올해 푼 문제 수: 225
+올해 푼 문제 수: 226
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 5692 | [팩토리얼 진법](https://www.acmicpc.net/problem/5692) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 10.  |
 | 12756 | [고급 여관](https://www.acmicpc.net/problem/12756) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 09.  |
 | 17548 | [Greetings!](https://www.acmicpc.net/problem/17548) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 04. 08.  |
 | 2712 | [미국 스타일](https://www.acmicpc.net/problem/2712) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 07.  |
@@ -21,4 +22,3 @@
 | 15780 | [멀티탭 충분하니?](https://www.acmicpc.net/problem/15780) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 25.  |
 | 31609 | [現れている数字 (Appearing Numbers)](https://www.acmicpc.net/problem/31609) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 24.  |
 | 11034 | [캥거루 세마리2](https://www.acmicpc.net/problem/11034) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 24.  |
-| 5724 | [파인만](https://www.acmicpc.net/problem/5724) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 24.  |
