@@ -16471,8 +16471,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 222,
-				"average_try": 1.1441
+				"solved_count": 223,
+				"average_try": 1.1435
 			},
 			{
 				"id": 31608,
@@ -16480,8 +16480,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
-				"solved_count": 197,
-				"average_try": 1.1929
+				"solved_count": 200,
+				"average_try": 1.19
 			},
 			{
 				"id": 31609,
@@ -16570,8 +16570,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u4e09\u9023\u7d9a (Three Consecutive)",
-				"solved_count": 214,
-				"average_try": 1.271
+				"solved_count": 216,
+				"average_try": 1.2685
 			},
 			{
 				"id": 31654,
@@ -16606,10 +16606,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "SciComLove (2024)",
-				"solved_count": 224,
-				"average_try": 1.1518
+				"solved_count": 227,
+				"average_try": 1.1542
 			}
 		]
 	},
-	"last_updated": "Wed Apr 10 12:18:26 2024"
+	"last_updated": "Wed Apr 10 18:14:37 2024"
 }
