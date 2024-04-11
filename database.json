@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1845,
+		"total_problems": 1846,
 		"total_page": 1,
 		"problems": [
 			{
@@ -10220,6 +10220,15 @@
 				"average_try": 1.9941
 			},
 			{
+				"id": 15633,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Fan Death",
+				"solved_count": 1715,
+				"average_try": 1.765
+			},
+			{
 				"id": 15638,
 				"level": 0,
 				"level_locked": 1,
@@ -16471,8 +16480,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 228,
-				"average_try": 1.1404
+				"solved_count": 233,
+				"average_try": 1.1373
 			},
 			{
 				"id": 31608,
@@ -16480,8 +16489,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
-				"solved_count": 203,
-				"average_try": 1.1872
+				"solved_count": 205,
+				"average_try": 1.1902
 			},
 			{
 				"id": 31609,
@@ -16516,8 +16525,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u753b\u6570\u6570\u3048 (Stroke Count)",
-				"solved_count": 215,
-				"average_try": 1.1395
+				"solved_count": 217,
+				"average_try": 1.1382
 			},
 			{
 				"id": 31614,
@@ -16543,8 +16552,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
-				"solved_count": 218,
-				"average_try": 1.1789
+				"solved_count": 220,
+				"average_try": 1.1773
 			},
 			{
 				"id": 31628,
@@ -16611,5 +16620,5 @@
 			}
 		]
 	},
-	"last_updated": "Thu Apr 11 12:18:12 2024"
+	"last_updated": "Thu Apr 11 18:12:56 2024"
 }

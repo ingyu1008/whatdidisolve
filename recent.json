@@ -1,6 +1,16 @@
 {
 	"problems": [
 		{
+			"id": 15633,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Fan Death",
+			"solved_count": 1715,
+			"average_try": 1.765,
+			"update_date": "Thu Apr 11 18:12:56 2024"
+		},
+		{
 			"id": 5692,
 			"level": 3,
 			"level_locked": 0,
@@ -2261,5 +2271,5 @@
 			"update_date": "Sat Jan 20 05:51:17 2024"
 		}
 	],
-	"last_updated": "Thu Apr 11 12:18:12 2024"
+	"last_updated": "Thu Apr 11 18:12:56 2024"
 }
