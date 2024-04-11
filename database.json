@@ -16462,8 +16462,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u679c\u7269 (Fruit)",
-				"solved_count": 550,
-				"average_try": 1.0673
+				"solved_count": 558,
+				"average_try": 1.0717
 			},
 			{
 				"id": 31607,
@@ -16471,8 +16471,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 223,
-				"average_try": 1.1435
+				"solved_count": 224,
+				"average_try": 1.1429
 			},
 			{
 				"id": 31608,
@@ -16480,8 +16480,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
-				"solved_count": 201,
-				"average_try": 1.1891
+				"solved_count": 202,
+				"average_try": 1.1881
 			},
 			{
 				"id": 31609,
@@ -16543,8 +16543,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
-				"solved_count": 216,
-				"average_try": 1.1806
+				"solved_count": 217,
+				"average_try": 1.1797
 			},
 			{
 				"id": 31628,
@@ -16606,10 +16606,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "SciComLove (2024)",
-				"solved_count": 229,
-				"average_try": 1.1528
+				"solved_count": 232,
+				"average_try": 1.1509
 			}
 		]
 	},
-	"last_updated": "Thu Apr 11 00:44:59 2024"
+	"last_updated": "Thu Apr 11 06:13:40 2024"
 }
