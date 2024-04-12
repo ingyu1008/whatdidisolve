@@ -1167,7 +1167,7 @@
 			},
 			{
 				"id": 1561,
-				"level": 15,
+				"level": 14,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub180\uc774 \uacf5\uc6d0",
@@ -16489,8 +16489,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 233,
-				"average_try": 1.1373
+				"solved_count": 234,
+				"average_try": 1.1368
 			},
 			{
 				"id": 31608,
@@ -16498,8 +16498,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
-				"solved_count": 205,
-				"average_try": 1.1902
+				"solved_count": 206,
+				"average_try": 1.1893
 			},
 			{
 				"id": 31609,
@@ -16561,8 +16561,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
-				"solved_count": 220,
-				"average_try": 1.1773
+				"solved_count": 221,
+				"average_try": 1.1765
 			},
 			{
 				"id": 31628,
@@ -16629,5 +16629,5 @@
 			}
 		]
 	},
-	"last_updated": "Fri Apr 12 06:13:57 2024"
+	"last_updated": "Fri Apr 12 12:18:09 2024"
 }
