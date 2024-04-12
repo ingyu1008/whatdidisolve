@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1846,
+		"total_problems": 1847,
 		"total_page": 1,
 		"problems": [
 			{
@@ -5160,6 +5160,15 @@
 				"title": "\uc74c\uc8fc \ucf54\ub529",
 				"solved_count": 2234,
 				"average_try": 3.0278
+			},
+			{
+				"id": 5691,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ud3c9\uade0 \uc911\uc559\uac12 \ubb38\uc81c",
+				"solved_count": 1712,
+				"average_try": 1.2354
 			},
 			{
 				"id": 5692,
@@ -16525,8 +16534,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u753b\u6570\u6570\u3048 (Stroke Count)",
-				"solved_count": 217,
-				"average_try": 1.1382
+				"solved_count": 219,
+				"average_try": 1.137
 			},
 			{
 				"id": 31614,
@@ -16620,5 +16629,5 @@
 			}
 		]
 	},
-	"last_updated": "Fri Apr 12 00:44:48 2024"
+	"last_updated": "Fri Apr 12 06:13:57 2024"
 }
