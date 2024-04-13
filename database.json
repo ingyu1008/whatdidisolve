@@ -16525,8 +16525,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u98f4\u306e\u888b\u8a70\u3081 (Drops Packing)",
-				"solved_count": 519,
-				"average_try": 1.106
+				"solved_count": 524,
+				"average_try": 1.1069
 			},
 			{
 				"id": 31611,
@@ -16543,8 +16543,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u753b\u6570\u6570\u3048 (Stroke Count)",
-				"solved_count": 220,
-				"average_try": 1.1364
+				"solved_count": 221,
+				"average_try": 1.1357
 			},
 			{
 				"id": 31614,
@@ -16570,8 +16570,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
-				"solved_count": 222,
-				"average_try": 1.1757
+				"solved_count": 223,
+				"average_try": 1.1749
 			},
 			{
 				"id": 31628,
@@ -16579,8 +16579,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uac00\uc9c0 \ud55c \ub450\ub984 \uc8fc\uc138\uc694",
-				"solved_count": 526,
-				"average_try": 1.4962
+				"solved_count": 529,
+				"average_try": 1.4953
 			},
 			{
 				"id": 31631,
@@ -16588,8 +16588,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": ":rightplant:",
-				"solved_count": 175,
-				"average_try": 2.9314
+				"solved_count": 193,
+				"average_try": 2.9275
 			},
 			{
 				"id": 31636,
@@ -16615,8 +16615,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Sticky Keys",
-				"solved_count": 205,
-				"average_try": 1.4732
+				"solved_count": 214,
+				"average_try": 1.5234
 			},
 			{
 				"id": 31668,
@@ -16638,5 +16638,5 @@
 			}
 		]
 	},
-	"last_updated": "Sat Apr 13 12:14:43 2024"
+	"last_updated": "Sat Apr 13 18:10:52 2024"
 }
