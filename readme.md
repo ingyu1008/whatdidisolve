@@ -1,7 +1,8 @@
-올해 푼 문제 수: 228
+올해 푼 문제 수: 229
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 17263 | [Sort 마스터 배지훈](https://www.acmicpc.net/problem/17263) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 13.  |
 | 5691 | [평균 중앙값 문제](https://www.acmicpc.net/problem/5691) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 12.  |
 | 15633 | [Fan Death](https://www.acmicpc.net/problem/15633) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 11.  |
 | 5692 | [팩토리얼 진법](https://www.acmicpc.net/problem/5692) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 10.  |
@@ -21,4 +22,3 @@
 | 31636 | [三連続 (Three Consecutive)](https://www.acmicpc.net/problem/31636) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 28.  |
 | 31612 | [画数数え (Stroke Count)](https://www.acmicpc.net/problem/31612) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 27.  |
 | 31616 | [揃った文字 (Matched Letters)](https://www.acmicpc.net/problem/31616) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 26.  |
-| 15780 | [멀티탭 충분하니?](https://www.acmicpc.net/problem/15780) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 25.  |
