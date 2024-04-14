@@ -5145,7 +5145,7 @@
 			},
 			{
 				"id": 5639,
-				"level": 11,
+				"level": 12,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc774\uc9c4 \uac80\uc0c9 \ud2b8\ub9ac",
@@ -16516,8 +16516,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
-				"solved_count": 207,
-				"average_try": 1.1884
+				"solved_count": 208,
+				"average_try": 1.1875
 			},
 			{
 				"id": 31609,
@@ -16647,5 +16647,5 @@
 			}
 		]
 	},
-	"last_updated": "Sun Apr 14 07:52:27 2024"
+	"last_updated": "Sun Apr 14 14:40:19 2024"
 }
