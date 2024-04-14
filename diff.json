@@ -1,3 +1,13 @@
 {
-	"problems": []
+	"problems": [
+		{
+			"id": 9699,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "RICE SACK",
+			"solved_count": 502,
+			"average_try": 1.2131
+		}
+	]
 }

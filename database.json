@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1848,
+		"total_problems": 1849,
 		"total_page": 1,
 		"problems": [
 			{
@@ -6411,6 +6411,15 @@
 				"title": "\ubb34\uc5c7\uc744 \uc544\ub290\ub0d0\uac00 \uc544\ub2c8\ub77c \ub204\uad6c\ub97c \uc544\ub290\ub0d0\uac00 \ubb38\uc81c\ub2e4",
 				"solved_count": 491,
 				"average_try": 2.6049
+			},
+			{
+				"id": 9699,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "RICE SACK",
+				"solved_count": 502,
+				"average_try": 1.2131
 			},
 			{
 				"id": 9713,
@@ -16552,8 +16561,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u5206 (Minutes)",
-				"solved_count": 620,
-				"average_try": 1.0774
+				"solved_count": 619,
+				"average_try": 1.0775
 			},
 			{
 				"id": 31615,
@@ -16606,8 +16615,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Adding Trouble",
-				"solved_count": 569,
-				"average_try": 1.1652
+				"solved_count": 568,
+				"average_try": 1.1655
 			},
 			{
 				"id": 31656,
@@ -16624,8 +16633,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud2b9\ubcc4\ud55c \uac00\uc9c0",
-				"solved_count": 417,
-				"average_try": 1.1415
+				"solved_count": 416,
+				"average_try": 1.1418
 			},
 			{
 				"id": 31746,
@@ -16638,5 +16647,5 @@
 			}
 		]
 	},
-	"last_updated": "Sun Apr 14 01:00:56 2024"
+	"last_updated": "Sun Apr 14 07:52:27 2024"
 }

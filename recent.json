@@ -1,6 +1,16 @@
 {
 	"problems": [
 		{
+			"id": 9699,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "RICE SACK",
+			"solved_count": 502,
+			"average_try": 1.2131,
+			"update_date": "Sun Apr 14 07:52:27 2024"
+		},
+		{
 			"id": 17263,
 			"level": 3,
 			"level_locked": 0,
@@ -2291,5 +2301,5 @@
 			"update_date": "Sat Jan 20 05:51:17 2024"
 		}
 	],
-	"last_updated": "Sun Apr 14 01:00:56 2024"
+	"last_updated": "Sun Apr 14 07:52:27 2024"
 }
