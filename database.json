@@ -16516,8 +16516,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
-				"solved_count": 209,
-				"average_try": 1.1914
+				"solved_count": 211,
+				"average_try": 1.1896
 			},
 			{
 				"id": 31609,
@@ -16552,8 +16552,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u753b\u6570\u6570\u3048 (Stroke Count)",
-				"solved_count": 222,
-				"average_try": 1.1351
+				"solved_count": 224,
+				"average_try": 1.1339
 			},
 			{
 				"id": 31614,
@@ -16579,8 +16579,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
-				"solved_count": 225,
-				"average_try": 1.1733
+				"solved_count": 226,
+				"average_try": 1.1726
 			},
 			{
 				"id": 31628,
@@ -16647,5 +16647,5 @@
 			}
 		]
 	},
-	"last_updated": "Mon Apr 15 06:14:41 2024"
+	"last_updated": "Mon Apr 15 12:20:20 2024"
 }
