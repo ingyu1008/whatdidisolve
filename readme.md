@@ -1,7 +1,8 @@
-올해 푼 문제 수: 230
+올해 푼 문제 수: 231
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 20540 | [연길이의 이상형](https://www.acmicpc.net/problem/20540) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 15.  |
 | 9699 | [RICE SACK](https://www.acmicpc.net/problem/9699) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 04. 14.  |
 | 17263 | [Sort 마스터 배지훈](https://www.acmicpc.net/problem/17263) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 13.  |
 | 5691 | [평균 중앙값 문제](https://www.acmicpc.net/problem/5691) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 12.  |
@@ -21,4 +22,3 @@
 | 20535 | [최소 공통 조상과 쿼리](https://www.acmicpc.net/problem/20535) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/21.svg"/> | 2024. 03. 29.  |
 | 31608 | [ハミング距離 (Hamming Distance)](https://www.acmicpc.net/problem/31608) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 29.  |
 | 31636 | [三連続 (Three Consecutive)](https://www.acmicpc.net/problem/31636) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 28.  |
-| 31612 | [画数数え (Stroke Count)](https://www.acmicpc.net/problem/31612) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 27.  |
