@@ -16516,8 +16516,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 246,
-				"average_try": 1.1341
+				"solved_count": 248,
+				"average_try": 1.1331
 			},
 			{
 				"id": 31608,
@@ -16656,5 +16656,5 @@
 			}
 		]
 	},
-	"last_updated": "Tue Apr 16 06:13:39 2024"
+	"last_updated": "Tue Apr 16 12:18:31 2024"
 }
