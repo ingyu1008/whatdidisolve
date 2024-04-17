@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1850,
+		"total_problems": 1851,
 		"total_page": 1,
 		"problems": [
 			{
@@ -5322,6 +5322,15 @@
 				"title": "IBM \ube7c\uae30 1",
 				"solved_count": 2472,
 				"average_try": 2.0445
+			},
+			{
+				"id": 6322,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc9c1\uac01 \uc0bc\uac01\ud615\uc758 \ub450 \ubcc0",
+				"solved_count": 1627,
+				"average_try": 2.8322
 			},
 			{
 				"id": 6378,
@@ -16534,8 +16543,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 226,
-				"average_try": 1.3186
+				"solved_count": 227,
+				"average_try": 1.3216
 			},
 			{
 				"id": 31610,
@@ -16651,10 +16660,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "SciComLove (2024)",
-				"solved_count": 261,
-				"average_try": 1.1494
+				"solved_count": 280,
+				"average_try": 1.1786
 			}
 		]
 	},
-	"last_updated": "Wed Apr 17 00:45:37 2024"
+	"last_updated": "Wed Apr 17 06:16:13 2024"
 }

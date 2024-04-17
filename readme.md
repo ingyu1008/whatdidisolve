@@ -1,7 +1,8 @@
-올해 푼 문제 수: 231
+올해 푼 문제 수: 232
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 6322 | [직각 삼각형의 두 변](https://www.acmicpc.net/problem/6322) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 17.  |
 | 20540 | [연길이의 이상형](https://www.acmicpc.net/problem/20540) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 15.  |
 | 9699 | [RICE SACK](https://www.acmicpc.net/problem/9699) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 04. 14.  |
 | 17263 | [Sort 마스터 배지훈](https://www.acmicpc.net/problem/17263) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 13.  |
@@ -21,4 +22,3 @@
 | 29771 | [트리 컴포넌트 찾기](https://www.acmicpc.net/problem/29771) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> | 2024. 03. 29.  |
 | 20535 | [최소 공통 조상과 쿼리](https://www.acmicpc.net/problem/20535) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/21.svg"/> | 2024. 03. 29.  |
 | 31608 | [ハミング距離 (Hamming Distance)](https://www.acmicpc.net/problem/31608) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 29.  |
-| 31636 | [三連続 (Three Consecutive)](https://www.acmicpc.net/problem/31636) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 28.  |
