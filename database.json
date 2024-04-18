@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1851,
+		"total_problems": 1852,
 		"total_page": 1,
 		"problems": [
 			{
@@ -6780,6 +6780,15 @@
 				"title": "\ub2e4\uba74\uccb4",
 				"solved_count": 5942,
 				"average_try": 1.133
+			},
+			{
+				"id": 10599,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ud398\ub974\uc2dc\uc544\uc758 \uc655\ub4e4",
+				"solved_count": 1608,
+				"average_try": 1.2239
 			},
 			{
 				"id": 10610,
@@ -16543,8 +16552,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 227,
-				"average_try": 1.3216
+				"solved_count": 230,
+				"average_try": 1.3261
 			},
 			{
 				"id": 31610,
@@ -16570,8 +16579,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u753b\u6570\u6570\u3048 (Stroke Count)",
-				"solved_count": 232,
-				"average_try": 1.1293
+				"solved_count": 233,
+				"average_try": 1.1288
 			},
 			{
 				"id": 31614,
@@ -16665,5 +16674,5 @@
 			}
 		]
 	},
-	"last_updated": "Thu Apr 18 00:44:29 2024"
+	"last_updated": "Thu Apr 18 06:14:17 2024"
 }
