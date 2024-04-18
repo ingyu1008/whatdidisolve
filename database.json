@@ -16543,8 +16543,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
-				"solved_count": 217,
-				"average_try": 1.1889
+				"solved_count": 218,
+				"average_try": 1.1881
 			},
 			{
 				"id": 31609,
@@ -16561,8 +16561,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u98f4\u306e\u888b\u8a70\u3081 (Drops Packing)",
-				"solved_count": 539,
-				"average_try": 1.115
+				"solved_count": 553,
+				"average_try": 1.1139
 			},
 			{
 				"id": 31611,
@@ -16674,5 +16674,5 @@
 			}
 		]
 	},
-	"last_updated": "Thu Apr 18 12:18:15 2024"
+	"last_updated": "Thu Apr 18 18:13:38 2024"
 }
