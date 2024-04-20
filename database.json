@@ -16543,8 +16543,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u679c\u7269 (Fruit)",
-				"solved_count": 608,
-				"average_try": 1.0757
+				"solved_count": 621,
+				"average_try": 1.0741
 			},
 			{
 				"id": 31607,
@@ -16561,8 +16561,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
-				"solved_count": 223,
-				"average_try": 1.1883
+				"solved_count": 224,
+				"average_try": 1.192
 			},
 			{
 				"id": 31609,
@@ -16570,8 +16570,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 235,
-				"average_try": 1.3234
+				"solved_count": 242,
+				"average_try": 1.3306
 			},
 			{
 				"id": 31610,
@@ -16597,8 +16597,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u753b\u6570\u6570\u3048 (Stroke Count)",
-				"solved_count": 235,
-				"average_try": 1.1277
+				"solved_count": 237,
+				"average_try": 1.135
 			},
 			{
 				"id": 31614,
@@ -16606,8 +16606,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u5206 (Minutes)",
-				"solved_count": 657,
-				"average_try": 1.0746
+				"solved_count": 663,
+				"average_try": 1.0754
 			},
 			{
 				"id": 31615,
@@ -16692,5 +16692,5 @@
 			}
 		]
 	},
-	"last_updated": "Sat Apr 20 12:17:41 2024"
+	"last_updated": "Sat Apr 20 18:13:37 2024"
 }
