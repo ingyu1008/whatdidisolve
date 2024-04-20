@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1853,
+		"total_problems": 1854,
 		"total_page": 1,
 		"problems": [
 			{
@@ -7752,6 +7752,15 @@
 				"title": "\uc808\ub313\uac12 \ud799",
 				"solved_count": 25001,
 				"average_try": 1.7634
+			},
+			{
+				"id": 11320,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc0bc\uac01 \ubb34\ub2ac - 1",
+				"solved_count": 1380,
+				"average_try": 1.3094
 			},
 			{
 				"id": 11365,
@@ -16552,8 +16561,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
-				"solved_count": 221,
-				"average_try": 1.19
+				"solved_count": 223,
+				"average_try": 1.1883
 			},
 			{
 				"id": 31609,
@@ -16588,8 +16597,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u753b\u6570\u6570\u3048 (Stroke Count)",
-				"solved_count": 234,
-				"average_try": 1.1282
+				"solved_count": 235,
+				"average_try": 1.1277
 			},
 			{
 				"id": 31614,
@@ -16651,8 +16660,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Adding Trouble",
-				"solved_count": 616,
-				"average_try": 1.1737
+				"solved_count": 622,
+				"average_try": 1.1736
 			},
 			{
 				"id": 31656,
@@ -16683,5 +16692,5 @@
 			}
 		]
 	},
-	"last_updated": "Sat Apr 20 06:12:50 2024"
+	"last_updated": "Sat Apr 20 12:17:41 2024"
 }
