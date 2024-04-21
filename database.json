@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1854,
+		"total_problems": 1855,
 		"total_page": 1,
 		"problems": [
 			{
@@ -597,6 +597,15 @@
 				"title": "\ud64d\uc900 \ud504\ub85c\uadf8\ub798\ubc0d \ub300\ud68c",
 				"solved_count": 495,
 				"average_try": 4.099
+			},
+			{
+				"id": 1225,
+				"level": 4,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc774\uc0c1\ud55c \uacf1\uc148",
+				"solved_count": 6248,
+				"average_try": 2.612
 			},
 			{
 				"id": 1229,
@@ -16543,8 +16552,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u679c\u7269 (Fruit)",
-				"solved_count": 622,
-				"average_try": 1.0756
+				"solved_count": 633,
+				"average_try": 1.0758
 			},
 			{
 				"id": 31607,
@@ -16692,5 +16701,5 @@
 			}
 		]
 	},
-	"last_updated": "Sun Apr 21 12:18:30 2024"
+	"last_updated": "Sun Apr 21 18:13:48 2024"
 }

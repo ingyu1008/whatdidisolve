@@ -1,7 +1,8 @@
-올해 푼 문제 수: 235
+올해 푼 문제 수: 236
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 1225 | [이상한 곱셈](https://www.acmicpc.net/problem/1225) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> | 2024. 04. 21.  |
 | 11320 | [삼각 무늬 - 1](https://www.acmicpc.net/problem/11320) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 20.  |
 | 13311 | [행운의 편지](https://www.acmicpc.net/problem/13311) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 19.  |
 | 10599 | [페르시아의 왕들](https://www.acmicpc.net/problem/10599) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 18.  |
@@ -21,4 +22,3 @@
 | 26314 | [Vowel Count](https://www.acmicpc.net/problem/26314) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 04. 02.  |
 | 31668 | [특별한 가지](https://www.acmicpc.net/problem/31668) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 04. 01.  |
 | 9713 | [Sum of Odd Sequence](https://www.acmicpc.net/problem/9713) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 31.  |
-| 31656 | [Sticky Keys](https://www.acmicpc.net/problem/31656) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 03. 30.  |
