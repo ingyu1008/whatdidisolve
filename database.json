@@ -16561,8 +16561,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
-				"solved_count": 224,
-				"average_try": 1.192
+				"solved_count": 225,
+				"average_try": 1.1911
 			},
 			{
 				"id": 31609,
@@ -16692,5 +16692,5 @@
 			}
 		]
 	},
-	"last_updated": "Sun Apr 21 06:14:49 2024"
+	"last_updated": "Sun Apr 21 12:18:30 2024"
 }
