@@ -1,7 +1,8 @@
-올해 푼 문제 수: 236
+올해 푼 문제 수: 237
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 13416 | [주식 투자](https://www.acmicpc.net/problem/13416) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 22.  |
 | 1225 | [이상한 곱셈](https://www.acmicpc.net/problem/1225) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> | 2024. 04. 21.  |
 | 11320 | [삼각 무늬 - 1](https://www.acmicpc.net/problem/11320) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 20.  |
 | 13311 | [행운의 편지](https://www.acmicpc.net/problem/13311) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 19.  |
@@ -21,4 +22,3 @@
 | 9501 | [꿍의 우주여행](https://www.acmicpc.net/problem/9501) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 03.  |
 | 26314 | [Vowel Count](https://www.acmicpc.net/problem/26314) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 04. 02.  |
 | 31668 | [특별한 가지](https://www.acmicpc.net/problem/31668) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 04. 01.  |
-| 9713 | [Sum of Odd Sequence](https://www.acmicpc.net/problem/9713) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 03. 31.  |

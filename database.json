@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1855,
+		"total_problems": 1856,
 		"total_page": 1,
 		"problems": [
 			{
@@ -8933,6 +8933,15 @@
 				"average_try": 3.6667
 			},
 			{
+				"id": 13416,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc8fc\uc2dd \ud22c\uc790",
+				"solved_count": 1529,
+				"average_try": 1.3159
+			},
+			{
 				"id": 13430,
 				"level": 16,
 				"level_locked": 0,
@@ -16570,8 +16579,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
-				"solved_count": 225,
-				"average_try": 1.1911
+				"solved_count": 229,
+				"average_try": 1.1878
 			},
 			{
 				"id": 31609,
@@ -16701,5 +16710,5 @@
 			}
 		]
 	},
-	"last_updated": "Mon Apr 22 00:47:32 2024"
+	"last_updated": "Mon Apr 22 06:14:27 2024"
 }
