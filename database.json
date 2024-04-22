@@ -16579,8 +16579,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
-				"solved_count": 229,
-				"average_try": 1.1878
+				"solved_count": 230,
+				"average_try": 1.187
 			},
 			{
 				"id": 31609,
@@ -16597,8 +16597,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u98f4\u306e\u888b\u8a70\u3081 (Drops Packing)",
-				"solved_count": 582,
-				"average_try": 1.1186
+				"solved_count": 588,
+				"average_try": 1.1173
 			},
 			{
 				"id": 31611,
@@ -16705,10 +16705,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "SciComLove (2024)",
-				"solved_count": 308,
-				"average_try": 1.2078
+				"solved_count": 314,
+				"average_try": 1.2038
 			}
 		]
 	},
-	"last_updated": "Mon Apr 22 12:20:11 2024"
+	"last_updated": "Mon Apr 22 18:12:51 2024"
 }
