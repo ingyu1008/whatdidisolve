@@ -16579,8 +16579,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
-				"solved_count": 232,
-				"average_try": 1.1853
+				"solved_count": 233,
+				"average_try": 1.1845
 			},
 			{
 				"id": 31609,
@@ -16624,8 +16624,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u5206 (Minutes)",
-				"solved_count": 677,
-				"average_try": 1.0768
+				"solved_count": 683,
+				"average_try": 1.0776
 			},
 			{
 				"id": 31615,
@@ -16705,10 +16705,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "SciComLove (2024)",
-				"solved_count": 314,
-				"average_try": 1.2038
+				"solved_count": 315,
+				"average_try": 1.2032
 			}
 		]
 	},
-	"last_updated": "Tue Apr 23 00:45:52 2024"
+	"last_updated": "Tue Apr 23 06:14:22 2024"
 }
