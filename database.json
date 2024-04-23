@@ -16561,8 +16561,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u679c\u7269 (Fruit)",
-				"solved_count": 633,
-				"average_try": 1.0758
+				"solved_count": 648,
+				"average_try": 1.0756
 			},
 			{
 				"id": 31607,
@@ -16710,5 +16710,5 @@
 			}
 		]
 	},
-	"last_updated": "Tue Apr 23 12:19:49 2024"
+	"last_updated": "Tue Apr 23 18:13:07 2024"
 }
