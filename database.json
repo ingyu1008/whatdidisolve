@@ -16588,8 +16588,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30cf\u30df\u30f3\u30b0\u8ddd\u96e2 (Hamming Distance)",
-				"solved_count": 234,
-				"average_try": 1.1838
+				"solved_count": 236,
+				"average_try": 1.1822
 			},
 			{
 				"id": 31609,
@@ -16719,5 +16719,5 @@
 			}
 		]
 	},
-	"last_updated": "Wed Apr 24 06:16:02 2024"
+	"last_updated": "Wed Apr 24 12:21:54 2024"
 }
