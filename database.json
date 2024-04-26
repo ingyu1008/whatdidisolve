@@ -16606,8 +16606,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 243,
-				"average_try": 1.3333
+				"solved_count": 258,
+				"average_try": 1.3643
 			},
 			{
 				"id": 31610,
@@ -16615,8 +16615,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u98f4\u306e\u888b\u8a70\u3081 (Drops Packing)",
-				"solved_count": 604,
-				"average_try": 1.1142
+				"solved_count": 616,
+				"average_try": 1.112
 			},
 			{
 				"id": 31611,
@@ -16728,5 +16728,5 @@
 			}
 		]
 	},
-	"last_updated": "Fri Apr 26 12:18:53 2024"
+	"last_updated": "Fri Apr 26 18:13:08 2024"
 }
