@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1857,
+		"total_problems": 1858,
 		"total_page": 1,
 		"problems": [
 			{
@@ -6195,6 +6195,15 @@
 				"title": "\ub514\uc9c0\ud138 \ube44\ub514\uc624 \ub514\uc2a4\ud06c(DVDs)",
 				"solved_count": 1465,
 				"average_try": 2.4416
+			},
+			{
+				"id": 9366,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc0bc\uac01\ud615 \ubd84\ub958",
+				"solved_count": 1507,
+				"average_try": 1.9748
 			},
 			{
 				"id": 9372,
@@ -16719,5 +16728,5 @@
 			}
 		]
 	},
-	"last_updated": "Fri Apr 26 00:45:59 2024"
+	"last_updated": "Fri Apr 26 06:15:05 2024"
 }

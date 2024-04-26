@@ -1,7 +1,8 @@
-올해 푼 문제 수: 238
+올해 푼 문제 수: 239
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 9366 | [삼각형 분류](https://www.acmicpc.net/problem/9366) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 26.  |
 | 15820 | [맞았는데 왜 틀리죠?](https://www.acmicpc.net/problem/15820) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 24.  |
 | 13416 | [주식 투자](https://www.acmicpc.net/problem/13416) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 22.  |
 | 1225 | [이상한 곱셈](https://www.acmicpc.net/problem/1225) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> | 2024. 04. 21.  |
@@ -21,4 +22,3 @@
 | 31746 | [SciComLove (2024)](https://www.acmicpc.net/problem/31746) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 04. 06.  |
 | 14568 | [2017 연세대학교 프로그래밍 경시대회](https://www.acmicpc.net/problem/14568) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 04.  |
 | 9501 | [꿍의 우주여행](https://www.acmicpc.net/problem/9501) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 03.  |
-| 26314 | [Vowel Count](https://www.acmicpc.net/problem/26314) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 04. 02.  |
