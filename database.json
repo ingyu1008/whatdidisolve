@@ -16642,8 +16642,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u5206 (Minutes)",
-				"solved_count": 713,
-				"average_try": 1.0771
+				"solved_count": 716,
+				"average_try": 1.0768
 			},
 			{
 				"id": 31615,
@@ -16696,8 +16696,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Adding Trouble",
-				"solved_count": 671,
-				"average_try": 1.1714
+				"solved_count": 672,
+				"average_try": 1.1711
 			},
 			{
 				"id": 31656,
@@ -16728,5 +16728,5 @@
 			}
 		]
 	},
-	"last_updated": "Sat Apr 27 00:45:16 2024"
+	"last_updated": "Sat Apr 27 06:14:25 2024"
 }
