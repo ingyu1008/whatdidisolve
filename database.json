@@ -16579,8 +16579,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u679c\u7269 (Fruit)",
-				"solved_count": 683,
-				"average_try": 1.0761
+				"solved_count": 689,
+				"average_try": 1.0755
 			},
 			{
 				"id": 31607,
@@ -16606,8 +16606,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u73fe\u308c\u3066\u3044\u308b\u6570\u5b57 (Appearing Numbers)",
-				"solved_count": 258,
-				"average_try": 1.3643
+				"solved_count": 263,
+				"average_try": 1.3612
 			},
 			{
 				"id": 31610,
@@ -16615,8 +16615,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u98f4\u306e\u888b\u8a70\u3081 (Drops Packing)",
-				"solved_count": 633,
-				"average_try": 1.1169
+				"solved_count": 642,
+				"average_try": 1.1168
 			},
 			{
 				"id": 31611,
@@ -16728,5 +16728,5 @@
 			}
 		]
 	},
-	"last_updated": "Sun Apr 28 12:18:28 2024"
+	"last_updated": "Sun Apr 28 18:12:35 2024"
 }
