@@ -16669,8 +16669,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uac00\uc9c0 \ud55c \ub450\ub984 \uc8fc\uc138\uc694",
-				"solved_count": 541,
-				"average_try": 1.5102
+				"solved_count": 554,
+				"average_try": 1.5199
 			},
 			{
 				"id": 31631,
@@ -16714,8 +16714,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud2b9\ubcc4\ud55c \uac00\uc9c0",
-				"solved_count": 488,
-				"average_try": 1.1455
+				"solved_count": 492,
+				"average_try": 1.1443
 			},
 			{
 				"id": 31746,
@@ -16728,5 +16728,5 @@
 			}
 		]
 	},
-	"last_updated": "Sun Apr 28 00:50:47 2024"
+	"last_updated": "Sun Apr 28 06:13:15 2024"
 }
