@@ -16588,8 +16588,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u548c\u306e\u5224\u5b9a (Sum Checker)",
-				"solved_count": 285,
-				"average_try": 1.1368
+				"solved_count": 287,
+				"average_try": 1.1359
 			},
 			{
 				"id": 31608,
@@ -16714,8 +16714,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud2b9\ubcc4\ud55c \uac00\uc9c0",
-				"solved_count": 497,
-				"average_try": 1.1449
+				"solved_count": 500,
+				"average_try": 1.144
 			},
 			{
 				"id": 31746,
@@ -16728,5 +16728,5 @@
 			}
 		]
 	},
-	"last_updated": "Mon Apr 29 00:47:12 2024"
+	"last_updated": "Mon Apr 29 06:14:30 2024"
 }
