@@ -16705,8 +16705,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Adding Trouble",
-				"solved_count": 697,
-				"average_try": 1.1722
+				"solved_count": 702,
+				"average_try": 1.1724
 			},
 			{
 				"id": 31656,
@@ -16741,10 +16741,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uae00\ub85c\ubc8c \ud3ec\ub2c9\uc2a4",
-				"solved_count": 319,
-				"average_try": 1.5517
+				"solved_count": 342,
+				"average_try": 1.5673
 			}
 		]
 	},
-	"last_updated": "Tue Apr 30 12:18:15 2024"
+	"last_updated": "Tue Apr 30 18:15:56 2024"
 }
