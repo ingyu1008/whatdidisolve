@@ -16732,8 +16732,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "SciComLove (2024)",
-				"solved_count": 327,
-				"average_try": 1.1988
+				"solved_count": 365,
+				"average_try": 1.2274
 			},
 			{
 				"id": 31775,
@@ -16741,10 +16741,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uae00\ub85c\ubc8c \ud3ec\ub2c9\uc2a4",
-				"solved_count": 295,
-				"average_try": 1.522
+				"solved_count": 319,
+				"average_try": 1.5517
 			}
 		]
 	},
-	"last_updated": "Tue Apr 30 06:14:29 2024"
+	"last_updated": "Tue Apr 30 12:18:15 2024"
 }
