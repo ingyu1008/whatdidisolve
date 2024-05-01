@@ -1,7 +1,8 @@
-올해 푼 문제 수: 241
+올해 푼 문제 수: 242
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 14719 | [빗물](https://www.acmicpc.net/problem/14719) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 05. 01.  |
 | 9205 | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 04. 30.  |
 | 31775 | [글로벌 포닉스](https://www.acmicpc.net/problem/31775) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 04. 29.  |
 | 9366 | [삼각형 분류](https://www.acmicpc.net/problem/9366) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 26.  |
@@ -21,4 +22,3 @@
 | 12756 | [고급 여관](https://www.acmicpc.net/problem/12756) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 09.  |
 | 17548 | [Greetings!](https://www.acmicpc.net/problem/17548) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 04. 08.  |
 | 2712 | [미국 스타일](https://www.acmicpc.net/problem/2712) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 07.  |
-| 31746 | [SciComLove (2024)](https://www.acmicpc.net/problem/31746) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 04. 06.  |
