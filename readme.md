@@ -1,7 +1,17 @@
-올해 푼 문제 수: 242
+올해 푼 문제 수: 252
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 31775 | [글로벌 포닉스](https://www.acmicpc.net/problem/31775) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 05. 01.  |
+| 31746 | [SciComLove (2024)](https://www.acmicpc.net/problem/31746) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 05. 01.  |
+| 31668 | [특별한 가지](https://www.acmicpc.net/problem/31668) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 05. 01.  |
+| 31656 | [Sticky Keys](https://www.acmicpc.net/problem/31656) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 05. 01.  |
+| 31654 | [Adding Trouble](https://www.acmicpc.net/problem/31654) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 05. 01.  |
+| 31636 | [三連続 (Three Consecutive)](https://www.acmicpc.net/problem/31636) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 05. 01.  |
+| 31631 | [:rightplant:](https://www.acmicpc.net/problem/31631) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 05. 01.  |
+| 31628 | [가지 한 두름 주세요](https://www.acmicpc.net/problem/31628) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 05. 01.  |
+| 31616 | [揃った文字 (Matched Letters)](https://www.acmicpc.net/problem/31616) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 05. 01.  |
+| 31615 | [桁 (Digit)](https://www.acmicpc.net/problem/31615) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 05. 01.  |
 | 14719 | [빗물](https://www.acmicpc.net/problem/14719) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 05. 01.  |
 | 9205 | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 04. 30.  |
 | 31775 | [글로벌 포닉스](https://www.acmicpc.net/problem/31775) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 04. 29.  |
@@ -12,13 +22,3 @@
 | 11320 | [삼각 무늬 - 1](https://www.acmicpc.net/problem/11320) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 20.  |
 | 13311 | [행운의 편지](https://www.acmicpc.net/problem/13311) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 19.  |
 | 10599 | [페르시아의 왕들](https://www.acmicpc.net/problem/10599) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 18.  |
-| 6322 | [직각 삼각형의 두 변](https://www.acmicpc.net/problem/6322) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 17.  |
-| 20540 | [연길이의 이상형](https://www.acmicpc.net/problem/20540) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 15.  |
-| 9699 | [RICE SACK](https://www.acmicpc.net/problem/9699) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 04. 14.  |
-| 17263 | [Sort 마스터 배지훈](https://www.acmicpc.net/problem/17263) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 13.  |
-| 5691 | [평균 중앙값 문제](https://www.acmicpc.net/problem/5691) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 12.  |
-| 15633 | [Fan Death](https://www.acmicpc.net/problem/15633) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 11.  |
-| 5692 | [팩토리얼 진법](https://www.acmicpc.net/problem/5692) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 10.  |
-| 12756 | [고급 여관](https://www.acmicpc.net/problem/12756) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 09.  |
-| 17548 | [Greetings!](https://www.acmicpc.net/problem/17548) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 04. 08.  |
-| 2712 | [미국 스타일](https://www.acmicpc.net/problem/2712) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 04. 07.  |
