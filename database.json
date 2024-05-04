@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1863,
+		"total_problems": 1864,
 		"total_page": 1,
 		"problems": [
 			{
@@ -210,6 +210,15 @@
 				"title": "\uc57d\uc218",
 				"solved_count": 34172,
 				"average_try": 1.773
+			},
+			{
+				"id": 1038,
+				"level": 11,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uac10\uc18c\ud558\ub294 \uc218",
+				"solved_count": 7572,
+				"average_try": 2.8782
 			},
 			{
 				"id": 1039,
@@ -16773,5 +16782,5 @@
 			}
 		]
 	},
-	"last_updated": "Sat May  4 06:12:53 2024"
+	"last_updated": "Sat May  4 12:17:05 2024"
 }
