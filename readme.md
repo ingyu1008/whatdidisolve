@@ -1,7 +1,8 @@
-올해 푼 문제 수: 266
+올해 푼 문제 수: 267
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 2061 | [좋은 암호](https://www.acmicpc.net/problem/2061) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 05. 06.  |
 | 20055 | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 05. 05.  |
 | 1038 | [감소하는 수](https://www.acmicpc.net/problem/1038) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 05. 04.  |
 | 2023 | [신기한 소수](https://www.acmicpc.net/problem/2023) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 05. 03.  |
@@ -21,4 +22,3 @@
 | 31668 | [특별한 가지](https://www.acmicpc.net/problem/31668) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 05. 01.  |
 | 31656 | [Sticky Keys](https://www.acmicpc.net/problem/31656) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 05. 01.  |
 | 31654 | [Adding Trouble](https://www.acmicpc.net/problem/31654) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 05. 01.  |
-| 31636 | [三連続 (Three Consecutive)](https://www.acmicpc.net/problem/31636) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 05. 01.  |
