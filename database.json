@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1867,
+		"total_problems": 1868,
 		"total_page": 1,
 		"problems": [
 			{
@@ -13253,6 +13253,15 @@
 				"average_try": 1.6994
 			},
 			{
+				"id": 20944,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ud330\ub9b0\ub4dc\ub86c \ucc99\ud654\ube44",
+				"solved_count": 1429,
+				"average_try": 1.2358
+			},
+			{
 				"id": 20971,
 				"level": 14,
 				"level_locked": 0,
@@ -16795,8 +16804,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "SciComLove (2024)",
-				"solved_count": 389,
-				"average_try": 1.2314
+				"solved_count": 395,
+				"average_try": 1.2278
 			},
 			{
 				"id": 31775,
@@ -16809,5 +16818,5 @@
 			}
 		]
 	},
-	"last_updated": "Thu May  9 06:14:33 2024"
+	"last_updated": "Thu May  9 12:19:08 2024"
 }

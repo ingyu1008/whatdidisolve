@@ -1,7 +1,8 @@
-올해 푼 문제 수: 268
+올해 푼 문제 수: 269
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 20944 | [팰린드롬 척화비](https://www.acmicpc.net/problem/20944) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 05. 09.  |
 | 15917 | [노솔브 방지문제야!!](https://www.acmicpc.net/problem/15917) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 05. 07.  |
 | 2061 | [좋은 암호](https://www.acmicpc.net/problem/2061) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 05. 06.  |
 | 20055 | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 05. 05.  |
@@ -21,4 +22,3 @@
 | 31775 | [글로벌 포닉스](https://www.acmicpc.net/problem/31775) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 05. 01.  |
 | 31746 | [SciComLove (2024)](https://www.acmicpc.net/problem/31746) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 05. 01.  |
 | 31668 | [특별한 가지](https://www.acmicpc.net/problem/31668) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 05. 01.  |
-| 31656 | [Sticky Keys](https://www.acmicpc.net/problem/31656) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 05. 01.  |
