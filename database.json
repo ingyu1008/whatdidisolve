@@ -13308,7 +13308,7 @@
 			},
 			{
 				"id": 21320,
-				"level": 15,
+				"level": 16,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc21c\uac04\uc774\ub3d9 \uc5ec\ud589",
@@ -16818,5 +16818,5 @@
 			}
 		]
 	},
-	"last_updated": "Fri May 17 06:15:15 2024"
+	"last_updated": "Fri May 17 12:18:59 2024"
 }
