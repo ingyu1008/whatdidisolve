@@ -10023,7 +10023,7 @@
 			},
 			{
 				"id": 14890,
-				"level": 12,
+				"level": 13,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uacbd\uc0ac\ub85c",
@@ -16818,5 +16818,5 @@
 			}
 		]
 	},
-	"last_updated": "Fri May 24 12:19:48 2024"
+	"last_updated": "Fri May 24 18:14:31 2024"
 }
