@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1868,
+		"total_problems": 1869,
 		"total_page": 1,
 		"problems": [
 			{
@@ -1605,6 +1605,15 @@
 				"title": "\ube44\uc20d",
 				"solved_count": 4915,
 				"average_try": 4.0903
+			},
+			{
+				"id": 1800,
+				"level": 15,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc778\ud130\ub137 \uc124\uce58",
+				"solved_count": 927,
+				"average_try": 2.9741
 			},
 			{
 				"id": 1806,
@@ -16818,5 +16827,5 @@
 			}
 		]
 	},
-	"last_updated": "Sat May 25 06:15:06 2024"
+	"last_updated": "Sat May 25 12:19:03 2024"
 }
