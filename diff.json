@@ -1,22 +1,3 @@
 {
-	"problems": [
-		{
-			"id": 9911,
-			"level": 14,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "ERP",
-			"solved_count": 5,
-			"average_try": 3.2
-		},
-		{
-			"id": 24538,
-			"level": 13,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc791\uc5c5 \uc77c\uc9c0",
-			"solved_count": 64,
-			"average_try": 1.7969
-		}
-	]
+	"problems": []
 }
