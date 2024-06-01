@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1878,
+		"total_problems": 1879,
 		"total_page": 1,
 		"problems": [
 			{
@@ -13046,6 +13046,15 @@
 				"average_try": 1.4127
 			},
 			{
+				"id": 20180,
+				"level": 22,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Two Buildings",
+				"solved_count": 103,
+				"average_try": 2.1068
+			},
+			{
 				"id": 20186,
 				"level": 7,
 				"level_locked": 0,
@@ -16908,5 +16917,5 @@
 			}
 		]
 	},
-	"last_updated": "Sat Jun  1 06:14:33 2024"
+	"last_updated": "Sat Jun  1 12:19:03 2024"
 }

@@ -1,3 +1,13 @@
 {
-	"problems": []
+	"problems": [
+		{
+			"id": 20180,
+			"level": 22,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Two Buildings",
+			"solved_count": 103,
+			"average_try": 2.1068
+		}
+	]
 }
