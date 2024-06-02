@@ -1,7 +1,8 @@
-올해 푼 문제 수: 280
+올해 푼 문제 수: 281
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 22283 | [Driving Lanes](https://www.acmicpc.net/problem/22283) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 06. 02.  |
 | 20180 | [Two Buildings](https://www.acmicpc.net/problem/20180) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> | 2024. 06. 01.  |
 | 24538 | [작업 일지](https://www.acmicpc.net/problem/24538) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 05. 31.  |
 | 9911 | [ERP](https://www.acmicpc.net/problem/9911) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | 2024. 05. 31.  |
@@ -21,4 +22,3 @@
 | 2023 | [신기한 소수](https://www.acmicpc.net/problem/2023) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 05. 03.  |
 | 2011 | [암호코드](https://www.acmicpc.net/problem/2011) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 05. 02.  |
 | 31775 | [글로벌 포닉스](https://www.acmicpc.net/problem/31775) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 05. 02.  |
-| 31746 | [SciComLove (2024)](https://www.acmicpc.net/problem/31746) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 05. 02.  |
