@@ -1,7 +1,8 @@
-올해 푼 문제 수: 301
+올해 푼 문제 수: 302
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 15486 | [퇴사 2](https://www.acmicpc.net/problem/15486) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 06. 03.  |
 | 31775 | [글로벌 포닉스](https://www.acmicpc.net/problem/31775) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 02.  |
 | 31746 | [SciComLove (2024)](https://www.acmicpc.net/problem/31746) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 02.  |
 | 31740 | [Split the SSHS 3](https://www.acmicpc.net/problem/31740) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 06. 02.  |
@@ -21,4 +22,3 @@
 | 31636 | [三連続 (Three Consecutive)](https://www.acmicpc.net/problem/31636) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 02.  |
 | 31631 | [:rightplant:](https://www.acmicpc.net/problem/31631) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 06. 02.  |
 | 31628 | [가지 한 두름 주세요](https://www.acmicpc.net/problem/31628) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 06. 02.  |
-| 31616 | [揃った文字 (Matched Letters)](https://www.acmicpc.net/problem/31616) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 02.  |
