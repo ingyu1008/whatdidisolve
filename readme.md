@@ -1,7 +1,8 @@
-올해 푼 문제 수: 302
+올해 푼 문제 수: 303
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 6824 | [A Weighty Problem](https://www.acmicpc.net/problem/6824) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 06. 04.  |
 | 15486 | [퇴사 2](https://www.acmicpc.net/problem/15486) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 06. 03.  |
 | 31775 | [글로벌 포닉스](https://www.acmicpc.net/problem/31775) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 02.  |
 | 31746 | [SciComLove (2024)](https://www.acmicpc.net/problem/31746) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 02.  |
@@ -21,4 +22,3 @@
 | 31654 | [Adding Trouble](https://www.acmicpc.net/problem/31654) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 06. 02.  |
 | 31636 | [三連続 (Three Consecutive)](https://www.acmicpc.net/problem/31636) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 02.  |
 | 31631 | [:rightplant:](https://www.acmicpc.net/problem/31631) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 06. 02.  |
-| 31628 | [가지 한 두름 주세요](https://www.acmicpc.net/problem/31628) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 06. 02.  |
