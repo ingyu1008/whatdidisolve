@@ -1,7 +1,10 @@
-올해 푼 문제 수: 303
+올해 푼 문제 수: 306
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 28118 | [안전한 건설 계획](https://www.acmicpc.net/problem/28118) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 06. 05.  |
+| 15167 | [Anticlockwise Motion](https://www.acmicpc.net/problem/15167) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | 2024. 06. 05.  |
+| 13684 | [Divisão da Nlogõnia](https://www.acmicpc.net/problem/13684) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 06. 05.  |
 | 6824 | [A Weighty Problem](https://www.acmicpc.net/problem/6824) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | 2024. 06. 04.  |
 | 15486 | [퇴사 2](https://www.acmicpc.net/problem/15486) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 06. 03.  |
 | 31775 | [글로벌 포닉스](https://www.acmicpc.net/problem/31775) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 02.  |
@@ -19,6 +22,3 @@
 | 31740 | [Split the SSHS 3](https://www.acmicpc.net/problem/31740) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 06. 02.  |
 | 31668 | [특별한 가지](https://www.acmicpc.net/problem/31668) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 02.  |
 | 31656 | [Sticky Keys](https://www.acmicpc.net/problem/31656) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 02.  |
-| 31654 | [Adding Trouble](https://www.acmicpc.net/problem/31654) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 06. 02.  |
-| 31636 | [三連続 (Three Consecutive)](https://www.acmicpc.net/problem/31636) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 02.  |
-| 31631 | [:rightplant:](https://www.acmicpc.net/problem/31631) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 06. 02.  |
