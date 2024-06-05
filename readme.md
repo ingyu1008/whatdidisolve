@@ -1,7 +1,8 @@
-올해 푼 문제 수: 306
+올해 푼 문제 수: 307
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 3145 | [지리지도](https://www.acmicpc.net/problem/3145) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> | 2024. 06. 05.  |
 | 28118 | [안전한 건설 계획](https://www.acmicpc.net/problem/28118) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 06. 05.  |
 | 15167 | [Anticlockwise Motion](https://www.acmicpc.net/problem/15167) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | 2024. 06. 05.  |
 | 13684 | [Divisão da Nlogõnia](https://www.acmicpc.net/problem/13684) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 06. 05.  |
@@ -21,4 +22,3 @@
 | 31746 | [SciComLove (2024)](https://www.acmicpc.net/problem/31746) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 02.  |
 | 31740 | [Split the SSHS 3](https://www.acmicpc.net/problem/31740) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 06. 02.  |
 | 31668 | [특별한 가지](https://www.acmicpc.net/problem/31668) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 02.  |
-| 31656 | [Sticky Keys](https://www.acmicpc.net/problem/31656) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 02.  |
