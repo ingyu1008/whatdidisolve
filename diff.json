@@ -1,94 +1,76 @@
 {
 	"problems": [
 		{
-			"id": 31616,
-			"level": 2,
+			"id": 1525,
+			"level": 14,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
-			"solved_count": 278,
-			"average_try": 1.1763
+			"title": "\ud37c\uc990",
+			"solved_count": 4953,
+			"average_try": 2.3693
 		},
 		{
-			"id": 31628,
-			"level": 3,
+			"id": 1917,
+			"level": 15,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\uac00\uc9c0 \ud55c \ub450\ub984 \uc8fc\uc138\uc694",
-			"solved_count": 617,
-			"average_try": 1.5446
+			"title": "\uc815\uc721\uba74\uccb4 \uc804\uac1c\ub3c4",
+			"solved_count": 443,
+			"average_try": 2.5576
 		},
 		{
-			"id": 31631,
-			"level": 13,
+			"id": 5557,
+			"level": 11,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": ":rightplant:",
-			"solved_count": 203,
-			"average_try": 2.9261
+			"title": "1\ud559\ub144",
+			"solved_count": 7382,
+			"average_try": 2.1512
 		},
 		{
-			"id": 31636,
-			"level": 2,
+			"id": 5582,
+			"level": 11,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\u4e09\u9023\u7d9a (Three Consecutive)",
-			"solved_count": 321,
-			"average_try": 1.324
+			"title": "\uacf5\ud1b5 \ubd80\ubd84 \ubb38\uc790\uc5f4",
+			"solved_count": 6223,
+			"average_try": 2.3649
 		},
 		{
-			"id": 31654,
-			"level": 1,
+			"id": 7490,
+			"level": 11,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "Adding Trouble",
-			"solved_count": 945,
-			"average_try": 1.1852
+			"title": "0 \ub9cc\ub4e4\uae30",
+			"solved_count": 3446,
+			"average_try": 2.0514
 		},
 		{
-			"id": 31656,
-			"level": 2,
+			"id": 12904,
+			"level": 11,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "Sticky Keys",
-			"solved_count": 291,
-			"average_try": 1.5945
+			"title": "A\uc640 B",
+			"solved_count": 7050,
+			"average_try": 2.138
 		},
 		{
-			"id": 31668,
-			"level": 2,
+			"id": 12919,
+			"level": 11,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\ud2b9\ubcc4\ud55c \uac00\uc9c0",
-			"solved_count": 611,
-			"average_try": 1.1489
+			"title": "A\uc640 B 2",
+			"solved_count": 3726,
+			"average_try": 3.1685
 		},
 		{
-			"id": 31740,
-			"level": 12,
+			"id": 17609,
+			"level": 11,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "Split the SSHS 3",
-			"solved_count": 73,
-			"average_try": 1.7123
-		},
-		{
-			"id": 31746,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "SciComLove (2024)",
-			"solved_count": 456,
-			"average_try": 1.2237
-		},
-		{
-			"id": 31775,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uae00\ub85c\ubc8c \ud3ec\ub2c9\uc2a4",
-			"solved_count": 631,
-			"average_try": 1.6989
+			"title": "\ud68c\ubb38",
+			"solved_count": 5777,
+			"average_try": 3.4625
 		}
 	]
 }
