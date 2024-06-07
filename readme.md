@@ -1,7 +1,8 @@
-올해 푼 문제 수: 339
+올해 푼 문제 수: 340
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 10986 | [나머지 합](https://www.acmicpc.net/problem/10986) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | 2024. 06. 07.  |
 | 17609 | [회문](https://www.acmicpc.net/problem/17609) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 06. 07.  |
 | 12919 | [A와 B 2](https://www.acmicpc.net/problem/12919) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 06. 07.  |
 | 12904 | [A와 B](https://www.acmicpc.net/problem/12904) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | 2024. 06. 07.  |
@@ -21,4 +22,3 @@
 | 31628 | [가지 한 두름 주세요](https://www.acmicpc.net/problem/31628) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 06. 07.  |
 | 31616 | [揃った文字 (Matched Letters)](https://www.acmicpc.net/problem/31616) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 07.  |
 | 31775 | [글로벌 포닉스](https://www.acmicpc.net/problem/31775) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 06.  |
-| 31746 | [SciComLove (2024)](https://www.acmicpc.net/problem/31746) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 06.  |
