@@ -8,6 +8,106 @@
 			"title": "\uae00\ub85c\ubc8c \ud3ec\ub2c9\uc2a4",
 			"solved_count": 631,
 			"average_try": 1.6989,
+			"update_date": "Fri Jun  7 00:52:10 2024"
+		},
+		{
+			"id": 31746,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "SciComLove (2024)",
+			"solved_count": 456,
+			"average_try": 1.2237,
+			"update_date": "Fri Jun  7 00:52:10 2024"
+		},
+		{
+			"id": 31740,
+			"level": 12,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Split the SSHS 3",
+			"solved_count": 73,
+			"average_try": 1.7123,
+			"update_date": "Fri Jun  7 00:52:10 2024"
+		},
+		{
+			"id": 31668,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud2b9\ubcc4\ud55c \uac00\uc9c0",
+			"solved_count": 611,
+			"average_try": 1.1489,
+			"update_date": "Fri Jun  7 00:52:10 2024"
+		},
+		{
+			"id": 31656,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Sticky Keys",
+			"solved_count": 291,
+			"average_try": 1.5945,
+			"update_date": "Fri Jun  7 00:52:10 2024"
+		},
+		{
+			"id": 31654,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Adding Trouble",
+			"solved_count": 945,
+			"average_try": 1.1852,
+			"update_date": "Fri Jun  7 00:52:10 2024"
+		},
+		{
+			"id": 31636,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u4e09\u9023\u7d9a (Three Consecutive)",
+			"solved_count": 321,
+			"average_try": 1.324,
+			"update_date": "Fri Jun  7 00:52:10 2024"
+		},
+		{
+			"id": 31631,
+			"level": 13,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": ":rightplant:",
+			"solved_count": 203,
+			"average_try": 2.9261,
+			"update_date": "Fri Jun  7 00:52:10 2024"
+		},
+		{
+			"id": 31628,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uac00\uc9c0 \ud55c \ub450\ub984 \uc8fc\uc138\uc694",
+			"solved_count": 617,
+			"average_try": 1.5446,
+			"update_date": "Fri Jun  7 00:52:10 2024"
+		},
+		{
+			"id": 31616,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u63c3\u3063\u305f\u6587\u5b57 (Matched Letters)",
+			"solved_count": 278,
+			"average_try": 1.1763,
+			"update_date": "Fri Jun  7 00:52:10 2024"
+		},
+		{
+			"id": 31775,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uae00\ub85c\ubc8c \ud3ec\ub2c9\uc2a4",
+			"solved_count": 631,
+			"average_try": 1.6989,
 			"update_date": "Thu Jun  6 18:14:07 2024"
 		},
 		{
@@ -3211,5 +3311,5 @@
 			"update_date": "Sat Jan 20 05:51:17 2024"
 		}
 	],
-	"last_updated": "Thu Jun  6 18:14:07 2024"
+	"last_updated": "Fri Jun  7 00:52:10 2024"
 }
