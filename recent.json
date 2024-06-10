@@ -1,6 +1,16 @@
 {
 	"problems": [
 		{
+			"id": 31922,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc774 \ub300\ud68c\ub294 \uc774\uc81c \uc81c \uac81\ub2c8\ub2e4",
+			"solved_count": 571,
+			"average_try": 1.3643,
+			"update_date": "Mon Jun 10 18:14:58 2024"
+		},
+		{
 			"id": 30979,
 			"level": 2,
 			"level_locked": 0,
@@ -3421,5 +3431,5 @@
 			"update_date": "Sat Jan 20 05:51:17 2024"
 		}
 	],
-	"last_updated": "Mon Jun 10 06:17:14 2024"
+	"last_updated": "Mon Jun 10 18:14:58 2024"
 }
