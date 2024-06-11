@@ -9114,7 +9114,7 @@
 			},
 			{
 				"id": 13316,
-				"level": 15,
+				"level": 14,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "std::\uc815\ub82c\ubd80\ud130 \uc2dc\uc791\ud558\ub294 \ub514\ubc84\uae45 \uc0dd\ud65c",
@@ -17124,5 +17124,5 @@
 			}
 		]
 	},
-	"last_updated": "Tue Jun 11 00:51:11 2024"
+	"last_updated": "Tue Jun 11 06:15:29 2024"
 }
