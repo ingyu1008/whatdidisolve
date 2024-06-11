@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1902,
+		"total_problems": 1903,
 		"total_page": 1,
 		"problems": [
 			{
@@ -6360,7 +6360,7 @@
 			},
 			{
 				"id": 9411,
-				"level": 13,
+				"level": 12,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc2e4\uc218 \uacc4\uc0b0",
@@ -17114,6 +17114,15 @@
 				"average_try": 1.6897
 			},
 			{
+				"id": 31821,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ud559\uc2dd \uc0ac\uc8fc\uae30",
+				"solved_count": 534,
+				"average_try": 1.1592
+			},
+			{
 				"id": 31922,
 				"level": 2,
 				"level_locked": 0,
@@ -17124,5 +17133,5 @@
 			}
 		]
 	},
-	"last_updated": "Tue Jun 11 12:21:29 2024"
+	"last_updated": "Tue Jun 11 18:16:03 2024"
 }
