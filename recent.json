@@ -1,6 +1,16 @@
 {
 	"problems": [
 		{
+			"id": 29160,
+			"level": 9,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub098\uc758 FIFA \ud300 \uac00\uce58\ub294?",
+			"solved_count": 330,
+			"average_try": 2.9061,
+			"update_date": "Thu Jun 13 06:15:43 2024"
+		},
+		{
 			"id": 31922,
 			"level": 2,
 			"level_locked": 0,
@@ -3641,5 +3651,5 @@
 			"update_date": "Sat Jan 20 05:51:17 2024"
 		}
 	],
-	"last_updated": "Thu Jun 13 00:50:35 2024"
+	"last_updated": "Thu Jun 13 06:15:43 2024"
 }

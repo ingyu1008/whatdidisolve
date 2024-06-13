@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1906,
+		"total_problems": 1907,
 		"total_page": 1,
 		"problems": [
 			{
@@ -16187,6 +16187,15 @@
 				"average_try": 2.2559
 			},
 			{
+				"id": 29160,
+				"level": 9,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ub098\uc758 FIFA \ud300 \uac00\uce58\ub294?",
+				"solved_count": 330,
+				"average_try": 2.9061
+			},
+			{
 				"id": 29163,
 				"level": 1,
 				"level_locked": 0,
@@ -17128,8 +17137,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud559\uc2dd \uc0ac\uc8fc\uae30",
-				"solved_count": 547,
-				"average_try": 1.1609
+				"solved_count": 553,
+				"average_try": 1.1591
 			},
 			{
 				"id": 31822,
@@ -17160,5 +17169,5 @@
 			}
 		]
 	},
-	"last_updated": "Thu Jun 13 00:50:35 2024"
+	"last_updated": "Thu Jun 13 06:15:43 2024"
 }
