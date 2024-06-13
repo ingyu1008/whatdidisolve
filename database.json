@@ -2625,8 +2625,8 @@
 			},
 			{
 				"id": 2372,
-				"level": 1,
-				"level_locked": 0,
+				"level": 0,
+				"level_locked": 1,
 				"solvable": 1,
 				"title": "Livestock Count",
 				"solved_count": 2596,
@@ -2634,8 +2634,8 @@
 			},
 			{
 				"id": 2377,
-				"level": 1,
-				"level_locked": 0,
+				"level": 0,
+				"level_locked": 1,
 				"solvable": 1,
 				"title": "Pottery",
 				"solved_count": 2413,
@@ -9753,8 +9753,8 @@
 			},
 			{
 				"id": 14337,
-				"level": 1,
-				"level_locked": 0,
+				"level": 0,
+				"level_locked": 1,
 				"solvable": 1,
 				"title": "Helicopter",
 				"solved_count": 1739,
@@ -17169,5 +17169,5 @@
 			}
 		]
 	},
-	"last_updated": "Thu Jun 13 06:15:43 2024"
+	"last_updated": "Thu Jun 13 12:20:52 2024"
 }
