@@ -17164,8 +17164,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud640\uc9dd\ud640\uc9dd",
-				"solved_count": 437,
-				"average_try": 1.4142
+				"solved_count": 445,
+				"average_try": 1.4067
 			},
 			{
 				"id": 31922,
@@ -17178,5 +17178,5 @@
 			}
 		]
 	},
-	"last_updated": "Fri Jun 14 12:20:33 2024"
+	"last_updated": "Fri Jun 14 18:15:45 2024"
 }
