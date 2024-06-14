@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1907,
+		"total_problems": 1908,
 		"total_page": 1,
 		"problems": [
 			{
@@ -14099,6 +14099,15 @@
 				"average_try": 1.2719
 			},
 			{
+				"id": 23843,
+				"level": 11,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ucf58\uc13c\ud2b8",
+				"solved_count": 699,
+				"average_try": 2.0072
+			},
+			{
 				"id": 23863,
 				"level": 24,
 				"level_locked": 0,
@@ -17169,5 +17178,5 @@
 			}
 		]
 	},
-	"last_updated": "Fri Jun 14 00:50:49 2024"
+	"last_updated": "Fri Jun 14 06:16:25 2024"
 }
