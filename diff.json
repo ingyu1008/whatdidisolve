@@ -1,13 +1,3 @@
 {
-	"problems": [
-		{
-			"id": 31048,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Last Factorial Digit",
-			"solved_count": 204,
-			"average_try": 1.1863
-		}
-	]
+	"problems": []
 }
