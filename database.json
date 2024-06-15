@@ -17155,8 +17155,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud559\uc2dd \uc0ac\uc8fc\uae30",
-				"solved_count": 560,
-				"average_try": 1.1571
+				"solved_count": 564,
+				"average_try": 1.156
 			},
 			{
 				"id": 31822,
@@ -17187,5 +17187,5 @@
 			}
 		]
 	},
-	"last_updated": "Sat Jun 15 12:19:41 2024"
+	"last_updated": "Sat Jun 15 18:14:53 2024"
 }
