@@ -1,6 +1,16 @@
 {
 	"problems": [
 		{
+			"id": 31048,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Last Factorial Digit",
+			"solved_count": 204,
+			"average_try": 1.1863,
+			"update_date": "Sat Jun 15 06:14:31 2024"
+		},
+		{
 			"id": 23843,
 			"level": 11,
 			"level_locked": 0,
@@ -3661,5 +3671,5 @@
 			"update_date": "Sat Jan 20 05:51:17 2024"
 		}
 	],
-	"last_updated": "Sat Jun 15 00:50:42 2024"
+	"last_updated": "Sat Jun 15 06:14:31 2024"
 }

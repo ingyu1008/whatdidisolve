@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1908,
+		"total_problems": 1909,
 		"total_page": 1,
 		"problems": [
 			{
@@ -16727,6 +16727,15 @@
 				"average_try": 1.3244
 			},
 			{
+				"id": 31048,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Last Factorial Digit",
+				"solved_count": 204,
+				"average_try": 1.1863
+			},
+			{
 				"id": 31090,
 				"level": 2,
 				"level_locked": 0,
@@ -17178,5 +17187,5 @@
 			}
 		]
 	},
-	"last_updated": "Sat Jun 15 00:50:42 2024"
+	"last_updated": "Sat Jun 15 06:14:31 2024"
 }
