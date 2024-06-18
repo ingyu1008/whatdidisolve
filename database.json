@@ -11823,7 +11823,7 @@
 			},
 			{
 				"id": 17374,
-				"level": 9,
+				"level": 10,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ube44\ud2b8\ubca0\ub9ac",
@@ -17214,5 +17214,5 @@
 			}
 		]
 	},
-	"last_updated": "Tue Jun 18 12:20:53 2024"
+	"last_updated": "Tue Jun 18 18:15:39 2024"
 }
