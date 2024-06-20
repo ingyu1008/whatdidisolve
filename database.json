@@ -12264,7 +12264,7 @@
 			},
 			{
 				"id": 17951,
-				"level": 12,
+				"level": 13,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud769\ub0a0\ub9ac\ub294 \uc2dc\ud5d8\uc9c0 \uc18d\uc5d0\uc11c \ub0b4 \ud3c9\uc810\uc774 \ub290\uaef4\uc9c4\uac70\uc57c",
@@ -17223,5 +17223,5 @@
 			}
 		]
 	},
-	"last_updated": "Thu Jun 20 06:15:58 2024"
+	"last_updated": "Thu Jun 20 12:20:39 2024"
 }
