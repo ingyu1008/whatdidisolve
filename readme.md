@@ -1,7 +1,8 @@
-올해 푼 문제 수: 391
+올해 푼 문제 수: 392
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 31994 | [강당 대관](https://www.acmicpc.net/problem/31994) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 22.  |
 | 31962 | [등교](https://www.acmicpc.net/problem/31962) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 20.  |
 | 25178 | [두라무리 휴지](https://www.acmicpc.net/problem/25178) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> | 2024. 06. 19.  |
 | 29267 | [Случай с игрой](https://www.acmicpc.net/problem/29267) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 18.  |
@@ -21,4 +22,3 @@
 | 31821 | [학식 사주기](https://www.acmicpc.net/problem/31821) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 17.  |
 | 31775 | [글로벌 포닉스](https://www.acmicpc.net/problem/31775) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 17.  |
 | 31746 | [SciComLove (2024)](https://www.acmicpc.net/problem/31746) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 17.  |
-| 31740 | [Split the SSHS 3](https://www.acmicpc.net/problem/31740) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 06. 17.  |
