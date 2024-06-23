@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1915,
+		"total_problems": 1916,
 		"total_page": 1,
 		"problems": [
 			{
@@ -312,7 +312,7 @@
 			},
 			{
 				"id": 1074,
-				"level": 10,
+				"level": 11,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Z",
@@ -16781,6 +16781,15 @@
 				"average_try": 1.3508
 			},
 			{
+				"id": 31134,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "A Hero Named Magnus",
+				"solved_count": 135,
+				"average_try": 1.8593
+			},
+			{
 				"id": 31230,
 				"level": 13,
 				"level_locked": 0,
@@ -17236,10 +17245,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uac15\ub2f9 \ub300\uad00",
-				"solved_count": 201,
-				"average_try": 1.1493
+				"solved_count": 205,
+				"average_try": 1.1561
 			}
 		]
 	},
-	"last_updated": "Sun Jun 23 06:15:33 2024"
+	"last_updated": "Sun Jun 23 12:19:40 2024"
 }
