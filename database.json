@@ -4524,7 +4524,7 @@
 			},
 			{
 				"id": 4179,
-				"level": 13,
+				"level": 12,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubd88!",
@@ -17218,8 +17218,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc774 \ub300\ud68c\ub294 \uc774\uc81c \uc81c \uac81\ub2c8\ub2e4",
-				"solved_count": 654,
-				"average_try": 1.37
+				"solved_count": 656,
+				"average_try": 1.3689
 			},
 			{
 				"id": 31962,
@@ -17236,10 +17236,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uac15\ub2f9 \ub300\uad00",
-				"solved_count": 194,
-				"average_try": 1.1495
+				"solved_count": 201,
+				"average_try": 1.1493
 			}
 		]
 	},
-	"last_updated": "Sun Jun 23 00:54:15 2024"
+	"last_updated": "Sun Jun 23 06:15:33 2024"
 }
