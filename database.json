@@ -17245,8 +17245,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub4f1\uad50",
-				"solved_count": 239,
-				"average_try": 1.477
+				"solved_count": 243,
+				"average_try": 1.4691
 			},
 			{
 				"id": 31994,
@@ -17254,10 +17254,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uac15\ub2f9 \ub300\uad00",
-				"solved_count": 229,
-				"average_try": 1.1703
+				"solved_count": 230,
+				"average_try": 1.1696
 			}
 		]
 	},
-	"last_updated": "Tue Jun 25 06:15:59 2024"
+	"last_updated": "Tue Jun 25 12:20:43 2024"
 }
