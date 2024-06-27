@@ -1,7 +1,8 @@
-올해 푼 문제 수: 395
+올해 푼 문제 수: 396
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 17094 | [Serious Problem](https://www.acmicpc.net/problem/17094) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 06. 27.  |
 | 22938 | [백발백준하는 명사수](https://www.acmicpc.net/problem/22938) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 06. 26.  |
 | 30802 | [웰컴 키트](https://www.acmicpc.net/problem/30802) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 06. 24.  |
 | 31134 | [A Hero Named Magnus](https://www.acmicpc.net/problem/31134) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 23.  |
@@ -21,4 +22,3 @@
 | 31654 | [Adding Trouble](https://www.acmicpc.net/problem/31654) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 06. 17.  |
 | 31922 | [이 대회는 이제 제 겁니다](https://www.acmicpc.net/problem/31922) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 17.  |
 | 31867 | [홀짝홀짝](https://www.acmicpc.net/problem/31867) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 17.  |
-| 31822 | [재수강](https://www.acmicpc.net/problem/31822) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 17.  |

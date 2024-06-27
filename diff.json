@@ -1,3 +1,13 @@
 {
-	"problems": []
+	"problems": [
+		{
+			"id": 17094,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Serious Problem",
+			"solved_count": 1444,
+			"average_try": 1.376
+		}
+	]
 }
