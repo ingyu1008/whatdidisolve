@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1919,
+		"total_problems": 1920,
 		"total_page": 1,
 		"problems": [
 			{
@@ -4737,6 +4737,15 @@
 				"title": "\ucea0\ud551",
 				"solved_count": 10886,
 				"average_try": 2.5343
+			},
+			{
+				"id": 4806,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc904 \uc138\uae30",
+				"solved_count": 1391,
+				"average_try": 1.5176
 			},
 			{
 				"id": 4811,
@@ -17277,5 +17286,5 @@
 			}
 		]
 	},
-	"last_updated": "Fri Jun 28 06:15:51 2024"
+	"last_updated": "Fri Jun 28 18:14:33 2024"
 }
