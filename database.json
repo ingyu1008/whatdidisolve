@@ -5469,7 +5469,7 @@
 			},
 			{
 				"id": 6531,
-				"level": 16,
+				"level": 15,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc774\ub7f0 \ubb38\uc81c\ub294 \uc720\uce58\uc6d0\uc0dd\ub3c4 \ud574\uacb0\ud560 \uc218 \uc788\uc5b4",
@@ -17277,5 +17277,5 @@
 			}
 		]
 	},
-	"last_updated": "Fri Jun 28 00:51:27 2024"
+	"last_updated": "Fri Jun 28 06:15:51 2024"
 }
