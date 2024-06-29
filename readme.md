@@ -1,7 +1,8 @@
-올해 푼 문제 수: 397
+올해 푼 문제 수: 398
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 17350 | [2루수 이름이 뭐야](https://www.acmicpc.net/problem/17350) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 06. 29.  |
 | 4806 | [줄 세기](https://www.acmicpc.net/problem/4806) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 06. 28.  |
 | 17094 | [Serious Problem](https://www.acmicpc.net/problem/17094) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 06. 27.  |
 | 22938 | [백발백준하는 명사수](https://www.acmicpc.net/problem/22938) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 06. 26.  |
@@ -21,4 +22,3 @@
 | 31668 | [특별한 가지](https://www.acmicpc.net/problem/31668) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 17.  |
 | 31656 | [Sticky Keys](https://www.acmicpc.net/problem/31656) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 17.  |
 | 31654 | [Adding Trouble](https://www.acmicpc.net/problem/31654) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | 2024. 06. 17.  |
-| 31922 | [이 대회는 이제 제 겁니다](https://www.acmicpc.net/problem/31922) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 17.  |
