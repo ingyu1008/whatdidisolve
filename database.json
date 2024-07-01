@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1922,
+		"total_problems": 1923,
 		"total_page": 1,
 		"problems": [
 			{
@@ -4557,6 +4557,15 @@
 				"title": "AFC \uc714\ube14\ub358",
 				"solved_count": 5244,
 				"average_try": 3.3234
+			},
+			{
+				"id": 4315,
+				"level": 15,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ub098\ubb34 \uc704\uc758 \uad6c\uc2ac",
+				"solved_count": 100,
+				"average_try": 2.15
 			},
 			{
 				"id": 4344,
@@ -17304,5 +17313,5 @@
 			}
 		]
 	},
-	"last_updated": "Mon Jul  1 00:57:05 2024"
+	"last_updated": "Mon Jul  1 06:17:49 2024"
 }
