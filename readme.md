@@ -1,7 +1,8 @@
-올해 푼 문제 수: 400
+올해 푼 문제 수: 401
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 날짜 |
 | --- | --- | --- | --- |
+| 2041 | [숫자채우기](https://www.acmicpc.net/problem/2041) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> | 2024. 07. 02.  |
 | 4315 | [나무 위의 구슬](https://www.acmicpc.net/problem/4315) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | 2024. 07. 01.  |
 | 9469 | [폰 노이만](https://www.acmicpc.net/problem/9469) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 06. 30.  |
 | 17350 | [2루수 이름이 뭐야](https://www.acmicpc.net/problem/17350) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | 2024. 06. 29.  |
@@ -21,4 +22,3 @@
 | 31775 | [글로벌 포닉스](https://www.acmicpc.net/problem/31775) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 17.  |
 | 31746 | [SciComLove (2024)](https://www.acmicpc.net/problem/31746) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 17.  |
 | 31740 | [Split the SSHS 3](https://www.acmicpc.net/problem/31740) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | 2024. 06. 17.  |
-| 31668 | [특별한 가지](https://www.acmicpc.net/problem/31668) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | 2024. 06. 17.  |
