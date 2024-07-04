@@ -17317,8 +17317,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub4f1\uad50",
-				"solved_count": 309,
-				"average_try": 1.5049
+				"solved_count": 315,
+				"average_try": 1.5048
 			},
 			{
 				"id": 31994,
@@ -17331,5 +17331,5 @@
 			}
 		]
 	},
-	"last_updated": "Thu Jul  4 12:20:45 2024"
+	"last_updated": "Thu Jul  4 18:14:44 2024"
 }
