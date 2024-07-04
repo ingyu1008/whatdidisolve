@@ -17308,8 +17308,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc774 \ub300\ud68c\ub294 \uc774\uc81c \uc81c \uac81\ub2c8\ub2e4",
-				"solved_count": 693,
-				"average_try": 1.3766
+				"solved_count": 700,
+				"average_try": 1.38
 			},
 			{
 				"id": 31962,
@@ -17331,5 +17331,5 @@
 			}
 		]
 	},
-	"last_updated": "Thu Jul  4 00:51:40 2024"
+	"last_updated": "Thu Jul  4 06:16:26 2024"
 }
