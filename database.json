@@ -6315,7 +6315,7 @@
 			},
 			{
 				"id": 9295,
-				"level": 3,
+				"level": 2,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc8fc\uc0ac\uc704",
@@ -17331,5 +17331,5 @@
 			}
 		]
 	},
-	"last_updated": "Fri Jul  5 00:51:26 2024"
+	"last_updated": "Fri Jul  5 06:16:53 2024"
 }
