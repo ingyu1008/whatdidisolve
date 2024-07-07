@@ -4,10 +4,10 @@ name: Auto Update Database
 
 # Controls when the action will run.
 on:
-  schedule:
-    - cron: '0 */6 * * *'
-  push:
-    branches: [master]
+  # schedule:
+    # - cron: '0 */6 * * *'
+  # push:
+  #   branches: [master]
   #allows manual run
   workflow_dispatch:
 
